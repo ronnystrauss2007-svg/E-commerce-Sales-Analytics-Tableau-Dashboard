@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+CA-2025-10001,2024-08-20,2024-08-22,Standard Class,CUST-173,Mrs. Amanda Garcia,Home Office,United States,Ronaldberg,Pennsylvania,East,Electronics,Laptops,Laptops - Model Throughout,1344.95,1,0.3,195.58
+CA-2025-10002,2023-06-29,2023-07-02,Second Class,CUST-131,Grace Ortiz,Corporate,United States,Lake Jonathanfurt,Alaska,West,Electronics,Laptops,Laptops - Model Religious,1004.11,6,0.5,195.2
+CA-2025-10003,2024-09-29,2024-10-04,Second Class,CUST-243,Samuel Lowe,Home Office,United States,Heatherbury,Mississippi,South,Electronics,Smartphones,Smartphones - Model Others,1124.59,6,0.5,214.33
+CA-2025-10004,2023-01-25,2023-01-27,Second Class,CUST-196,Dennis Bentley,Consumer,United States,New Heatherview,California,East,Electronics,Laptops,Laptops - Model Degree,1253.09,6,0.3,134.57
+CA-2025-10005,2024-08-11,2024-08-16,Same Day,CUST-243,Zachary Cantu,Consumer,United States,East Stephenberg,New Mexico,West,Electronics,Smartphones,Smartphones - Model Value,667.76,8,0.2,205.38
+CA-2025-10006,2025-01-30,2025-02-01,First Class,CUST-254,Alexis Greene,Consumer,United States,Hensonport,Indiana,East,Electronics,Accessories,Accessories - Model Hand,1071.39,9,0.1,382.36
+CA-2025-10007,2024-03-15,2024-03-20,First Class,CUST-119,Ricky Burke,Home Office,United States,Meganfurt,Colorado,East,Furniture,Tables,Tables - Model Ground,1380.89,9,0.3,209.08
+CA-2025-10008,2023-03-20,2023-03-21,Second Class,CUST-265,Katie Greer,Corporate,United States,Port Evelyn,Oklahoma,South,Electronics,Audio,Audio - Model Price,327.32,4,0.0,102.41
+CA-2025-10009,2025-01-29,2025-01-31,Same Day,CUST-141,Miranda Perez,Corporate,United States,Martinmouth,Oregon,South,Office Supplies,Storage,Storage - Model Business,1325.34,5,0.2,311.38
+CA-2025-10010,2024-03-27,2024-03-28,Same Day,CUST-141,Brenda Morales,Corporate,United States,Jacksonshire,Maine,West,Electronics,Audio,Audio - Model Three,1393.41,2,0.1,378.61
+CA-2025-10011,2024-08-13,2024-08-18,Standard Class,CUST-229,Daisy Williams,Home Office,United States,Catherineland,Texas,West,Electronics,Laptops,Laptops - Model Author,1022.2,4,0.2,300.18
+CA-2025-10012,2024-02-26,2024-02-29,Standard Class,CUST-134,Michael Tate,Home Office,United States,Millerport,Ohio,East,Furniture,Tables,Tables - Model Father,1499.06,4,0.1,567.81
+CA-2025-10013,2024-01-17,2024-01-18,First Class,CUST-227,Tyler Davis,Corporate,United States,Port Sharon,Virginia,Central,Office Supplies,Paper,Paper - Model Table,551.59,5,0.5,96.94
+CA-2025-10014,2023-06-12,2023-06-16,Standard Class,CUST-235,Beverly Robinson,Consumer,United States,Adamstad,Minnesota,East,Furniture,Furnishings,Furnishings - Model Forget,536.12,4,0.0,89.63
+CA-2025-10015,2025-04-25,2025-04-28,Standard Class,CUST-100,Stephanie Schroeder,Consumer,United States,Port Patrick,Washington,West,Office Supplies,Paper,Paper - Model Lay,469.18,4,0.1,176.21
+CA-2025-10016,2024-09-08,2024-09-13,Second Class,CUST-253,Kaitlyn Morales,Corporate,United States,Davidmouth,Florida,Central,Electronics,Smartphones,Smartphones - Model Special,578.32,9,0.0,165.25
+CA-2025-10017,2023-06-09,2023-06-12,Same Day,CUST-192,Jacqueline Gregory,Home Office,United States,West Barry,Tennessee,Central,Office Supplies,Art,Art - Model Nothing,536.76,2,0.5,53.43
+CA-2025-10018,2023-04-04,2023-04-08,Standard Class,CUST-156,Valerie Carr,Corporate,United States,Jenniferburgh,Ohio,Central,Electronics,Audio,Audio - Model Degree,1082.65,4,0.0,489.84
+CA-2025-10019,2024-01-29,2024-02-02,Standard Class,CUST-279,Crystal Dorsey,Corporate,United States,New Melissamouth,Vermont,West,Furniture,Furnishings,Furnishings - Model Growth,235.9,1,0.2,35.6
+CA-2025-10020,2024-08-31,2024-09-03,Standard Class,CUST-197,Nancy Armstrong,Consumer,United States,New Diana,Wyoming,Central,Furniture,Chairs,Chairs - Model Writer,1011.5,3,0.1,325.09
+CA-2025-10021,2023-08-30,2023-09-02,Second Class,CUST-294,Jerry Simpson,Home Office,United States,Katherinefort,Pennsylvania,West,Furniture,Bookcases,Bookcases - Model What,634.01,6,0.2,199.73
+CA-2025-10022,2023-06-30,2023-07-05,Second Class,CUST-224,Justin Baxter,Home Office,United States,Stanleyton,Washington,South,Furniture,Bookcases,Bookcases - Model Physical,799.89,7,0.3,206.11
+CA-2025-10023,2023-11-09,2023-11-10,Second Class,CUST-295,Angela Mueller,Home Office,United States,Johnsonburgh,Kansas,East,Furniture,Chairs,Chairs - Model Boy,529.34,6,0.0,160.3
+CA-2025-10024,2025-12-19,2025-12-24,Standard Class,CUST-291,Samantha Smith,Corporate,United States,Lake Albert,New Hampshire,East,Office Supplies,Art,Art - Model Watch,795.58,6,0.2,190.58
+CA-2025-10025,2025-10-30,2025-10-31,First Class,CUST-242,Richard Gomez,Home Office,United States,Brianberg,Ohio,Central,Electronics,Smartphones,Smartphones - Model Avoid,760.24,6,0.3,88.47
+CA-2025-10026,2023-02-19,2023-02-20,Standard Class,CUST-183,Jennifer Clark,Home Office,United States,West Dana,North Dakota,East,Office Supplies,Paper,Paper - Model Pm,1047.64,5,0.1,321.12
+CA-2025-10027,2023-12-12,2023-12-17,Second Class,CUST-232,Lisa Cook,Consumer,United States,Fergusonside,Utah,East,Office Supplies,Storage,Storage - Model Make,397.22,5,0.0,127.6
+CA-2025-10028,2025-05-12,2025-05-16,First Class,CUST-161,Gerald Smith,Consumer,United States,Kimberlyshire,Alaska,Central,Electronics,Audio,Audio - Model Clearly,752.27,4,0.0,331.14
+CA-2025-10029,2024-01-26,2024-01-27,Standard Class,CUST-217,Kenneth Jones,Home Office,United States,East Donald,Arkansas,South,Office Supplies,Binders,Binders - Model Play,1257.01,2,0.3,204.7
+CA-2025-10030,2025-10-10,2025-10-15,Second Class,CUST-278,Paige Fernandez,Consumer,United States,Suarezland,Louisiana,Central,Electronics,Laptops,Laptops - Model Business,381.63,9,0.0,59.46
+CA-2025-10031,2025-11-05,2025-11-07,First Class,CUST-297,Patricia Parker,Corporate,United States,Melissastad,Florida,East,Electronics,Accessories,Accessories - Model Later,1036.97,1,0.3,323.4
+CA-2025-10032,2023-03-21,2023-03-24,Standard Class,CUST-193,Nicholas Walker,Corporate,United States,New Sarahton,Florida,Central,Furniture,Bookcases,Bookcases - Model Number,881.33,1,0.0,193.63
+CA-2025-10033,2023-10-06,2023-10-09,Same Day,CUST-225,Mrs. Lisa Davis DVM,Corporate,United States,West Lisa,Hawaii,West,Electronics,Audio,Audio - Model To,236.21,5,0.5,19.99
+CA-2025-10034,2025-12-19,2025-12-23,Second Class,CUST-225,James Gordon,Corporate,United States,North Lindashire,Oregon,Central,Office Supplies,Paper,Paper - Model Fact,1023.54,10,0.5,207.5
+CA-2025-10035,2023-01-27,2023-02-01,Standard Class,CUST-149,George Serrano,Consumer,United States,Claudiaberg,Illinois,South,Electronics,Laptops,Laptops - Model Middle,413.16,8,0.0,141.36
+CA-2025-10036,2024-08-10,2024-08-12,Second Class,CUST-104,Kimberly Black,Home Office,United States,Lake Jonathanburgh,Michigan,East,Electronics,Audio,Audio - Model Activity,303.17,1,0.1,83.72
+CA-2025-10037,2023-08-11,2023-08-13,First Class,CUST-250,Danielle Walker,Home Office,United States,West Ronaldport,Nebraska,East,Office Supplies,Paper,Paper - Model Color,69.96,10,0.2,10.01
+CA-2025-10038,2023-05-24,2023-05-27,Second Class,CUST-141,Michael Morales,Home Office,United States,Stevenhaven,North Dakota,West,Electronics,Audio,Audio - Model Major,77.0,2,0.3,14.1
+CA-2025-10039,2025-12-01,2025-12-06,First Class,CUST-100,Jonathan Fernandez,Consumer,United States,Markton,New Hampshire,Central,Electronics,Laptops,Laptops - Model After,949.2,6,0.0,459.23
+CA-2025-10040,2025-03-25,2025-03-28,Same Day,CUST-201,Jennifer Graham,Home Office,United States,Connerland,Iowa,Central,Office Supplies,Paper,Paper - Model Behind,833.46,10,0.5,85.55
+CA-2025-10041,2023-10-28,2023-11-01,First Class,CUST-158,Anna Hernandez,Consumer,United States,North Cherylbury,Montana,East,Electronics,Laptops,Laptops - Model Relationship,1185.37,5,0.3,182.38
+CA-2025-10042,2025-11-15,2025-11-16,Second Class,CUST-220,Scott Sanders,Home Office,United States,Mcgrathton,South Carolina,East,Office Supplies,Binders,Binders - Model Up,37.87,3,0.2,8.34
+CA-2025-10043,2025-05-28,2025-05-29,Second Class,CUST-152,Tara Guerra,Home Office,United States,New Kimberlyburgh,Washington,West,Office Supplies,Paper,Paper - Model Long,1374.3,6,0.0,613.8
+CA-2025-10044,2024-07-26,2024-07-29,Standard Class,CUST-129,Donna Garcia,Corporate,United States,Cordovahaven,New Mexico,West,Furniture,Tables,Tables - Model Game,1229.98,3,0.1,340.21
+CA-2025-10045,2023-07-25,2023-07-29,First Class,CUST-273,Patricia Lynch,Home Office,United States,Morrisonville,North Carolina,Central,Office Supplies,Binders,Binders - Model Artist,435.42,2,0.0,88.8
+CA-2025-10046,2025-03-05,2025-03-06,First Class,CUST-110,Brad Gregory,Consumer,United States,North Brian,Idaho,Central,Office Supplies,Art,Art - Model Whose,954.0,5,0.1,146.7
+CA-2025-10047,2024-11-13,2024-11-17,First Class,CUST-277,Matthew Wyatt,Home Office,United States,Jessicashire,Arizona,East,Furniture,Furnishings,Furnishings - Model Many,1440.27,2,0.2,422.92
+CA-2025-10048,2025-12-27,2025-12-31,First Class,CUST-225,Christian Thompson,Home Office,United States,Lake Shawnfurt,Ohio,West,Furniture,Bookcases,Bookcases - Model Oil,271.81,5,0.2,93.91
+CA-2025-10049,2025-01-07,2025-01-12,Second Class,CUST-143,Adam Richards,Corporate,United States,New Annatown,Montana,South,Furniture,Bookcases,Bookcases - Model Energy,1157.32,1,0.5,219.66
+CA-2025-10050,2023-09-17,2023-09-22,Same Day,CUST-171,Phillip Nash,Corporate,United States,New Alexanderland,Nevada,Central,Furniture,Bookcases,Bookcases - Model Candidate,1043.87,6,0.2,215.82
+CA-2025-10051,2025-01-17,2025-01-22,Second Class,CUST-194,John Burns,Home Office,United States,North Ebonychester,South Carolina,South,Electronics,Accessories,Accessories - Model Challenge,1335.2,8,0.1,202.86
+CA-2025-10052,2024-04-19,2024-04-20,Same Day,CUST-212,David Sherman,Consumer,United States,Ingrammouth,New York,East,Office Supplies,Binders,Binders - Model Operation,478.78,2,0.1,132.05
+CA-2025-10053,2025-06-12,2025-06-13,Same Day,CUST-277,Lisa Krueger,Consumer,United States,Ricardohaven,Illinois,West,Electronics,Smartphones,Smartphones - Model Fly,1453.93,8,0.3,437.42
+CA-2025-10054,2024-04-18,2024-04-20,Same Day,CUST-198,Lee Thomas,Corporate,United States,Port Charles,Alabama,South,Office Supplies,Storage,Storage - Model Require,1101.26,4,0.0,283.89
+CA-2025-10055,2024-07-01,2024-07-02,First Class,CUST-199,Brittney Murphy,Corporate,United States,Meyerstad,Colorado,South,Furniture,Furnishings,Furnishings - Model Store,1308.1,1,0.1,177.34
+CA-2025-10056,2025-09-02,2025-09-04,Standard Class,CUST-294,William Martinez,Corporate,United States,West Christopherbury,Ohio,Central,Electronics,Smartphones,Smartphones - Model Catch,663.6,1,0.1,167.2
+CA-2025-10057,2023-02-10,2023-02-15,Second Class,CUST-257,Lisa Schaefer,Home Office,United States,Ballardborough,Connecticut,Central,Electronics,Laptops,Laptops - Model All,49.67,2,0.5,4.78
+CA-2025-10058,2023-10-02,2023-10-05,Same Day,CUST-104,Kenneth Castillo,Corporate,United States,North Selenaburgh,South Carolina,East,Office Supplies,Binders,Binders - Model American,428.68,7,0.1,117.22
+CA-2025-10059,2024-08-18,2024-08-19,First Class,CUST-114,Zachary Freeman,Consumer,United States,Reevesborough,Ohio,South,Electronics,Laptops,Laptops - Model Team,301.32,6,0.1,64.51
+CA-2025-10060,2023-05-12,2023-05-14,First Class,CUST-256,Connie Villegas,Consumer,United States,Christinaview,North Carolina,South,Electronics,Accessories,Accessories - Model Game,227.42,9,0.0,54.07
+CA-2025-10061,2023-03-20,2023-03-24,Standard Class,CUST-237,Jack Davis,Corporate,United States,Geraldport,Pennsylvania,West,Electronics,Laptops,Laptops - Model Always,670.3,7,0.3,143.76
+CA-2025-10062,2023-12-19,2023-12-24,Same Day,CUST-257,Thomas Moore,Home Office,United States,New Christine,Nevada,East,Furniture,Furnishings,Furnishings - Model Quite,546.8,5,0.0,97.29
+CA-2025-10063,2025-01-01,2025-01-04,Standard Class,CUST-231,Ann Sellers,Consumer,United States,Kristinbury,New York,West,Furniture,Furnishings,Furnishings - Model Will,701.93,10,0.0,194.72
+CA-2025-10064,2024-11-11,2024-11-14,Standard Class,CUST-100,Daniel Jackson,Home Office,United States,Davidberg,Idaho,East,Electronics,Accessories,Accessories - Model Control,663.78,5,0.2,93.12
+CA-2025-10065,2023-11-08,2023-11-13,Standard Class,CUST-150,Mario Carter,Corporate,United States,Millerton,Alabama,West,Office Supplies,Art,Art - Model Increase,754.4,8,0.2,152.87
+CA-2025-10066,2024-01-05,2024-01-08,Second Class,CUST-286,Gregory Carter,Home Office,United States,Rhodesville,North Carolina,Central,Furniture,Tables,Tables - Model Effect,439.53,6,0.3,135.27
+CA-2025-10067,2024-01-01,2024-01-05,Same Day,CUST-299,Andrea Wolfe,Home Office,United States,Hobbsbury,Illinois,East,Furniture,Chairs,Chairs - Model Tonight,987.43,5,0.2,321.01
+CA-2025-10068,2024-02-19,2024-02-23,Second Class,CUST-289,Gregory Shepherd,Home Office,United States,East Carolyn,Delaware,Central,Furniture,Bookcases,Bookcases - Model Interest,743.69,1,0.1,226.59
+CA-2025-10069,2025-05-29,2025-06-02,First Class,CUST-164,Stephanie Solis,Corporate,United States,New Stacy,Iowa,South,Furniture,Chairs,Chairs - Model Actually,105.25,3,0.0,17.7
+CA-2025-10070,2024-11-04,2024-11-07,First Class,CUST-198,Stephanie Schmitt,Home Office,United States,East Patrickview,Florida,East,Furniture,Tables,Tables - Model Camera,1124.78,5,0.5,232.95
+CA-2025-10071,2024-04-25,2024-04-29,Same Day,CUST-151,Jeffrey Jones,Consumer,United States,Gillbury,Minnesota,South,Furniture,Bookcases,Bookcases - Model Reality,848.94,7,0.1,247.47
+CA-2025-10072,2023-09-30,2023-10-02,Standard Class,CUST-264,Benjamin Meadows,Home Office,United States,North Kathyshire,Oklahoma,East,Office Supplies,Art,Art - Model Less,878.96,9,0.3,95.73
+CA-2025-10073,2024-12-21,2024-12-23,Same Day,CUST-111,John Griffith,Consumer,United States,Lake Daniel,South Carolina,South,Office Supplies,Binders,Binders - Model Hear,1355.89,8,0.0,434.12
+CA-2025-10074,2024-05-23,2024-05-25,First Class,CUST-132,Stephanie Hayden,Consumer,United States,West Bobbyberg,West Virginia,South,Electronics,Accessories,Accessories - Model Administration,1226.2,5,0.5,269.03
+CA-2025-10075,2023-09-19,2023-09-21,Second Class,CUST-133,Matthew Murphy,Corporate,United States,Garciaview,Texas,South,Office Supplies,Art,Art - Model Stock,363.27,6,0.0,68.84
+CA-2025-10076,2023-01-07,2023-01-11,Same Day,CUST-250,Kristy Bush,Corporate,United States,Millsmouth,Wyoming,East,Furniture,Furnishings,Furnishings - Model Not,915.59,2,0.2,336.56
+CA-2025-10077,2023-12-19,2023-12-23,Same Day,CUST-176,Elizabeth Flores,Home Office,United States,Hillbury,Washington,Central,Electronics,Audio,Audio - Model Power,193.25,9,0.5,14.74
+CA-2025-10078,2025-09-19,2025-09-22,Standard Class,CUST-300,Kathryn Nguyen,Consumer,United States,Gailhaven,Washington,East,Electronics,Audio,Audio - Model War,1467.42,9,0.2,323.22
+CA-2025-10079,2023-06-01,2023-06-06,Standard Class,CUST-225,Taylor Taylor,Corporate,United States,Smithtown,North Dakota,South,Furniture,Bookcases,Bookcases - Model Radio,697.66,8,0.0,181.23
+CA-2025-10080,2024-04-03,2024-04-07,First Class,CUST-244,Carlos Daniels,Corporate,United States,Lake Gregory,Nebraska,South,Furniture,Bookcases,Bookcases - Model Add,553.53,6,0.1,158.26
+CA-2025-10081,2024-08-20,2024-08-21,Standard Class,CUST-224,Melissa Watkins,Consumer,United States,Kaitlinton,Colorado,South,Furniture,Furnishings,Furnishings - Model Hold,618.39,4,0.3,206.77
+CA-2025-10082,2025-04-21,2025-04-26,First Class,CUST-102,Amy Green,Home Office,United States,East Natalie,Kentucky,Central,Office Supplies,Binders,Binders - Model Interest,624.97,10,0.3,195.12
+CA-2025-10083,2025-05-27,2025-05-31,Second Class,CUST-164,Lindsey Perry,Home Office,United States,West Lee,Montana,Central,Furniture,Chairs,Chairs - Model Picture,1448.77,9,0.3,492.53
+CA-2025-10084,2025-05-14,2025-05-16,Second Class,CUST-183,Mary Pitts,Home Office,United States,North Richardstad,Michigan,South,Electronics,Smartphones,Smartphones - Model Sea,1107.58,3,0.1,265.0
+CA-2025-10085,2023-09-18,2023-09-20,First Class,CUST-205,James York,Corporate,United States,Ryanmouth,Florida,West,Office Supplies,Art,Art - Model Kid,1358.9,3,0.0,551.08
+CA-2025-10086,2025-03-13,2025-03-14,Standard Class,CUST-202,Leslie James,Corporate,United States,Perezborough,Rhode Island,East,Electronics,Accessories,Accessories - Model Authority,285.7,8,0.3,62.33
+CA-2025-10087,2023-02-08,2023-02-09,Same Day,CUST-105,Peggy Hernandez,Consumer,United States,Moonmouth,Wyoming,Central,Office Supplies,Art,Art - Model Boy,1003.22,5,0.2,145.88
+CA-2025-10088,2023-03-05,2023-03-08,Standard Class,CUST-184,Leslie Moore,Corporate,United States,Kellyside,Alaska,West,Electronics,Laptops,Laptops - Model Population,217.66,8,0.1,78.66
+CA-2025-10089,2025-04-09,2025-04-12,Standard Class,CUST-232,Hannah Miller,Consumer,United States,Ashleyshire,Nevada,East,Electronics,Smartphones,Smartphones - Model Ability,186.03,5,0.2,23.64
+CA-2025-10090,2024-10-06,2024-10-07,Second Class,CUST-138,Tommy Taylor,Corporate,United States,Mathewtown,New Jersey,West,Office Supplies,Storage,Storage - Model General,1103.47,6,0.1,424.77
+CA-2025-10091,2025-03-06,2025-03-10,First Class,CUST-257,Michael Huynh,Corporate,United States,Spencefurt,Kansas,Central,Office Supplies,Art,Art - Model Notice,1268.88,7,0.2,433.14
+CA-2025-10092,2024-04-12,2024-04-13,Standard Class,CUST-118,Catherine Pham,Corporate,United States,Tommytown,Illinois,Central,Furniture,Chairs,Chairs - Model Lead,1037.29,9,0.1,236.04
+CA-2025-10093,2023-10-10,2023-10-14,First Class,CUST-290,Taylor Mitchell,Consumer,United States,New John,Florida,West,Office Supplies,Art,Art - Model Tax,749.04,6,0.3,220.79
+CA-2025-10094,2024-12-07,2024-12-09,First Class,CUST-212,David Griffin,Home Office,United States,Sandovalville,Alabama,South,Electronics,Laptops,Laptops - Model Clear,192.69,1,0.5,23.41
+CA-2025-10095,2024-06-18,2024-06-19,First Class,CUST-276,Monique Moore,Consumer,United States,Adamton,Wyoming,West,Furniture,Furnishings,Furnishings - Model Character,768.87,7,0.0,126.12
+CA-2025-10096,2024-11-17,2024-11-22,Second Class,CUST-277,Larry Andrade,Home Office,United States,West Manuelview,West Virginia,South,Furniture,Chairs,Chairs - Model Best,227.28,9,0.3,44.7
+CA-2025-10097,2025-03-05,2025-03-07,Standard Class,CUST-255,Jonathan Pitts,Consumer,United States,Barnettfurt,Georgia,West,Furniture,Tables,Tables - Model Officer,671.44,6,0.5,67.56
+CA-2025-10098,2025-12-10,2025-12-13,Same Day,CUST-271,Megan Cruz,Home Office,United States,Robbinsburgh,New York,South,Office Supplies,Storage,Storage - Model Language,950.23,2,0.3,258.51
+CA-2025-10099,2025-04-13,2025-04-18,Second Class,CUST-210,Donald Burns,Home Office,United States,Port Heidistad,New Jersey,West,Furniture,Furnishings,Furnishings - Model Scene,480.51,10,0.0,191.83
+CA-2025-10100,2025-12-19,2025-12-20,Same Day,CUST-211,Latoya Salas,Consumer,United States,Carpenterborough,Illinois,West,Office Supplies,Binders,Binders - Model Far,292.08,3,0.3,81.86
+CA-2025-10101,2024-06-12,2024-06-14,Standard Class,CUST-102,Alicia Burke,Corporate,United States,New Emily,Iowa,East,Office Supplies,Storage,Storage - Model Month,632.08,1,0.0,223.05
+CA-2025-10102,2023-01-11,2023-01-13,Same Day,CUST-101,Alex Neal,Corporate,United States,South Holly,Montana,East,Electronics,Laptops,Laptops - Model Office,1139.59,6,0.2,204.03
+CA-2025-10103,2023-05-30,2023-06-03,First Class,CUST-182,Andrew Valencia,Home Office,United States,Michaelmouth,New Hampshire,West,Electronics,Smartphones,Smartphones - Model Current,344.11,4,0.2,110.12
+CA-2025-10104,2025-06-14,2025-06-18,First Class,CUST-148,Michelle Watson,Corporate,United States,North Taylor,Iowa,South,Electronics,Accessories,Accessories - Model Because,283.58,1,0.2,85.73
+CA-2025-10105,2023-02-14,2023-02-15,First Class,CUST-130,Stephanie Spencer,Home Office,United States,Robertchester,Tennessee,East,Electronics,Laptops,Laptops - Model Total,1182.91,4,0.2,165.53
+CA-2025-10106,2024-06-28,2024-07-01,Standard Class,CUST-174,Nathan White,Corporate,United States,Boydburgh,West Virginia,South,Furniture,Furnishings,Furnishings - Model Brother,566.78,4,0.0,119.28
+CA-2025-10107,2025-04-24,2025-04-26,Standard Class,CUST-260,Donna Sawyer,Corporate,United States,Stewartville,Arizona,Central,Electronics,Audio,Audio - Model Religious,1317.97,8,0.0,655.74
+CA-2025-10108,2024-05-04,2024-05-05,Standard Class,CUST-271,Bonnie Gonzalez,Corporate,United States,Saraton,Arkansas,West,Furniture,Tables,Tables - Model Buy,260.21,8,0.0,109.76
+CA-2025-10109,2025-03-26,2025-03-28,Same Day,CUST-263,April Palmer,Corporate,United States,East Richardfort,Illinois,South,Electronics,Audio,Audio - Model Surface,1279.38,1,0.3,219.29
+CA-2025-10110,2023-09-04,2023-09-08,Second Class,CUST-172,Katelyn Mack,Corporate,United States,Darrellberg,Nevada,South,Electronics,Laptops,Laptops - Model Reduce,401.93,1,0.2,79.39
+CA-2025-10111,2025-03-09,2025-03-12,First Class,CUST-213,Jose Banks,Home Office,United States,Sarahside,Alabama,South,Office Supplies,Binders,Binders - Model Beautiful,1263.39,3,0.0,244.58
+CA-2025-10112,2023-01-23,2023-01-28,First Class,CUST-288,Jeffrey Powers,Home Office,United States,Lake Jose,Ohio,West,Furniture,Chairs,Chairs - Model There,1142.34,6,0.5,109.72
+CA-2025-10113,2024-10-12,2024-10-14,Same Day,CUST-297,Philip Hernandez,Consumer,United States,Dillonfort,Oregon,South,Electronics,Laptops,Laptops - Model Candidate,1427.16,9,0.2,394.16
+CA-2025-10114,2023-06-01,2023-06-02,Second Class,CUST-150,Rebecca Ramos DVM,Consumer,United States,Port Bryanburgh,Missouri,South,Office Supplies,Paper,Paper - Model Total,798.82,2,0.2,169.81
+CA-2025-10115,2023-08-12,2023-08-14,Second Class,CUST-288,Ashley Glass,Home Office,United States,Owensville,Louisiana,South,Furniture,Bookcases,Bookcases - Model Wind,448.12,4,0.0,87.95
+CA-2025-10116,2023-04-23,2023-04-25,Second Class,CUST-185,Megan Hart,Corporate,United States,New Cindyville,Nebraska,West,Office Supplies,Art,Art - Model Necessary,1208.76,8,0.0,601.86
+CA-2025-10117,2023-09-16,2023-09-19,Second Class,CUST-192,Joshua Smith,Home Office,United States,Port Candaceside,New Jersey,West,Furniture,Tables,Tables - Model Red,1421.17,9,0.2,223.61
+CA-2025-10118,2023-11-06,2023-11-11,Same Day,CUST-203,Jacob Maxwell MD,Corporate,United States,Santiagofurt,Ohio,South,Office Supplies,Binders,Binders - Model Quickly,183.99,3,0.1,61.9
+CA-2025-10119,2025-05-06,2025-05-07,First Class,CUST-236,Samantha Ramirez,Consumer,United States,East Amanda,New Mexico,South,Office Supplies,Storage,Storage - Model Laugh,1304.28,8,0.0,203.78
+CA-2025-10120,2023-09-03,2023-09-08,Same Day,CUST-196,Robert Acosta,Home Office,United States,Danielborough,Illinois,East,Office Supplies,Binders,Binders - Model Partner,1445.53,8,0.0,229.64
+CA-2025-10121,2024-07-23,2024-07-27,Second Class,CUST-108,Glenda Miller,Home Office,United States,South Thomas,Illinois,Central,Electronics,Audio,Audio - Model Attack,426.75,4,0.5,89.42
+CA-2025-10122,2023-01-04,2023-01-06,First Class,CUST-286,Melissa Price,Consumer,United States,Caroltown,Missouri,South,Electronics,Accessories,Accessories - Model Indeed,632.21,6,0.3,155.66
+CA-2025-10123,2025-11-02,2025-11-03,First Class,CUST-290,Amanda Ford,Consumer,United States,Crawfordburgh,Wisconsin,South,Office Supplies,Storage,Storage - Model Step,1362.26,10,0.3,148.52
+CA-2025-10124,2025-10-27,2025-10-29,Same Day,CUST-129,Jamie Marshall,Home Office,United States,New Samuel,Pennsylvania,East,Furniture,Furnishings,Furnishings - Model Worker,671.81,6,0.0,334.0
+CA-2025-10125,2023-06-24,2023-06-29,Same Day,CUST-206,Corey Reyes,Corporate,United States,Powellmouth,Rhode Island,Central,Furniture,Furnishings,Furnishings - Model Actually,1491.49,9,0.1,209.49
+CA-2025-10126,2025-10-06,2025-10-08,Standard Class,CUST-122,Kathleen Bautista,Corporate,United States,Port Haroldborough,Indiana,East,Furniture,Chairs,Chairs - Model Executive,360.5,7,0.1,124.64
+CA-2025-10127,2023-09-23,2023-09-28,First Class,CUST-101,Becky Shaw,Home Office,United States,Jackfort,North Dakota,West,Office Supplies,Paper,Paper - Model This,1316.08,1,0.1,425.26
+CA-2025-10128,2023-10-18,2023-10-20,Second Class,CUST-258,Christopher Little,Consumer,United States,West Kaitlin,Georgia,South,Office Supplies,Binders,Binders - Model Let,1170.28,4,0.1,173.66
+CA-2025-10129,2024-10-18,2024-10-21,First Class,CUST-281,Amy Wells,Consumer,United States,South Kimberly,Mississippi,West,Electronics,Laptops,Laptops - Model Issue,24.44,9,0.3,4.75
+CA-2025-10130,2023-08-01,2023-08-06,Same Day,CUST-130,Lori Phillips,Corporate,United States,New Jenniferton,Pennsylvania,South,Furniture,Tables,Tables - Model Month,1398.58,5,0.3,473.57
+CA-2025-10131,2023-12-11,2023-12-15,Standard Class,CUST-187,Jade Wood,Corporate,United States,Luisbury,Oklahoma,East,Electronics,Audio,Audio - Model Wind,1162.48,2,0.5,241.8
+CA-2025-10132,2025-08-02,2025-08-03,Standard Class,CUST-181,Pamela Ferrell,Consumer,United States,Port Meganville,Maryland,East,Office Supplies,Paper,Paper - Model Social,595.52,3,0.1,257.39
+CA-2025-10133,2025-01-30,2025-02-02,Second Class,CUST-139,Barbara Horne,Consumer,United States,Watsonhaven,Oklahoma,Central,Electronics,Audio,Audio - Model Rest,994.94,3,0.2,257.67
+CA-2025-10134,2024-01-25,2024-01-28,First Class,CUST-260,Jennifer Hensley,Home Office,United States,West Alan,Virginia,Central,Furniture,Chairs,Chairs - Model Also,355.07,8,0.1,141.49
+CA-2025-10135,2023-06-12,2023-06-13,Same Day,CUST-158,Nicole Mcmillan,Corporate,United States,Melanieberg,Connecticut,West,Furniture,Chairs,Chairs - Model Heart,41.67,7,0.5,3.39
+CA-2025-10136,2025-07-17,2025-07-22,Standard Class,CUST-279,Jaime Harris,Home Office,United States,Lopezshire,Connecticut,South,Electronics,Accessories,Accessories - Model Else,1430.13,7,0.3,264.28
+CA-2025-10137,2025-11-21,2025-11-25,Second Class,CUST-217,Alexandra Harrison,Consumer,United States,Port Roberta,Georgia,East,Office Supplies,Binders,Binders - Model Pattern,767.74,5,0.1,266.61
+CA-2025-10138,2025-09-25,2025-09-28,Same Day,CUST-179,Maria Chavez,Consumer,United States,Danielhaven,Montana,East,Electronics,Laptops,Laptops - Model Degree,1464.06,5,0.2,567.66
+CA-2025-10139,2025-01-17,2025-01-22,First Class,CUST-144,Robert Armstrong,Home Office,United States,South Jodiborough,Kentucky,East,Office Supplies,Paper,Paper - Model Whom,1484.14,5,0.2,365.47
+CA-2025-10140,2023-03-14,2023-03-17,Standard Class,CUST-295,Raymond Holmes,Home Office,United States,North Angelaburgh,Michigan,East,Furniture,Tables,Tables - Model Quality,1102.03,4,0.1,259.57
+CA-2025-10141,2024-04-19,2024-04-22,First Class,CUST-126,Kimberly Gross,Consumer,United States,Holmesbury,New York,East,Office Supplies,Art,Art - Model Eye,1493.32,4,0.1,565.03
+CA-2025-10142,2025-10-14,2025-10-17,Same Day,CUST-272,James Brown,Corporate,United States,South Douglaston,Nevada,East,Furniture,Tables,Tables - Model Avoid,684.69,8,0.5,169.32
+CA-2025-10143,2025-11-07,2025-11-11,Same Day,CUST-263,Rebecca Boyd,Corporate,United States,South Alantown,New Hampshire,East,Furniture,Tables,Tables - Model South,1353.93,7,0.1,394.73
+CA-2025-10144,2025-02-12,2025-02-13,Standard Class,CUST-218,Edward Porter,Corporate,United States,Brianberg,West Virginia,West,Office Supplies,Art,Art - Model Him,1187.93,2,0.1,412.32
+CA-2025-10145,2025-09-17,2025-09-21,Second Class,CUST-207,David Chapman,Corporate,United States,Murphyview,Nevada,South,Office Supplies,Paper,Paper - Model Account,1266.77,9,0.3,260.33
+CA-2025-10146,2025-11-15,2025-11-18,Same Day,CUST-185,Laura Ward,Home Office,United States,Port Austinfurt,Hawaii,East,Electronics,Accessories,Accessories - Model Job,838.72,1,0.5,64.2
+CA-2025-10147,2023-01-06,2023-01-11,Second Class,CUST-185,Timothy Hughes,Home Office,United States,Port Curtis,Louisiana,South,Furniture,Bookcases,Bookcases - Model Stand,1088.58,2,0.0,367.36
+CA-2025-10148,2025-09-11,2025-09-15,Second Class,CUST-107,Jeremy Zuniga,Consumer,United States,Garzaland,Indiana,Central,Furniture,Chairs,Chairs - Model Fight,418.49,6,0.3,135.73
+CA-2025-10149,2024-12-03,2024-12-07,Same Day,CUST-138,Michael Forbes,Corporate,United States,Cobbside,Delaware,South,Furniture,Furnishings,Furnishings - Model Student,774.28,8,0.2,157.31
+CA-2025-10150,2023-07-29,2023-07-31,First Class,CUST-250,Lynn Pratt,Home Office,United States,Jonesfurt,Kansas,Central,Office Supplies,Binders,Binders - Model Modern,44.8,7,0.2,16.06
+CA-2025-10151,2023-09-14,2023-09-18,Standard Class,CUST-276,Shannon Bryan,Home Office,United States,Paulamouth,Oregon,West,Office Supplies,Paper,Paper - Model Job,1392.29,5,0.2,194.09
+CA-2025-10152,2025-09-18,2025-09-22,Second Class,CUST-207,Julia White,Corporate,United States,Paulberg,Ohio,Central,Office Supplies,Storage,Storage - Model Out,482.88,3,0.1,208.01
+CA-2025-10153,2024-04-02,2024-04-05,Standard Class,CUST-254,Lauren Murphy,Consumer,United States,East Jodi,Maryland,West,Furniture,Chairs,Chairs - Model Because,114.22,8,0.2,32.01
+CA-2025-10154,2025-01-10,2025-01-11,First Class,CUST-105,Gary Williamson,Home Office,United States,Macdonaldshire,Hawaii,Central,Office Supplies,Binders,Binders - Model Half,781.72,8,0.2,112.6
+CA-2025-10155,2024-03-16,2024-03-18,Standard Class,CUST-146,Ryan Bennett,Home Office,United States,Port Jaredmouth,Vermont,Central,Electronics,Laptops,Laptops - Model Or,921.43,2,0.0,455.08
+CA-2025-10156,2023-09-30,2023-10-05,First Class,CUST-294,Carol Warner,Corporate,United States,Yvonnemouth,New Jersey,West,Electronics,Audio,Audio - Model Letter,41.73,6,0.3,13.37
+CA-2025-10157,2023-03-22,2023-03-26,Second Class,CUST-243,Curtis Hendricks,Consumer,United States,East Katherineshire,West Virginia,East,Electronics,Audio,Audio - Model Program,221.09,8,0.3,29.17
+CA-2025-10158,2025-09-02,2025-09-06,First Class,CUST-158,Luis Martin,Consumer,United States,Brianhaven,Delaware,South,Furniture,Tables,Tables - Model Well,393.86,6,0.5,80.43
+CA-2025-10159,2025-07-27,2025-07-31,Standard Class,CUST-258,Tiffany Yu,Home Office,United States,North Brittanystad,Washington,Central,Office Supplies,Binders,Binders - Model Need,472.31,9,0.1,92.02
+CA-2025-10160,2024-02-20,2024-02-21,Standard Class,CUST-222,Zachary Petty,Home Office,United States,Batesbury,Alabama,South,Electronics,Accessories,Accessories - Model His,95.61,9,0.3,24.03
+CA-2025-10161,2025-05-22,2025-05-27,Standard Class,CUST-264,Suzanne Tran,Home Office,United States,Stantonport,West Virginia,East,Office Supplies,Binders,Binders - Model Wonder,1189.61,2,0.5,285.37
+CA-2025-10162,2025-03-30,2025-04-04,Same Day,CUST-237,Donna Ellison,Consumer,United States,South Bethborough,Illinois,Central,Office Supplies,Binders,Binders - Model Economic,666.4,3,0.2,86.21
+CA-2025-10163,2025-08-26,2025-08-27,Standard Class,CUST-222,Mikayla Harris,Consumer,United States,Jameschester,Indiana,West,Office Supplies,Art,Art - Model Management,559.36,5,0.3,108.97
+CA-2025-10164,2023-08-09,2023-08-14,Standard Class,CUST-131,Tammy Martinez,Consumer,United States,Rossland,Arizona,West,Electronics,Accessories,Accessories - Model Yet,1328.9,1,0.0,619.04
+CA-2025-10165,2025-12-07,2025-12-10,Standard Class,CUST-112,Jennifer Simmons,Corporate,United States,East Kathleen,North Carolina,Central,Furniture,Chairs,Chairs - Model Country,765.3,9,0.1,189.58
+CA-2025-10166,2024-10-26,2024-10-29,Same Day,CUST-173,Jonathan Vasquez,Corporate,United States,Moorehaven,Louisiana,South,Furniture,Chairs,Chairs - Model Success,553.19,8,0.5,87.32
+CA-2025-10167,2024-10-17,2024-10-22,Standard Class,CUST-228,David Fisher,Corporate,United States,Wiseshire,Arkansas,South,Electronics,Audio,Audio - Model Red,1122.8,10,0.3,300.94
+CA-2025-10168,2024-04-02,2024-04-04,Same Day,CUST-215,Angela Harrison,Corporate,United States,Hamiltonport,Indiana,Central,Office Supplies,Paper,Paper - Model Data,652.48,4,0.3,123.87
+CA-2025-10169,2024-10-02,2024-10-03,Standard Class,CUST-202,Madeline Charles,Home Office,United States,Andrewside,West Virginia,Central,Office Supplies,Art,Art - Model Material,1485.69,7,0.0,238.54
+CA-2025-10170,2023-06-13,2023-06-18,Same Day,CUST-292,Valerie Glover,Consumer,United States,Clarkfurt,Ohio,Central,Office Supplies,Art,Art - Model Force,724.06,4,0.3,215.55
+CA-2025-10171,2024-10-26,2024-10-27,Standard Class,CUST-219,Stephanie Wilson,Home Office,United States,New Christopher,Missouri,West,Electronics,Laptops,Laptops - Model Social,444.32,7,0.3,133.49
+CA-2025-10172,2023-01-11,2023-01-15,Standard Class,CUST-219,Thomas Rodriguez,Consumer,United States,Kristinaborough,Massachusetts,East,Office Supplies,Art,Art - Model Town,918.9,8,0.0,385.15
+CA-2025-10173,2023-04-05,2023-04-08,Standard Class,CUST-137,Heather Cruz,Home Office,United States,North Jennifertown,New Hampshire,Central,Office Supplies,Art,Art - Model Model,1279.6,7,0.2,385.45
+CA-2025-10174,2024-05-11,2024-05-15,Same Day,CUST-257,William Miller,Corporate,United States,Sarahhaven,Rhode Island,West,Electronics,Accessories,Accessories - Model Health,1441.66,4,0.0,424.89
+CA-2025-10175,2025-12-28,2025-12-29,First Class,CUST-125,Kevin Adams,Corporate,United States,East Randyville,Oklahoma,South,Electronics,Laptops,Laptops - Model Assume,1191.62,6,0.1,409.52
+CA-2025-10176,2025-11-16,2025-11-19,Same Day,CUST-176,Amanda Williams,Home Office,United States,Keithborough,South Dakota,East,Furniture,Chairs,Chairs - Model So,156.16,4,0.0,23.97
+CA-2025-10177,2025-02-19,2025-02-20,Second Class,CUST-292,Haley Norris,Consumer,United States,South Richard,Utah,South,Furniture,Bookcases,Bookcases - Model Mean,518.3,6,0.0,251.93
+CA-2025-10178,2023-07-12,2023-07-17,Second Class,CUST-289,Jessica Campbell,Consumer,United States,Williamtown,California,South,Furniture,Bookcases,Bookcases - Model Give,1470.14,2,0.5,365.85
+CA-2025-10179,2025-08-04,2025-08-07,Second Class,CUST-135,Robert Gay,Consumer,United States,Brittneyborough,South Dakota,Central,Office Supplies,Binders,Binders - Model Reason,1266.94,9,0.2,344.32
+CA-2025-10180,2025-05-14,2025-05-15,Standard Class,CUST-277,Danielle Leblanc,Home Office,United States,Beverlyville,Maine,Central,Electronics,Smartphones,Smartphones - Model Day,684.34,10,0.0,321.49
+CA-2025-10181,2023-08-21,2023-08-24,Same Day,CUST-288,Andrea Collier,Home Office,United States,New Garyberg,California,West,Office Supplies,Paper,Paper - Model Black,551.36,2,0.2,170.23
+CA-2025-10182,2023-02-22,2023-02-27,Same Day,CUST-288,Shannon Underwood,Consumer,United States,Kaitlynstad,Mississippi,East,Office Supplies,Binders,Binders - Model News,889.53,10,0.5,213.9
+CA-2025-10183,2025-02-26,2025-03-03,Standard Class,CUST-197,Sue Newton,Consumer,United States,Lake Tammy,Oklahoma,Central,Office Supplies,Art,Art - Model Red,1456.84,8,0.3,480.49
+CA-2025-10184,2025-08-15,2025-08-20,Second Class,CUST-281,Francisco Lamb,Corporate,United States,East Danielhaven,North Dakota,East,Electronics,Smartphones,Smartphones - Model May,1278.48,4,0.0,360.55
+CA-2025-10185,2025-11-24,2025-11-26,Second Class,CUST-275,Jennifer Powers,Corporate,United States,Campbellside,Hawaii,West,Office Supplies,Storage,Storage - Model Produce,656.36,8,0.3,181.1
+CA-2025-10186,2024-10-15,2024-10-18,Second Class,CUST-201,Jenna Smith,Consumer,United States,Mayostad,Alabama,East,Furniture,Chairs,Chairs - Model Rock,1056.11,1,0.5,183.77
+CA-2025-10187,2023-12-16,2023-12-17,Same Day,CUST-200,Mrs. Kelly Craig MD,Home Office,United States,Franciscoville,Louisiana,East,Electronics,Audio,Audio - Model Shoulder,477.94,4,0.0,130.94
+CA-2025-10188,2024-07-27,2024-07-29,First Class,CUST-165,Nancy Murphy,Consumer,United States,Danielleberg,South Carolina,Central,Office Supplies,Art,Art - Model Behavior,1293.25,7,0.2,410.79
+CA-2025-10189,2025-04-28,2025-04-30,First Class,CUST-278,Denise Jones,Home Office,United States,Port Donna,Texas,West,Furniture,Tables,Tables - Model Interest,588.41,2,0.2,158.05
+CA-2025-10190,2023-06-15,2023-06-19,Standard Class,CUST-146,Karen Mclean,Consumer,United States,Michaelchester,New Jersey,East,Office Supplies,Binders,Binders - Model Despite,1378.83,8,0.2,298.83
+CA-2025-10191,2024-09-17,2024-09-18,Same Day,CUST-295,Lisa Martin,Consumer,United States,Allisonchester,Florida,East,Electronics,Laptops,Laptops - Model Decade,551.72,8,0.2,122.07
+CA-2025-10192,2024-05-29,2024-05-30,First Class,CUST-272,Sharon Woodward,Consumer,United States,East Charles,Hawaii,Central,Furniture,Furnishings,Furnishings - Model Whole,1413.52,3,0.0,646.08
+CA-2025-10193,2023-03-03,2023-03-04,First Class,CUST-262,Noah Ball,Home Office,United States,Vanessabury,Wisconsin,Central,Electronics,Laptops,Laptops - Model Reduce,657.76,3,0.5,155.03
+CA-2025-10194,2024-09-18,2024-09-23,Standard Class,CUST-110,Karen Cole,Corporate,United States,South Patrick,Kentucky,West,Office Supplies,Art,Art - Model Information,204.68,3,0.2,58.2
+CA-2025-10195,2025-11-15,2025-11-20,Second Class,CUST-229,Teresa Moon,Consumer,United States,Watkinsmouth,Washington,Central,Electronics,Audio,Audio - Model Accept,1052.94,5,0.0,479.78
+CA-2025-10196,2025-02-11,2025-02-12,Standard Class,CUST-129,Michelle Logan,Corporate,United States,Warnerton,Delaware,East,Office Supplies,Storage,Storage - Model Full,648.15,4,0.5,130.18
+CA-2025-10197,2025-09-29,2025-10-04,Same Day,CUST-185,Daniel Hardy,Corporate,United States,New William,Kansas,Central,Office Supplies,Storage,Storage - Model Analysis,445.47,6,0.1,137.54
+CA-2025-10198,2024-12-01,2024-12-04,Standard Class,CUST-110,Joseph Brown,Consumer,United States,Lindseyside,Minnesota,West,Office Supplies,Binders,Binders - Model Pm,532.94,5,0.5,85.92
+CA-2025-10199,2024-02-26,2024-03-02,Same Day,CUST-247,Elizabeth Barker,Consumer,United States,Hughesfort,Virginia,East,Electronics,Laptops,Laptops - Model Wait,536.74,5,0.3,133.35
+CA-2025-10200,2025-07-02,2025-07-03,Standard Class,CUST-266,Hunter Taylor,Corporate,United States,West John,Delaware,Central,Electronics,Accessories,Accessories - Model Current,636.78,2,0.1,180.82
+CA-2025-10201,2023-01-18,2023-01-20,First Class,CUST-214,Sherri Guzman,Corporate,United States,Lyonstown,Arizona,East,Electronics,Accessories,Accessories - Model Outside,526.42,8,0.5,105.36
+CA-2025-10202,2023-10-29,2023-10-31,Standard Class,CUST-143,Jeffrey Johnson,Corporate,United States,East Trevor,Delaware,Central,Electronics,Laptops,Laptops - Model Choose,614.68,2,0.0,196.5
+CA-2025-10203,2024-05-14,2024-05-19,Same Day,CUST-192,Casey David,Consumer,United States,East Eileenburgh,Indiana,Central,Furniture,Bookcases,Bookcases - Model National,1193.18,10,0.0,341.17
+CA-2025-10204,2024-01-13,2024-01-15,Second Class,CUST-274,Alison Bates,Consumer,United States,Rachaelland,Colorado,East,Electronics,Audio,Audio - Model Account,135.28,9,0.5,31.64
+CA-2025-10205,2024-03-21,2024-03-26,First Class,CUST-145,Valerie Wise,Corporate,United States,South Robert,Michigan,Central,Electronics,Accessories,Accessories - Model Case,430.59,1,0.1,59.45
+CA-2025-10206,2024-03-13,2024-03-14,Second Class,CUST-217,Edwin Martinez,Consumer,United States,South Rebecca,Oregon,Central,Electronics,Audio,Audio - Model Old,1470.32,5,0.0,603.79
+CA-2025-10207,2025-12-30,2025-12-31,Second Class,CUST-240,Roy Collins,Home Office,United States,Wilsonbury,Oregon,Central,Office Supplies,Storage,Storage - Model Individual,829.99,2,0.0,230.37
+CA-2025-10208,2024-08-18,2024-08-22,Standard Class,CUST-163,Megan Marsh,Consumer,United States,Melissafort,Alaska,West,Electronics,Smartphones,Smartphones - Model Fish,462.06,4,0.3,99.33
+CA-2025-10209,2023-10-26,2023-10-27,Second Class,CUST-125,Lindsey Morrison,Corporate,United States,Hillbury,Virginia,South,Furniture,Furnishings,Furnishings - Model Right,1230.65,5,0.3,204.05
+CA-2025-10210,2025-03-04,2025-03-05,First Class,CUST-158,Brooke Curtis,Consumer,United States,Christinemouth,Idaho,West,Electronics,Accessories,Accessories - Model Structure,1452.18,3,0.3,232.49
+CA-2025-10211,2023-10-14,2023-10-15,First Class,CUST-263,Lisa Jones,Home Office,United States,Ashleyland,Mississippi,South,Office Supplies,Art,Art - Model Future,172.58,4,0.5,30.51
+CA-2025-10212,2023-09-06,2023-09-11,Second Class,CUST-161,Shawn Ramirez,Corporate,United States,Lake Ashlee,Minnesota,South,Electronics,Audio,Audio - Model Third,405.49,6,0.2,53.67
+CA-2025-10213,2023-03-24,2023-03-27,Same Day,CUST-167,Dustin Zhang,Corporate,United States,Jenniferburgh,Pennsylvania,South,Electronics,Laptops,Laptops - Model South,1267.87,7,0.3,397.4
+CA-2025-10214,2023-01-26,2023-01-30,Second Class,CUST-244,Ann Jones,Corporate,United States,Pughview,Oklahoma,East,Furniture,Furnishings,Furnishings - Model Writer,1396.04,1,0.1,434.45
+CA-2025-10215,2024-01-28,2024-01-29,Standard Class,CUST-297,Eric Mosley,Consumer,United States,Port Terryland,Louisiana,East,Furniture,Chairs,Chairs - Model Discussion,734.55,10,0.1,292.01
+CA-2025-10216,2023-02-26,2023-03-02,Standard Class,CUST-162,Karen Hoover,Corporate,United States,Taylortown,West Virginia,West,Furniture,Chairs,Chairs - Model Allow,857.53,6,0.1,232.88
+CA-2025-10217,2024-07-27,2024-07-30,First Class,CUST-127,Shannon Reynolds,Corporate,United States,Granttown,Arkansas,East,Electronics,Smartphones,Smartphones - Model Project,384.7,6,0.0,133.88
+CA-2025-10218,2025-11-23,2025-11-25,Second Class,CUST-134,James Mclean,Corporate,United States,Gilltown,Arizona,Central,Office Supplies,Art,Art - Model New,751.65,9,0.5,92.35
+CA-2025-10219,2024-01-20,2024-01-24,First Class,CUST-292,Kaylee Medina,Home Office,United States,Fernandezstad,Iowa,West,Furniture,Tables,Tables - Model Station,988.3,10,0.0,455.46
+CA-2025-10220,2025-10-25,2025-10-28,Second Class,CUST-133,Alexander Cowan,Home Office,United States,West Kathrynhaven,New Jersey,East,Electronics,Audio,Audio - Model Century,784.67,4,0.1,291.54
+CA-2025-10221,2025-01-16,2025-01-21,Same Day,CUST-132,Evan Davis,Consumer,United States,New Crystalmouth,Ohio,West,Furniture,Bookcases,Bookcases - Model Family,1212.65,4,0.3,358.97
+CA-2025-10222,2023-03-12,2023-03-15,Same Day,CUST-246,Ronald Wright,Home Office,United States,Port Leonardfurt,Georgia,East,Electronics,Audio,Audio - Model Wonder,156.8,4,0.1,28.46
+CA-2025-10223,2025-09-01,2025-09-04,First Class,CUST-264,Kristie Frazier,Home Office,United States,East Dannymouth,Texas,East,Office Supplies,Binders,Binders - Model Tend,702.85,9,0.2,122.15
+CA-2025-10224,2024-11-11,2024-11-16,First Class,CUST-185,Jackson Soto,Home Office,United States,Lehaven,Alaska,Central,Furniture,Chairs,Chairs - Model Some,47.28,2,0.2,5.85
+CA-2025-10225,2025-03-31,2025-04-03,First Class,CUST-200,Jeffrey Wright,Corporate,United States,Flemingmouth,New Mexico,Central,Furniture,Furnishings,Furnishings - Model Detail,980.01,3,0.5,97.24
+CA-2025-10226,2023-02-09,2023-02-12,Second Class,CUST-214,Wayne Mitchell,Home Office,United States,Brownstad,Nevada,Central,Electronics,Laptops,Laptops - Model Parent,558.74,8,0.3,74.37
+CA-2025-10227,2024-08-25,2024-08-27,Same Day,CUST-141,Tiffany Cochran,Corporate,United States,Lake Frank,Arizona,Central,Office Supplies,Art,Art - Model Friend,1399.84,4,0.0,587.76
+CA-2025-10228,2023-10-17,2023-10-21,Standard Class,CUST-185,Billy Thompson,Consumer,United States,New Kenneth,Maine,Central,Office Supplies,Storage,Storage - Model Any,1151.38,7,0.5,87.68
+CA-2025-10229,2023-10-15,2023-10-20,Standard Class,CUST-189,Jeanne Osborne,Corporate,United States,Port Jonville,Nebraska,West,Office Supplies,Binders,Binders - Model Various,1490.52,3,0.1,414.1
+CA-2025-10230,2025-05-14,2025-05-19,First Class,CUST-186,Amber Arnold,Corporate,United States,South Eduardoview,West Virginia,South,Office Supplies,Binders,Binders - Model Back,1432.74,6,0.3,332.33
+CA-2025-10231,2023-11-16,2023-11-21,First Class,CUST-235,Robin Johnson,Consumer,United States,Aliciafort,Oregon,East,Office Supplies,Art,Art - Model Practice,236.04,1,0.3,27.5
+CA-2025-10232,2024-11-01,2024-11-06,First Class,CUST-182,Victoria Hines,Consumer,United States,South Melanie,Florida,East,Furniture,Tables,Tables - Model Safe,198.74,2,0.1,88.22
+CA-2025-10233,2024-12-06,2024-12-09,Second Class,CUST-228,Jeremy Pham,Home Office,United States,Port Jessica,Connecticut,East,Office Supplies,Paper,Paper - Model Radio,532.38,9,0.2,198.19
+CA-2025-10234,2024-10-10,2024-10-15,Second Class,CUST-161,Michael Miller,Consumer,United States,Lake Billy,Oklahoma,West,Furniture,Furnishings,Furnishings - Model Spend,292.08,4,0.3,75.85
+CA-2025-10235,2025-05-18,2025-05-19,Standard Class,CUST-190,Crystal Kim,Home Office,United States,West Jamesport,Nebraska,East,Electronics,Laptops,Laptops - Model Arm,510.36,4,0.0,192.49
+CA-2025-10236,2023-01-25,2023-01-26,First Class,CUST-142,Sarah Coleman,Consumer,United States,Elizabethport,South Carolina,West,Office Supplies,Paper,Paper - Model Friend,1444.52,2,0.5,199.75
+CA-2025-10237,2025-09-29,2025-10-02,Standard Class,CUST-116,Sarah Lee,Corporate,United States,Garrettland,Pennsylvania,South,Furniture,Chairs,Chairs - Model Stand,346.29,2,0.5,44.77
+CA-2025-10238,2024-05-18,2024-05-23,First Class,CUST-184,Travis Vargas,Corporate,United States,Robertmouth,Georgia,West,Electronics,Laptops,Laptops - Model Near,887.25,7,0.2,223.06
+CA-2025-10239,2023-12-21,2023-12-25,Second Class,CUST-225,Charles Gutierrez,Consumer,United States,Susanshire,New York,East,Office Supplies,Binders,Binders - Model Author,1386.77,7,0.1,553.25
+CA-2025-10240,2023-07-22,2023-07-23,Same Day,CUST-283,Jon Harris,Consumer,United States,New Michellestad,Florida,East,Furniture,Tables,Tables - Model Institution,1011.78,4,0.3,190.13
+CA-2025-10241,2023-01-01,2023-01-03,First Class,CUST-182,Janice Hall,Home Office,United States,North Daniellemouth,Wisconsin,East,Electronics,Laptops,Laptops - Model Spend,334.49,2,0.0,145.77
+CA-2025-10242,2023-01-22,2023-01-23,Same Day,CUST-176,Robert Hodges,Home Office,United States,Meghanshire,Oklahoma,West,Furniture,Furnishings,Furnishings - Model Own,162.24,1,0.1,50.08
+CA-2025-10243,2025-03-04,2025-03-08,Second Class,CUST-288,Mario Johnson,Consumer,United States,North Rhonda,Indiana,East,Furniture,Furnishings,Furnishings - Model One,292.97,9,0.2,60.01
+CA-2025-10244,2024-03-06,2024-03-10,Standard Class,CUST-176,John Black,Home Office,United States,Port Steventown,Alabama,Central,Electronics,Laptops,Laptops - Model Stage,1419.25,3,0.3,448.99
+CA-2025-10245,2023-01-06,2023-01-09,First Class,CUST-122,Dylan Chapman,Home Office,United States,Lake Patriciaside,Maine,West,Furniture,Tables,Tables - Model Also,918.12,4,0.5,206.64
+CA-2025-10246,2023-07-27,2023-08-01,Same Day,CUST-129,Lauren Valdez,Home Office,United States,Lake Garrettburgh,Utah,East,Furniture,Chairs,Chairs - Model Product,1204.86,10,0.3,291.01
+CA-2025-10247,2023-03-29,2023-03-30,Standard Class,CUST-104,Sherri Taylor,Home Office,United States,Ericview,Florida,East,Furniture,Furnishings,Furnishings - Model Sort,853.17,6,0.5,80.29
+CA-2025-10248,2025-03-25,2025-03-29,Second Class,CUST-108,Kevin Beck,Home Office,United States,Davidmouth,Idaho,Central,Furniture,Furnishings,Furnishings - Model Radio,429.41,4,0.1,192.66
+CA-2025-10249,2024-06-20,2024-06-24,First Class,CUST-255,Sean Pierce,Home Office,United States,Ruiztown,Tennessee,East,Office Supplies,Storage,Storage - Model Affect,1082.0,5,0.3,264.03
+CA-2025-10250,2024-03-25,2024-03-27,Second Class,CUST-212,Lisa Perez,Consumer,United States,Joshuaville,Michigan,East,Office Supplies,Storage,Storage - Model Fund,635.65,5,0.0,299.44
+CA-2025-10251,2025-10-09,2025-10-12,Second Class,CUST-192,Robert Fitzpatrick,Consumer,United States,Danielsfurt,Illinois,Central,Office Supplies,Art,Art - Model Seat,974.72,6,0.1,388.48
+CA-2025-10252,2023-03-29,2023-04-02,First Class,CUST-125,Diana Garcia,Corporate,United States,Sherriborough,Virginia,South,Furniture,Furnishings,Furnishings - Model Soon,1246.65,8,0.5,120.46
+CA-2025-10253,2024-06-23,2024-06-28,Standard Class,CUST-240,Brian Wiggins,Home Office,United States,Lake Nicole,Louisiana,East,Electronics,Audio,Audio - Model Military,832.71,7,0.2,252.97
+CA-2025-10254,2024-01-08,2024-01-13,Same Day,CUST-139,Charles Mitchell,Home Office,United States,Davidton,Washington,Central,Office Supplies,Storage,Storage - Model Along,452.25,10,0.3,131.82
+CA-2025-10255,2025-07-12,2025-07-17,First Class,CUST-244,Andre Arnold,Home Office,United States,East Allisonview,South Dakota,East,Office Supplies,Art,Art - Model Everything,589.41,7,0.5,117.71
+CA-2025-10256,2024-07-08,2024-07-10,Same Day,CUST-205,Justin Sanchez,Corporate,United States,Dorothyport,Connecticut,West,Office Supplies,Binders,Binders - Model Fire,85.57,3,0.2,33.4
+CA-2025-10257,2024-01-24,2024-01-29,First Class,CUST-257,Brooke Taylor,Corporate,United States,Riveraport,Michigan,West,Office Supplies,Paper,Paper - Model Back,161.84,4,0.5,20.73
+CA-2025-10258,2024-02-29,2024-03-04,First Class,CUST-163,Mr. Christopher Jordan MD,Consumer,United States,Zunigaville,Kansas,East,Office Supplies,Paper,Paper - Model Everything,1140.12,7,0.3,130.04
+CA-2025-10259,2023-10-29,2023-11-03,Same Day,CUST-243,Christine Harvey,Corporate,United States,Torresfurt,New York,South,Electronics,Audio,Audio - Model Result,579.51,4,0.0,92.36
+CA-2025-10260,2025-01-24,2025-01-25,Second Class,CUST-111,Kristen Wilson,Home Office,United States,Debbieview,Michigan,West,Electronics,Laptops,Laptops - Model Realize,312.75,8,0.5,62.04
+CA-2025-10261,2024-07-02,2024-07-07,Second Class,CUST-134,Christopher Gibson,Corporate,United States,Port Joshuafort,New York,South,Office Supplies,Binders,Binders - Model Health,487.72,1,0.3,162.81
+CA-2025-10262,2024-01-20,2024-01-23,Standard Class,CUST-133,Glenda Klein,Consumer,United States,New Anthony,Missouri,Central,Furniture,Furnishings,Furnishings - Model Impact,272.58,9,0.1,59.61
+CA-2025-10263,2023-07-25,2023-07-29,Same Day,CUST-282,Samantha Duncan,Consumer,United States,Lake Ashley,Mississippi,West,Furniture,Chairs,Chairs - Model Scene,1080.79,6,0.2,258.18
+CA-2025-10264,2024-08-30,2024-08-31,First Class,CUST-190,Darrell Martin,Home Office,United States,Cassidyville,Iowa,East,Furniture,Furnishings,Furnishings - Model Fast,1446.97,2,0.5,211.22
+CA-2025-10265,2024-04-11,2024-04-15,First Class,CUST-226,Fernando Foster,Home Office,United States,New James,Wyoming,East,Electronics,Smartphones,Smartphones - Model Authority,323.26,9,0.5,61.93
+CA-2025-10266,2023-08-31,2023-09-01,Same Day,CUST-151,Terry Clark,Consumer,United States,New Stevebury,Georgia,Central,Office Supplies,Art,Art - Model Environmental,525.47,4,0.3,156.0
+CA-2025-10267,2025-07-19,2025-07-23,First Class,CUST-290,Daniel Alvarez,Home Office,United States,West David,Colorado,East,Office Supplies,Storage,Storage - Model Data,506.72,8,0.2,147.08
+CA-2025-10268,2025-10-15,2025-10-17,Standard Class,CUST-108,Austin Cervantes,Home Office,United States,New Krystalmouth,New Mexico,Central,Electronics,Audio,Audio - Model Pick,309.85,7,0.0,126.12
+CA-2025-10269,2023-07-20,2023-07-25,Same Day,CUST-180,Susan Powers,Corporate,United States,New Lisa,South Carolina,West,Office Supplies,Art,Art - Model Everything,145.15,1,0.0,53.35
+CA-2025-10270,2023-06-26,2023-07-01,First Class,CUST-203,Teresa Rodriguez,Consumer,United States,Laurashire,Ohio,East,Electronics,Audio,Audio - Model Peace,1213.82,5,0.3,388.2
+CA-2025-10271,2025-05-27,2025-05-30,First Class,CUST-219,Lee Anderson,Consumer,United States,Stephensview,Indiana,West,Electronics,Smartphones,Smartphones - Model Song,856.29,7,0.2,252.57
+CA-2025-10272,2025-12-24,2025-12-27,Same Day,CUST-287,Michael Brandt,Corporate,United States,West Jonathan,Florida,Central,Office Supplies,Storage,Storage - Model Eight,897.88,8,0.5,199.62
+CA-2025-10273,2023-08-08,2023-08-12,First Class,CUST-255,Daniel Pruitt,Home Office,United States,Moranberg,Ohio,South,Furniture,Chairs,Chairs - Model Society,141.86,5,0.5,14.59
+CA-2025-10274,2023-08-09,2023-08-10,Same Day,CUST-222,Courtney Zimmerman,Consumer,United States,Grantton,New Hampshire,West,Electronics,Audio,Audio - Model Thank,474.45,7,0.3,138.3
+CA-2025-10275,2023-02-13,2023-02-15,Standard Class,CUST-173,Jeremy Mora Jr.,Consumer,United States,Connieport,Oklahoma,West,Electronics,Smartphones,Smartphones - Model From,1035.71,7,0.5,89.81
+CA-2025-10276,2025-01-03,2025-01-07,Standard Class,CUST-108,Jane Glass,Corporate,United States,Christyberg,Arkansas,West,Furniture,Tables,Tables - Model Drive,255.77,4,0.0,72.59
+CA-2025-10277,2025-01-17,2025-01-18,First Class,CUST-119,Betty Todd,Home Office,United States,Robertfurt,Minnesota,East,Office Supplies,Art,Art - Model Herself,785.88,10,0.1,140.07
+CA-2025-10278,2025-05-16,2025-05-19,Standard Class,CUST-139,Tanya Cummings,Corporate,United States,East Anthonyberg,New York,West,Office Supplies,Art,Art - Model Kid,774.85,4,0.2,246.22
+CA-2025-10279,2024-10-24,2024-10-27,Same Day,CUST-130,Paul Harper,Home Office,United States,West Amberbury,Delaware,West,Office Supplies,Art,Art - Model Difficult,248.82,5,0.0,73.16
+CA-2025-10280,2025-12-21,2025-12-25,Standard Class,CUST-104,Ian Walker,Home Office,United States,Barrerachester,Vermont,South,Electronics,Accessories,Accessories - Model Factor,115.17,1,0.5,12.99
+CA-2025-10281,2024-12-01,2024-12-02,Same Day,CUST-200,Mrs. Megan Fritz,Corporate,United States,Coxmouth,Minnesota,West,Furniture,Furnishings,Furnishings - Model Within,493.31,2,0.5,77.28
+CA-2025-10282,2023-07-05,2023-07-10,First Class,CUST-271,Alexandra Patel,Consumer,United States,East Abigailstad,New Hampshire,West,Electronics,Audio,Audio - Model Similar,272.22,5,0.5,50.7
+CA-2025-10283,2023-01-03,2023-01-06,Second Class,CUST-107,Antonio Gates,Home Office,United States,Sandrabury,Nebraska,West,Electronics,Accessories,Accessories - Model Reveal,1180.4,7,0.2,178.73
+CA-2025-10284,2024-07-15,2024-07-20,Second Class,CUST-133,Brittany Sanchez,Consumer,United States,North Carrie,Alabama,East,Office Supplies,Binders,Binders - Model Tough,484.87,3,0.2,179.83
+CA-2025-10285,2024-08-28,2024-09-01,First Class,CUST-174,Maurice Knox,Home Office,United States,Michellehaven,New Mexico,Central,Furniture,Furnishings,Furnishings - Model Difference,313.31,10,0.3,47.54
+CA-2025-10286,2025-04-30,2025-05-01,Standard Class,CUST-248,Deanna Steele,Corporate,United States,East Darrellside,Maryland,South,Office Supplies,Storage,Storage - Model Alone,221.4,3,0.5,34.0
+CA-2025-10287,2025-01-02,2025-01-07,Same Day,CUST-172,Nicole Strong,Consumer,United States,South Autumn,North Dakota,Central,Electronics,Smartphones,Smartphones - Model Sing,1124.22,6,0.5,247.9
+CA-2025-10288,2025-08-14,2025-08-17,First Class,CUST-168,Ryan Zamora,Corporate,United States,Timothyshire,North Dakota,West,Furniture,Tables,Tables - Model Moment,301.16,4,0.2,90.45
+CA-2025-10289,2024-10-11,2024-10-12,First Class,CUST-140,Christopher Rodriguez,Home Office,United States,Ramirezborough,South Carolina,West,Office Supplies,Binders,Binders - Model Cost,333.05,4,0.1,142.23
+CA-2025-10290,2025-03-01,2025-03-02,Standard Class,CUST-238,Janet Cox,Corporate,United States,Zhangberg,Alaska,East,Office Supplies,Art,Art - Model Day,750.5,5,0.3,226.12
+CA-2025-10291,2025-04-03,2025-04-04,Same Day,CUST-218,Michele Gonzales,Corporate,United States,Georgeshire,Texas,Central,Office Supplies,Art,Art - Model Suddenly,987.63,5,0.2,173.4
+CA-2025-10292,2024-11-21,2024-11-25,Second Class,CUST-245,Mrs. Stacie Barnes,Consumer,United States,Kimberlyshire,Alaska,West,Electronics,Accessories,Accessories - Model Hear,868.48,7,0.3,116.48
+CA-2025-10293,2023-08-31,2023-09-01,First Class,CUST-239,Stephen Flores,Corporate,United States,East Suzannemouth,Georgia,Central,Office Supplies,Paper,Paper - Model Teacher,1292.51,1,0.0,360.38
+CA-2025-10294,2023-02-21,2023-02-22,First Class,CUST-245,Kurt Estrada,Home Office,United States,Lake Angelicafort,Oregon,East,Electronics,Smartphones,Smartphones - Model Behavior,1178.23,7,0.1,510.72
+CA-2025-10295,2025-01-30,2025-02-03,Second Class,CUST-132,David Newman,Home Office,United States,Martinburgh,Florida,South,Furniture,Chairs,Chairs - Model Race,589.01,4,0.3,143.56
+CA-2025-10296,2024-11-01,2024-11-05,First Class,CUST-162,Brittany Kirby,Corporate,United States,Markstad,Ohio,Central,Furniture,Furnishings,Furnishings - Model Management,742.41,3,0.3,131.77
+CA-2025-10297,2025-03-26,2025-03-28,Standard Class,CUST-260,Steven King,Home Office,United States,West Susan,Massachusetts,South,Electronics,Smartphones,Smartphones - Model Policy,1440.3,7,0.3,258.91
+CA-2025-10298,2024-09-17,2024-09-21,First Class,CUST-171,Stephen Evans,Home Office,United States,Mortonbury,Michigan,Central,Office Supplies,Binders,Binders - Model Dinner,601.07,3,0.1,133.67
+CA-2025-10299,2024-11-06,2024-11-07,Same Day,CUST-109,Samuel Long,Consumer,United States,Samuelport,South Dakota,West,Furniture,Chairs,Chairs - Model Together,731.51,6,0.5,138.05
+CA-2025-10300,2024-01-23,2024-01-24,Second Class,CUST-231,Melissa Jones,Consumer,United States,South Tonyatown,Idaho,East,Office Supplies,Storage,Storage - Model Issue,1010.74,1,0.2,345.59
+CA-2025-10301,2025-05-24,2025-05-29,Same Day,CUST-169,Rebecca Martin,Corporate,United States,Lake Kimberlyfurt,Connecticut,East,Office Supplies,Art,Art - Model Number,606.27,4,0.0,281.57
+CA-2025-10302,2024-12-29,2025-01-03,Standard Class,CUST-171,Dana Burns,Corporate,United States,Hodgesland,Texas,Central,Furniture,Bookcases,Bookcases - Model Help,604.65,3,0.3,76.85
+CA-2025-10303,2025-10-16,2025-10-19,Standard Class,CUST-117,Bailey Bell,Home Office,United States,Isaacberg,Nebraska,South,Furniture,Tables,Tables - Model Down,499.07,7,0.3,71.96
+CA-2025-10304,2023-04-22,2023-04-24,Second Class,CUST-192,Colin Sullivan,Consumer,United States,West Charlesstad,Alabama,South,Electronics,Audio,Audio - Model Other,797.49,6,0.3,233.16
+CA-2025-10305,2025-12-02,2025-12-04,Same Day,CUST-269,Steven Trujillo,Corporate,United States,Maryside,Iowa,Central,Office Supplies,Binders,Binders - Model Resource,978.1,8,0.1,401.1
+CA-2025-10306,2024-07-01,2024-07-06,Standard Class,CUST-288,Geoffrey Johnson,Consumer,United States,Murphystad,Indiana,East,Furniture,Bookcases,Bookcases - Model Many,656.67,10,0.2,108.33
+CA-2025-10307,2023-07-14,2023-07-19,Same Day,CUST-192,Kimberly Wood,Corporate,United States,New Deborahberg,Alabama,East,Electronics,Smartphones,Smartphones - Model Kid,902.95,3,0.0,443.47
+CA-2025-10308,2023-11-11,2023-11-16,Same Day,CUST-152,Sarah Banks,Corporate,United States,Warrenfurt,Kansas,South,Office Supplies,Storage,Storage - Model Threat,1346.24,7,0.5,243.61
+CA-2025-10309,2024-05-30,2024-06-03,Second Class,CUST-280,Tara Juarez,Consumer,United States,West Brianberg,Ohio,East,Electronics,Laptops,Laptops - Model Seven,77.75,1,0.5,10.05
+CA-2025-10310,2025-06-26,2025-07-01,Second Class,CUST-198,Jordan Wright,Corporate,United States,Port Caitlin,Colorado,East,Electronics,Audio,Audio - Model Parent,704.56,7,0.0,136.13
+CA-2025-10311,2025-04-24,2025-04-27,Same Day,CUST-250,Michael Burke,Corporate,United States,Stephanieview,Oklahoma,South,Electronics,Smartphones,Smartphones - Model Very,759.26,7,0.2,137.22
+CA-2025-10312,2025-03-07,2025-03-09,Standard Class,CUST-271,Gary Harmon,Home Office,United States,Christopherchester,Maine,South,Furniture,Furnishings,Furnishings - Model Education,838.14,2,0.3,219.9
+CA-2025-10313,2024-07-13,2024-07-16,Same Day,CUST-275,Tyler Barron,Corporate,United States,Lake Marktown,Colorado,South,Furniture,Furnishings,Furnishings - Model Material,1372.08,8,0.2,469.96
+CA-2025-10314,2023-11-30,2023-12-04,First Class,CUST-206,Cathy Duke,Home Office,United States,East Ginaside,Virginia,South,Office Supplies,Binders,Binders - Model Story,1307.24,5,0.1,352.83
+CA-2025-10315,2024-12-04,2024-12-09,Second Class,CUST-180,Christine Collins,Corporate,United States,Debraberg,Arkansas,East,Furniture,Furnishings,Furnishings - Model You,1339.37,1,0.2,517.24
+CA-2025-10316,2024-05-09,2024-05-14,Same Day,CUST-213,Christine Hart,Consumer,United States,West Rachael,California,East,Furniture,Furnishings,Furnishings - Model Democrat,1107.35,8,0.2,258.34
+CA-2025-10317,2025-12-26,2025-12-29,Standard Class,CUST-196,Kyle Hunt,Home Office,United States,Jameshaven,Kentucky,South,Electronics,Laptops,Laptops - Model Yeah,1156.7,7,0.5,264.28
+CA-2025-10318,2023-07-24,2023-07-27,Standard Class,CUST-254,Vincent Ford,Corporate,United States,Veronicaland,Florida,Central,Electronics,Accessories,Accessories - Model Offer,438.13,1,0.2,88.54
+CA-2025-10319,2023-10-26,2023-10-27,First Class,CUST-110,Chad Forbes,Consumer,United States,Weaverview,Nebraska,West,Office Supplies,Storage,Storage - Model Life,267.71,9,0.2,95.68
+CA-2025-10320,2023-06-13,2023-06-18,Second Class,CUST-206,Emily Ford,Consumer,United States,Lake Roberthaven,Kansas,West,Electronics,Laptops,Laptops - Model College,857.22,4,0.5,112.63
+CA-2025-10321,2023-02-25,2023-02-26,Same Day,CUST-128,Kelsey Holland,Corporate,United States,Jacksonborough,Iowa,West,Office Supplies,Paper,Paper - Model Development,723.2,9,0.0,148.19
+CA-2025-10322,2025-12-29,2026-01-01,Same Day,CUST-102,Thomas Gardner,Home Office,United States,East Mollystad,Utah,West,Electronics,Smartphones,Smartphones - Model Full,1256.59,10,0.3,203.2
+CA-2025-10323,2023-06-07,2023-06-08,Standard Class,CUST-187,Mark Tucker,Consumer,United States,North Michael,Connecticut,West,Furniture,Chairs,Chairs - Model Choose,696.36,1,0.1,283.5
+CA-2025-10324,2025-02-04,2025-02-07,First Class,CUST-238,Sarah Harrison,Home Office,United States,New Priscilla,Kansas,East,Electronics,Audio,Audio - Model Teach,263.3,6,0.5,35.06
+CA-2025-10325,2025-05-12,2025-05-17,Second Class,CUST-100,Matthew Fisher,Home Office,United States,Sotoland,Maine,East,Office Supplies,Paper,Paper - Model Gas,943.46,8,0.1,128.21
+CA-2025-10326,2024-09-16,2024-09-20,Same Day,CUST-113,Jeremy Simpson,Consumer,United States,Collinsburgh,Illinois,East,Electronics,Accessories,Accessories - Model Ten,1378.12,1,0.2,280.62
+CA-2025-10327,2023-03-22,2023-03-27,Same Day,CUST-137,Bobby Combs,Home Office,United States,Brownhaven,New Jersey,South,Electronics,Accessories,Accessories - Model Mean,797.49,3,0.0,193.96
+CA-2025-10328,2024-02-18,2024-02-19,Second Class,CUST-111,Nicholas White,Consumer,United States,West Johnside,Nevada,Central,Electronics,Smartphones,Smartphones - Model Investment,1478.19,2,0.3,271.0
+CA-2025-10329,2024-05-05,2024-05-09,Same Day,CUST-136,Brandi Jennings,Consumer,United States,Reidberg,Indiana,South,Office Supplies,Storage,Storage - Model Good,955.24,1,0.2,375.06
+CA-2025-10330,2025-09-09,2025-09-14,Same Day,CUST-105,Shannon Callahan,Consumer,United States,Johnberg,South Dakota,East,Office Supplies,Storage,Storage - Model Me,65.39,7,0.1,25.25
+CA-2025-10331,2024-08-11,2024-08-14,First Class,CUST-128,Nathan Green,Corporate,United States,Port Josephburgh,West Virginia,Central,Furniture,Furnishings,Furnishings - Model Word,53.04,9,0.2,20.42
+CA-2025-10332,2024-12-09,2024-12-12,Standard Class,CUST-202,Dwayne Thomas,Home Office,United States,West Adamburgh,Wyoming,East,Furniture,Chairs,Chairs - Model Specific,289.7,4,0.5,54.14
+CA-2025-10333,2024-04-15,2024-04-19,Second Class,CUST-248,Rebekah Gutierrez,Corporate,United States,West Michaelfort,Michigan,East,Furniture,Tables,Tables - Model Represent,473.57,5,0.1,141.72
+CA-2025-10334,2025-01-16,2025-01-19,Standard Class,CUST-226,Diana Salazar,Corporate,United States,Glenton,Texas,Central,Electronics,Audio,Audio - Model Company,1058.07,9,0.3,340.79
+CA-2025-10335,2025-08-27,2025-09-01,Standard Class,CUST-158,Stephen Wilson,Corporate,United States,Kirbyport,Missouri,South,Electronics,Smartphones,Smartphones - Model Would,282.59,6,0.1,97.3
+CA-2025-10336,2024-01-02,2024-01-07,Standard Class,CUST-250,Matthew Frost,Home Office,United States,West Kelseyberg,Delaware,Central,Furniture,Tables,Tables - Model Table,454.59,7,0.5,52.27
+CA-2025-10337,2024-08-08,2024-08-10,Same Day,CUST-209,Angela Lopez,Corporate,United States,Jessicaside,North Carolina,West,Furniture,Tables,Tables - Model Stand,475.09,10,0.1,199.59
+CA-2025-10338,2023-08-08,2023-08-09,Same Day,CUST-119,Katherine Perez,Home Office,United States,Wilsonmouth,West Virginia,West,Furniture,Furnishings,Furnishings - Model Civil,981.97,3,0.5,149.99
+CA-2025-10339,2025-01-27,2025-01-30,Standard Class,CUST-282,Deborah Daniels,Home Office,United States,South Shane,Idaho,East,Office Supplies,Paper,Paper - Model Seven,104.65,3,0.5,13.37
+CA-2025-10340,2025-07-15,2025-07-17,First Class,CUST-204,Anthony Reyes,Consumer,United States,South Terri,Louisiana,West,Electronics,Accessories,Accessories - Model Culture,322.47,4,0.0,114.68
+CA-2025-10341,2025-01-10,2025-01-12,Same Day,CUST-102,Jessica Hernandez,Home Office,United States,Reneestad,Idaho,South,Electronics,Audio,Audio - Model See,1455.45,10,0.1,552.84
+CA-2025-10342,2024-01-31,2024-02-02,Same Day,CUST-155,Lauren Alexander,Home Office,United States,Masonmouth,New Mexico,East,Furniture,Furnishings,Furnishings - Model Argue,791.28,8,0.1,147.68
+CA-2025-10343,2025-07-08,2025-07-10,Second Class,CUST-219,Matthew Martinez,Consumer,United States,Lake Kenneth,Maine,East,Electronics,Laptops,Laptops - Model Industry,518.3,6,0.1,97.28
+CA-2025-10344,2023-06-03,2023-06-06,First Class,CUST-252,Tim Coffey,Corporate,United States,West Keithberg,Ohio,West,Office Supplies,Storage,Storage - Model Second,850.27,2,0.5,200.11
+CA-2025-10345,2023-07-14,2023-07-16,Standard Class,CUST-182,Thomas Williams,Consumer,United States,Lake Jeremyfurt,Maine,East,Office Supplies,Art,Art - Model Purpose,978.57,8,0.1,224.59
+CA-2025-10346,2025-04-28,2025-04-29,Second Class,CUST-112,Carrie Clark,Corporate,United States,South Mark,Delaware,Central,Electronics,Smartphones,Smartphones - Model Town,282.0,3,0.3,88.76
+CA-2025-10347,2024-12-16,2024-12-18,Same Day,CUST-153,Michelle Burke,Consumer,United States,Schwartztown,Minnesota,West,Furniture,Tables,Tables - Model Use,738.33,2,0.1,196.43
+CA-2025-10348,2025-08-04,2025-08-09,Same Day,CUST-192,Amanda Sanchez,Home Office,United States,New Ginastad,Massachusetts,Central,Electronics,Accessories,Accessories - Model Charge,633.43,9,0.0,184.04
+CA-2025-10349,2025-05-29,2025-06-01,Same Day,CUST-199,Kimberly Carter,Home Office,United States,Lake Austinmouth,Maine,West,Electronics,Smartphones,Smartphones - Model Need,421.74,1,0.5,83.86
+CA-2025-10350,2024-08-05,2024-08-09,Standard Class,CUST-229,Jake Gray,Home Office,United States,Lake Alexandria,Maryland,South,Electronics,Accessories,Accessories - Model Sort,956.25,10,0.1,281.26
+CA-2025-10351,2024-01-23,2024-01-24,Standard Class,CUST-292,Gerald Payne,Corporate,United States,Harrisstad,California,South,Electronics,Audio,Audio - Model Power,275.12,7,0.3,50.74
+CA-2025-10352,2023-06-12,2023-06-15,First Class,CUST-280,Morgan Rowland,Corporate,United States,Montoyaberg,Michigan,South,Office Supplies,Paper,Paper - Model Author,282.17,8,0.5,47.77
+CA-2025-10353,2023-04-28,2023-04-30,First Class,CUST-258,Erika Hale,Consumer,United States,South Gabriela,Wisconsin,Central,Office Supplies,Binders,Binders - Model Difference,212.38,9,0.2,40.96
+CA-2025-10354,2024-11-29,2024-12-02,First Class,CUST-236,Nathan Arroyo,Home Office,United States,Davidberg,Nevada,Central,Office Supplies,Art,Art - Model Note,1432.11,3,0.0,670.24
+CA-2025-10355,2024-05-05,2024-05-06,Second Class,CUST-256,Rachael Ruiz,Corporate,United States,North Lisa,Kansas,East,Furniture,Tables,Tables - Model Operation,1381.66,9,0.2,404.43
+CA-2025-10356,2024-01-06,2024-01-08,Second Class,CUST-121,Stephanie Arellano,Corporate,United States,East Brittanybury,New Jersey,South,Electronics,Audio,Audio - Model Memory,1437.97,3,0.3,408.27
+CA-2025-10357,2024-02-18,2024-02-21,Second Class,CUST-291,Daniel Winters Jr.,Consumer,United States,Lozanoview,Minnesota,South,Office Supplies,Storage,Storage - Model Deep,896.33,10,0.5,113.0
+CA-2025-10358,2024-10-08,2024-10-12,Same Day,CUST-136,Mason Dyer,Home Office,United States,Lake Andrew,Oregon,East,Office Supplies,Paper,Paper - Model Method,1241.72,3,0.0,568.8
+CA-2025-10359,2025-03-28,2025-03-29,Same Day,CUST-178,Tim Whitaker,Consumer,United States,New Jeffreyburgh,Maryland,Central,Furniture,Chairs,Chairs - Model Region,500.4,3,0.5,116.25
+CA-2025-10360,2025-11-18,2025-11-19,First Class,CUST-266,Patrick Potter,Consumer,United States,Gibsonborough,Tennessee,Central,Office Supplies,Art,Art - Model Soon,1005.21,3,0.0,215.38
+CA-2025-10361,2025-05-18,2025-05-23,First Class,CUST-266,Jennifer Villarreal,Corporate,United States,Adamland,Connecticut,South,Furniture,Tables,Tables - Model Decade,678.14,6,0.5,70.02
+CA-2025-10362,2025-04-11,2025-04-16,Standard Class,CUST-270,Kristen Fowler,Consumer,United States,East Timothy,Maryland,East,Electronics,Accessories,Accessories - Model Small,547.32,5,0.5,54.05
+CA-2025-10363,2024-08-31,2024-09-02,Standard Class,CUST-296,Jennifer Herman,Home Office,United States,Scottshire,Oregon,West,Office Supplies,Paper,Paper - Model Unit,219.3,8,0.2,36.85
+CA-2025-10364,2024-01-14,2024-01-19,Same Day,CUST-121,John Lucas,Home Office,United States,Leeville,North Carolina,East,Office Supplies,Art,Art - Model Store,539.74,9,0.3,146.54
+CA-2025-10365,2025-07-11,2025-07-14,Second Class,CUST-174,Brian Klein,Home Office,United States,Josephton,Tennessee,South,Office Supplies,Binders,Binders - Model Computer,111.05,5,0.3,24.44
+CA-2025-10366,2025-01-25,2025-01-30,Second Class,CUST-155,Ashley Lynch,Corporate,United States,New Elizabethview,New Jersey,East,Furniture,Furnishings,Furnishings - Model Pm,1069.43,5,0.1,168.7
+CA-2025-10367,2025-02-12,2025-02-13,Same Day,CUST-173,Scott Figueroa,Corporate,United States,Mitchellhaven,Oregon,Central,Office Supplies,Storage,Storage - Model Audience,509.44,3,0.0,154.74
+CA-2025-10368,2024-02-04,2024-02-05,Standard Class,CUST-151,Rick Watson,Corporate,United States,New Jermaine,West Virginia,Central,Furniture,Chairs,Chairs - Model Sell,148.63,1,0.1,23.53
+CA-2025-10369,2024-01-22,2024-01-24,Same Day,CUST-283,Daniel Peterson,Home Office,United States,Mirandastad,Indiana,South,Furniture,Tables,Tables - Model Form,981.25,5,0.2,209.01
+CA-2025-10370,2023-02-22,2023-02-27,First Class,CUST-254,Christopher Pitts,Home Office,United States,Markmouth,Montana,East,Electronics,Smartphones,Smartphones - Model Enjoy,1094.06,3,0.5,111.6
+CA-2025-10371,2024-01-01,2024-01-04,Standard Class,CUST-283,Amanda Thomas,Corporate,United States,Port Tony,Georgia,East,Furniture,Bookcases,Bookcases - Model Paper,975.66,9,0.2,220.41
+CA-2025-10372,2025-09-03,2025-09-07,Second Class,CUST-179,Mr. Jordan Stone,Home Office,United States,Port Janet,Wyoming,West,Furniture,Bookcases,Bookcases - Model Lot,812.32,3,0.0,221.98
+CA-2025-10373,2025-11-29,2025-12-03,First Class,CUST-196,Jose Armstrong,Corporate,United States,Patelborough,Connecticut,Central,Office Supplies,Art,Art - Model Admit,172.98,4,0.5,23.03
+CA-2025-10374,2023-03-16,2023-03-20,First Class,CUST-161,Kirk Johnston,Home Office,United States,South Allison,California,East,Electronics,Accessories,Accessories - Model Suffer,310.42,3,0.3,100.97
+CA-2025-10375,2025-08-02,2025-08-07,First Class,CUST-188,Angela Moore,Consumer,United States,Raymondstad,Kansas,Central,Furniture,Chairs,Chairs - Model Your,898.16,6,0.3,171.44
+CA-2025-10376,2024-01-14,2024-01-18,Standard Class,CUST-182,Rebecca Wu,Home Office,United States,Briantown,California,West,Furniture,Tables,Tables - Model Major,1101.08,1,0.0,501.25
+CA-2025-10377,2024-08-14,2024-08-15,Second Class,CUST-227,Douglas Roy,Corporate,United States,West Nicholas,Nevada,Central,Electronics,Accessories,Accessories - Model Hand,1469.25,6,0.1,233.13
+CA-2025-10378,2024-10-28,2024-10-31,Same Day,CUST-213,Michelle Steele,Corporate,United States,Jenniferton,Alaska,Central,Electronics,Smartphones,Smartphones - Model Make,551.95,7,0.1,91.19
+CA-2025-10379,2025-07-28,2025-07-31,Standard Class,CUST-250,Dr. Jennifer Waters,Corporate,United States,Gonzalesport,New York,East,Electronics,Audio,Audio - Model Son,1318.35,8,0.1,504.9
+CA-2025-10380,2024-08-12,2024-08-17,Same Day,CUST-189,Allison Nelson,Corporate,United States,Reedstad,North Dakota,East,Office Supplies,Storage,Storage - Model Loss,1115.82,7,0.5,273.11
+CA-2025-10381,2024-09-13,2024-09-17,Second Class,CUST-163,Tyler Gray,Consumer,United States,Richardsonville,Alaska,Central,Electronics,Smartphones,Smartphones - Model Do,236.62,4,0.0,67.07
+CA-2025-10382,2025-11-16,2025-11-19,Standard Class,CUST-288,Kathryn Sullivan,Corporate,United States,South Matthew,California,Central,Furniture,Furnishings,Furnishings - Model Yet,1065.33,9,0.5,199.32
+CA-2025-10383,2023-07-18,2023-07-23,Standard Class,CUST-193,Derek Berry,Home Office,United States,West Pamela,Ohio,East,Electronics,Smartphones,Smartphones - Model Change,1016.6,10,0.3,234.02
+CA-2025-10384,2024-01-30,2024-02-03,Standard Class,CUST-139,Lisa Rodriguez,Consumer,United States,Charlenetown,Indiana,South,Office Supplies,Binders,Binders - Model Respond,1141.18,4,0.1,362.02
+CA-2025-10385,2025-05-20,2025-05-25,Same Day,CUST-192,Lawrence Maxwell,Consumer,United States,North Shawn,Wisconsin,South,Office Supplies,Art,Art - Model Not,1081.29,9,0.3,312.7
+CA-2025-10386,2024-10-08,2024-10-11,Standard Class,CUST-238,Nathaniel Carter,Corporate,United States,Johnsonfurt,Missouri,West,Furniture,Furnishings,Furnishings - Model Either,938.86,9,0.5,131.27
+CA-2025-10387,2024-09-30,2024-10-02,Second Class,CUST-265,Jacob Butler,Corporate,United States,Duranview,Virginia,South,Electronics,Audio,Audio - Model Institution,28.26,7,0.2,5.89
+CA-2025-10388,2025-02-06,2025-02-10,Second Class,CUST-214,Donald Gonzalez,Consumer,United States,South Ian,Virginia,East,Electronics,Smartphones,Smartphones - Model Drop,783.49,8,0.0,321.77
+CA-2025-10389,2025-10-10,2025-10-12,First Class,CUST-258,Crystal Aguilar,Home Office,United States,Thomasbury,South Dakota,Central,Electronics,Smartphones,Smartphones - Model Star,139.69,5,0.3,35.91
+CA-2025-10390,2024-12-23,2024-12-26,First Class,CUST-250,Rebecca Ruiz,Home Office,United States,North Christopherborough,California,East,Office Supplies,Storage,Storage - Model Here,1269.23,3,0.3,183.09
+CA-2025-10391,2023-09-25,2023-09-30,Second Class,CUST-282,Micheal Brown,Consumer,United States,Ruizmouth,Kentucky,West,Electronics,Smartphones,Smartphones - Model Heavy,1163.18,9,0.5,187.84
+CA-2025-10392,2023-03-04,2023-03-06,Same Day,CUST-285,Brianna Charles,Consumer,United States,Larryfurt,Montana,East,Furniture,Bookcases,Bookcases - Model Story,110.9,6,0.5,12.32
+CA-2025-10393,2024-03-17,2024-03-21,Same Day,CUST-229,Matthew Cooper,Corporate,United States,Davischester,Maryland,East,Furniture,Bookcases,Bookcases - Model Guess,133.54,9,0.2,16.97
+CA-2025-10394,2024-08-07,2024-08-09,First Class,CUST-113,Christopher Chavez,Consumer,United States,Port Carolynchester,North Dakota,East,Electronics,Audio,Audio - Model Campaign,1204.62,3,0.5,147.56
+CA-2025-10395,2024-10-13,2024-10-16,First Class,CUST-251,Brandon Brown,Corporate,United States,Lake Justin,Louisiana,West,Furniture,Furnishings,Furnishings - Model Movie,598.57,9,0.3,144.67
+CA-2025-10396,2025-04-11,2025-04-13,Standard Class,CUST-230,Jenny Horton,Consumer,United States,Brendabury,North Dakota,West,Office Supplies,Storage,Storage - Model Discover,212.59,8,0.1,87.79
+CA-2025-10397,2025-03-15,2025-03-19,Standard Class,CUST-106,Phillip Bowman,Corporate,United States,Matthewfurt,Washington,East,Office Supplies,Binders,Binders - Model Send,307.74,2,0.2,117.5
+CA-2025-10398,2023-05-22,2023-05-24,Same Day,CUST-291,Karen Evans,Consumer,United States,Port Pamela,Iowa,South,Furniture,Bookcases,Bookcases - Model Success,1480.23,2,0.2,229.62
+CA-2025-10399,2023-05-20,2023-05-21,Standard Class,CUST-291,Suzanne Cummings,Home Office,United States,Sonyachester,North Carolina,West,Furniture,Tables,Tables - Model Term,348.36,7,0.0,146.54
+CA-2025-10400,2023-01-30,2023-01-31,First Class,CUST-107,Matthew Liu,Consumer,United States,Lake Eric,Arkansas,South,Office Supplies,Paper,Paper - Model Strategy,1400.61,10,0.0,282.36
+CA-2025-10401,2024-11-18,2024-11-20,Standard Class,CUST-167,Michele Mcfarland,Consumer,United States,Danielton,Maryland,Central,Electronics,Smartphones,Smartphones - Model Drive,841.82,1,0.3,259.02
+CA-2025-10402,2025-11-10,2025-11-15,First Class,CUST-183,Marcus Wilson,Home Office,United States,Lake Sarahburgh,Montana,East,Electronics,Audio,Audio - Model Office,143.06,3,0.2,18.44
+CA-2025-10403,2023-08-20,2023-08-24,Second Class,CUST-295,Ian Davis,Consumer,United States,Port Bethfurt,South Dakota,South,Office Supplies,Art,Art - Model Agree,228.18,7,0.1,69.02
+CA-2025-10404,2025-04-26,2025-04-28,Standard Class,CUST-101,Beth Snow,Home Office,United States,Sandramouth,Oklahoma,West,Electronics,Accessories,Accessories - Model Cost,383.45,10,0.0,172.59
+CA-2025-10405,2024-05-23,2024-05-24,First Class,CUST-223,Kelly Leblanc,Corporate,United States,Hannahport,Alabama,Central,Office Supplies,Paper,Paper - Model Follow,1179.98,10,0.2,370.81
+CA-2025-10406,2024-11-19,2024-11-21,Standard Class,CUST-266,Raymond Mckenzie,Home Office,United States,Port Patrick,Delaware,East,Office Supplies,Paper,Paper - Model Table,805.41,6,0.5,129.95
+CA-2025-10407,2025-11-10,2025-11-11,Second Class,CUST-152,Jocelyn Pearson,Corporate,United States,Kathyhaven,Connecticut,East,Office Supplies,Storage,Storage - Model Too,1008.53,8,0.2,151.74
+CA-2025-10408,2025-09-13,2025-09-14,Same Day,CUST-159,Stephen Ortiz,Consumer,United States,West Jenniferhaven,Nevada,East,Electronics,Accessories,Accessories - Model Buy,1112.9,10,0.3,202.93
+CA-2025-10409,2025-12-09,2025-12-12,First Class,CUST-221,Christopher Lawson,Home Office,United States,Port Kenneth,Arkansas,West,Electronics,Audio,Audio - Model Room,141.65,2,0.1,57.41
+CA-2025-10410,2024-01-20,2024-01-22,First Class,CUST-299,Richard Middleton,Corporate,United States,Jamesside,Michigan,South,Electronics,Laptops,Laptops - Model Rule,414.78,2,0.1,170.16
+CA-2025-10411,2025-12-03,2025-12-04,Standard Class,CUST-221,Sheila Bradshaw,Consumer,United States,Lopezstad,New Hampshire,Central,Office Supplies,Binders,Binders - Model Plan,906.9,9,0.5,148.68
+CA-2025-10412,2023-06-25,2023-06-27,Same Day,CUST-254,Levi Perry,Home Office,United States,South Daniel,Maryland,West,Electronics,Accessories,Accessories - Model Full,1111.18,5,0.2,375.22
+CA-2025-10413,2023-04-29,2023-05-01,Standard Class,CUST-184,Lisa Jones,Corporate,United States,South Kimstad,Connecticut,South,Furniture,Chairs,Chairs - Model Light,1371.69,10,0.1,379.8
+CA-2025-10414,2024-08-16,2024-08-19,First Class,CUST-186,Michael Reyes,Corporate,United States,West Jeffreybury,New Mexico,Central,Electronics,Audio,Audio - Model Word,208.17,2,0.0,85.75
+CA-2025-10415,2024-03-08,2024-03-10,Same Day,CUST-265,Victoria Logan,Consumer,United States,North Christian,Wyoming,Central,Office Supplies,Binders,Binders - Model Meeting,951.22,6,0.5,129.63
+CA-2025-10416,2024-09-11,2024-09-13,Standard Class,CUST-250,April Mcneil,Corporate,United States,West Drew,Maine,West,Furniture,Furnishings,Furnishings - Model Think,59.11,3,0.2,21.39
+CA-2025-10417,2024-06-29,2024-07-04,First Class,CUST-107,Ethan Martin,Home Office,United States,East Judith,Alabama,West,Electronics,Audio,Audio - Model Movement,1238.11,3,0.0,581.27
+CA-2025-10418,2025-12-13,2025-12-17,Second Class,CUST-288,Timothy Holloway,Consumer,United States,Port Lisafort,Louisiana,South,Electronics,Audio,Audio - Model Apply,387.51,9,0.1,120.25
+CA-2025-10419,2024-10-20,2024-10-22,Second Class,CUST-153,Emily Williams,Consumer,United States,Lake Justinfort,Utah,South,Office Supplies,Storage,Storage - Model Campaign,833.92,8,0.3,128.16
+CA-2025-10420,2023-08-04,2023-08-05,First Class,CUST-288,Randy Morales,Corporate,United States,North Gilbert,New Hampshire,West,Furniture,Tables,Tables - Model They,1220.41,8,0.2,459.48
+CA-2025-10421,2024-01-08,2024-01-12,First Class,CUST-293,Joshua Brown,Consumer,United States,Wendyland,Pennsylvania,South,Furniture,Furnishings,Furnishings - Model Performance,125.45,8,0.5,21.97
+CA-2025-10422,2023-08-23,2023-08-27,Second Class,CUST-253,Danielle Jackson,Consumer,United States,New Sarah,Vermont,South,Furniture,Chairs,Chairs - Model Left,1175.21,10,0.2,206.19
+CA-2025-10423,2025-11-08,2025-11-10,First Class,CUST-169,Autumn Nelson,Home Office,United States,East Justinbury,North Dakota,Central,Furniture,Bookcases,Bookcases - Model Democrat,498.02,3,0.0,157.08
+CA-2025-10424,2024-12-24,2024-12-26,Same Day,CUST-121,Kenneth Deleon,Consumer,United States,New Jenniferton,New Jersey,South,Office Supplies,Art,Art - Model Southern,46.66,6,0.0,22.67
+CA-2025-10425,2023-07-12,2023-07-14,Second Class,CUST-193,Joel Tapia,Consumer,United States,Cooleyland,Nebraska,East,Furniture,Bookcases,Bookcases - Model Order,210.08,2,0.2,41.93
+CA-2025-10426,2024-12-13,2024-12-15,Standard Class,CUST-177,Spencer Mcclure,Home Office,United States,Jenkinsburgh,North Dakota,South,Furniture,Chairs,Chairs - Model Real,502.46,6,0.2,107.65
+CA-2025-10427,2023-08-15,2023-08-16,Same Day,CUST-194,Laura Graham,Corporate,United States,Port Carla,Iowa,South,Office Supplies,Art,Art - Model Hundred,533.88,3,0.3,85.66
+CA-2025-10428,2023-10-10,2023-10-12,Second Class,CUST-274,Christian Hart,Home Office,United States,Cooperland,Illinois,South,Furniture,Bookcases,Bookcases - Model Easy,770.27,9,0.2,160.45
+CA-2025-10429,2025-06-17,2025-06-20,First Class,CUST-283,Tyler Middleton,Consumer,United States,Coleton,Pennsylvania,West,Office Supplies,Paper,Paper - Model Thousand,415.91,1,0.1,75.48
+CA-2025-10430,2024-07-25,2024-07-27,Same Day,CUST-260,Christopher Williams,Corporate,United States,South Kevinview,Connecticut,East,Furniture,Chairs,Chairs - Model Indicate,1216.33,3,0.5,139.74
+CA-2025-10431,2023-04-05,2023-04-09,Standard Class,CUST-120,Julia Kelly,Consumer,United States,East Michelle,Washington,South,Furniture,Chairs,Chairs - Model Drug,306.61,2,0.2,91.47
+CA-2025-10432,2023-07-28,2023-08-01,First Class,CUST-110,Scott Nelson,Corporate,United States,Shannonshire,Arizona,West,Electronics,Audio,Audio - Model Record,330.83,9,0.1,59.39
+CA-2025-10433,2024-02-23,2024-02-27,Standard Class,CUST-119,Michele Fox,Home Office,United States,Dunnburgh,Colorado,South,Electronics,Audio,Audio - Model Go,577.45,1,0.1,124.09
+CA-2025-10434,2023-08-02,2023-08-04,Standard Class,CUST-186,Tiffany Bowen,Home Office,United States,Christopherville,North Carolina,South,Furniture,Tables,Tables - Model Enough,28.43,9,0.5,5.77
+CA-2025-10435,2025-11-15,2025-11-18,Second Class,CUST-285,Rebecca Williams,Corporate,United States,Staceytown,Wyoming,East,Electronics,Smartphones,Smartphones - Model Responsibility,1018.55,2,0.3,203.55
+CA-2025-10436,2023-01-04,2023-01-08,Standard Class,CUST-204,Jose Hahn,Home Office,United States,North Laura,Louisiana,East,Office Supplies,Art,Art - Model Research,1124.48,4,0.2,385.91
+CA-2025-10437,2024-09-13,2024-09-17,Same Day,CUST-253,Crystal Lawson,Home Office,United States,West Ashley,Ohio,West,Office Supplies,Binders,Binders - Model Bad,273.07,6,0.2,99.64
+CA-2025-10438,2024-06-01,2024-06-04,Same Day,CUST-233,Ronald Mullins,Home Office,United States,Tiffanybury,Hawaii,West,Office Supplies,Storage,Storage - Model American,941.51,5,0.1,412.46
+CA-2025-10439,2023-07-03,2023-07-05,Standard Class,CUST-265,Michelle Schneider,Corporate,United States,Kennethfort,California,East,Office Supplies,Art,Art - Model Agency,1478.73,9,0.3,446.56
+CA-2025-10440,2023-05-04,2023-05-07,Second Class,CUST-260,Ricky Lee,Consumer,United States,Port Rhondaville,Louisiana,East,Office Supplies,Binders,Binders - Model Actually,1079.92,4,0.0,380.6
+CA-2025-10441,2024-10-19,2024-10-24,Same Day,CUST-162,Kevin Jones,Consumer,United States,Christianmouth,South Carolina,Central,Furniture,Furnishings,Furnishings - Model Window,237.84,9,0.3,63.83
+CA-2025-10442,2024-08-21,2024-08-26,Standard Class,CUST-188,Heather Rodriguez,Consumer,United States,North Stephenfort,Maine,Central,Furniture,Tables,Tables - Model Thank,1484.63,1,0.2,201.51
+CA-2025-10443,2023-09-17,2023-09-18,Standard Class,CUST-145,Steven Glover,Consumer,United States,South Jasonmouth,Mississippi,South,Electronics,Accessories,Accessories - Model State,155.2,7,0.0,73.77
+CA-2025-10444,2024-07-16,2024-07-19,Same Day,CUST-103,Thomas Mcintosh,Home Office,United States,West Brandonchester,Oklahoma,West,Office Supplies,Storage,Storage - Model Form,1458.95,3,0.3,192.65
+CA-2025-10445,2024-06-08,2024-06-10,First Class,CUST-192,Sierra Baker,Consumer,United States,Caldwellside,North Dakota,West,Furniture,Furnishings,Furnishings - Model Very,1420.26,8,0.1,213.03
+CA-2025-10446,2023-11-05,2023-11-06,Same Day,CUST-229,Dwayne Cain,Corporate,United States,Port Andrew,Texas,East,Furniture,Chairs,Chairs - Model Law,448.69,1,0.3,116.64
+CA-2025-10447,2024-01-26,2024-01-27,Same Day,CUST-210,Andrew May,Consumer,United States,West Daniel,Wisconsin,South,Electronics,Accessories,Accessories - Model Responsibility,661.89,5,0.2,82.31
+CA-2025-10448,2023-08-13,2023-08-17,Second Class,CUST-296,Daniel Crawford,Home Office,United States,Alanbury,South Dakota,South,Furniture,Chairs,Chairs - Model Then,870.62,8,0.5,78.27
+CA-2025-10449,2025-06-03,2025-06-08,First Class,CUST-104,Sarah Owen,Home Office,United States,New Timothyville,Indiana,Central,Furniture,Bookcases,Bookcases - Model Also,527.0,2,0.1,132.94
+CA-2025-10450,2024-08-28,2024-08-31,First Class,CUST-148,Juan Lawrence,Consumer,United States,South Nicole,Alabama,South,Furniture,Bookcases,Bookcases - Model Particularly,606.56,6,0.3,187.9
+CA-2025-10451,2025-03-23,2025-03-26,Standard Class,CUST-282,Lisa Ibarra,Consumer,United States,West Toddbury,New Jersey,East,Electronics,Laptops,Laptops - Model Wall,777.37,2,0.5,187.12
+CA-2025-10452,2023-09-21,2023-09-24,Standard Class,CUST-213,Paul Gomez,Consumer,United States,Stewartborough,New Jersey,South,Office Supplies,Storage,Storage - Model Head,868.53,10,0.3,192.19
+CA-2025-10453,2024-06-26,2024-07-01,Same Day,CUST-224,William Alvarez,Consumer,United States,Foxberg,Arizona,West,Office Supplies,Binders,Binders - Model Table,691.0,7,0.3,182.11
+CA-2025-10454,2024-01-12,2024-01-17,Second Class,CUST-194,Jason Barry,Home Office,United States,Lake Clintonport,Louisiana,Central,Electronics,Audio,Audio - Model Moment,532.06,5,0.0,131.34
+CA-2025-10455,2024-10-23,2024-10-26,First Class,CUST-266,Andrea Walker,Corporate,United States,East Michael,Illinois,East,Furniture,Chairs,Chairs - Model Bring,1033.95,7,0.0,451.53
+CA-2025-10456,2023-03-06,2023-03-11,Same Day,CUST-282,April Hodges,Corporate,United States,South Kevin,Tennessee,South,Electronics,Audio,Audio - Model Participant,1067.6,1,0.1,216.28
+CA-2025-10457,2023-09-19,2023-09-22,First Class,CUST-242,Theresa Howard,Corporate,United States,Boydborough,Massachusetts,South,Furniture,Furnishings,Furnishings - Model Rich,1330.1,2,0.5,124.6
+CA-2025-10458,2024-09-27,2024-09-28,Standard Class,CUST-143,William Williams,Consumer,United States,Watsonshire,Arizona,South,Electronics,Laptops,Laptops - Model Plant,916.29,6,0.1,294.65
+CA-2025-10459,2024-02-20,2024-02-23,Second Class,CUST-236,Eddie Juarez,Consumer,United States,Davistown,Maryland,West,Electronics,Accessories,Accessories - Model Someone,1005.77,2,0.3,164.66
+CA-2025-10460,2024-05-06,2024-05-10,First Class,CUST-232,Kimberly Davis,Corporate,United States,New Pattytown,Alabama,East,Office Supplies,Binders,Binders - Model Hand,1367.02,3,0.5,320.69
+CA-2025-10461,2025-02-11,2025-02-14,First Class,CUST-138,Matthew Rocha,Corporate,United States,Hoffmanville,Ohio,Central,Furniture,Bookcases,Bookcases - Model Politics,56.09,3,0.2,12.34
+CA-2025-10462,2025-10-08,2025-10-09,Same Day,CUST-205,Mary Chapman,Corporate,United States,South Stephanie,Tennessee,East,Electronics,Laptops,Laptops - Model Important,971.74,2,0.1,160.27
+CA-2025-10463,2025-12-27,2025-12-30,Same Day,CUST-115,Christian Lee,Home Office,United States,Port Danielstad,Connecticut,Central,Office Supplies,Paper,Paper - Model Identify,908.72,8,0.2,306.08
+CA-2025-10464,2023-04-25,2023-04-29,Same Day,CUST-275,Debra Peterson,Corporate,United States,Lake Tanner,Alabama,South,Furniture,Furnishings,Furnishings - Model Believe,918.83,8,0.2,221.08
+CA-2025-10465,2024-12-23,2024-12-27,Second Class,CUST-138,Wesley Woodward,Home Office,United States,Dianaville,Massachusetts,East,Furniture,Bookcases,Bookcases - Model Not,88.51,3,0.5,21.21
+CA-2025-10466,2024-07-29,2024-07-31,Same Day,CUST-217,Mr. Daniel Blackwell,Corporate,United States,East Nancy,Virginia,South,Electronics,Laptops,Laptops - Model Where,472.33,9,0.3,65.27
+CA-2025-10467,2023-12-14,2023-12-16,Standard Class,CUST-157,Brian Liu,Home Office,United States,Carriemouth,South Dakota,West,Office Supplies,Paper,Paper - Model The,398.67,2,0.3,73.6
+CA-2025-10468,2023-06-09,2023-06-12,Standard Class,CUST-294,Anthony Gibbs,Consumer,United States,Port Allison,Massachusetts,East,Furniture,Bookcases,Bookcases - Model Statement,41.38,2,0.3,8.44
+CA-2025-10469,2024-01-02,2024-01-06,Second Class,CUST-162,Bryan Jones,Corporate,United States,Jenniferburgh,Idaho,West,Furniture,Tables,Tables - Model Window,1257.04,3,0.1,250.82
+CA-2025-10470,2023-07-26,2023-07-31,First Class,CUST-251,Jason Johnson,Home Office,United States,West Ericmouth,Texas,East,Office Supplies,Binders,Binders - Model Boy,1494.58,5,0.0,654.49
+CA-2025-10471,2025-04-06,2025-04-08,Standard Class,CUST-211,Courtney Doyle,Consumer,United States,East Mitchell,Missouri,South,Office Supplies,Storage,Storage - Model Write,950.59,3,0.2,356.78
+CA-2025-10472,2025-01-25,2025-01-28,Standard Class,CUST-230,Christopher Keller,Consumer,United States,North Michael,Idaho,East,Furniture,Chairs,Chairs - Model Employee,700.31,6,0.5,65.45
+CA-2025-10473,2025-12-24,2025-12-29,Same Day,CUST-103,Robert Hunt,Corporate,United States,Tinashire,Oregon,South,Office Supplies,Storage,Storage - Model Security,803.32,9,0.5,143.45
+CA-2025-10474,2024-12-19,2024-12-22,Same Day,CUST-184,Peter Evans,Consumer,United States,West Alexandraborough,New York,South,Furniture,Chairs,Chairs - Model School,1085.14,10,0.5,230.72
+CA-2025-10475,2024-05-08,2024-05-10,Second Class,CUST-272,Robert Carter,Consumer,United States,Gloriaburgh,Florida,South,Office Supplies,Paper,Paper - Model Tax,1100.01,8,0.1,317.12
+CA-2025-10476,2024-01-18,2024-01-21,Same Day,CUST-217,Dennis Maldonado,Consumer,United States,Lisaborough,Tennessee,West,Furniture,Bookcases,Bookcases - Model Every,1329.24,10,0.5,217.32
+CA-2025-10477,2023-10-02,2023-10-07,Same Day,CUST-270,Joshua Cruz,Home Office,United States,New Glennhaven,Texas,Central,Electronics,Accessories,Accessories - Model Dinner,237.08,2,0.0,97.9
+CA-2025-10478,2025-02-24,2025-02-25,Standard Class,CUST-204,Kristine Jones,Home Office,United States,Lake Geraldborough,Nebraska,Central,Furniture,Furnishings,Furnishings - Model Walk,743.87,9,0.2,113.61
+CA-2025-10479,2024-06-08,2024-06-11,Standard Class,CUST-164,Joseph Martin,Corporate,United States,Powersland,Delaware,South,Furniture,Furnishings,Furnishings - Model Learn,62.88,5,0.5,5.86
+CA-2025-10480,2023-06-23,2023-06-28,Same Day,CUST-264,Brandon Tate,Corporate,United States,Markmouth,Colorado,East,Electronics,Audio,Audio - Model We,1129.85,2,0.2,325.89
+CA-2025-10481,2023-01-23,2023-01-28,Second Class,CUST-144,Sandra Knapp,Home Office,United States,Thomashaven,Washington,West,Office Supplies,Art,Art - Model Stage,355.12,9,0.1,93.06
+CA-2025-10482,2023-05-22,2023-05-26,Same Day,CUST-212,Karen Downs,Home Office,United States,South Erik,South Dakota,South,Electronics,Audio,Audio - Model Development,693.46,3,0.0,220.4
+CA-2025-10483,2025-05-07,2025-05-09,First Class,CUST-202,Frank Atkinson,Home Office,United States,Ronaldville,Hawaii,Central,Electronics,Audio,Audio - Model Since,569.21,5,0.3,135.64
+CA-2025-10484,2023-07-06,2023-07-10,Second Class,CUST-108,Vincent Baker,Home Office,United States,Lake Natalie,South Dakota,West,Office Supplies,Storage,Storage - Model Soldier,532.76,10,0.0,133.86
+CA-2025-10485,2025-02-24,2025-02-26,First Class,CUST-253,Alicia Manning,Home Office,United States,New Alexanderland,New York,Central,Office Supplies,Binders,Binders - Model Avoid,1083.41,9,0.5,95.53
+CA-2025-10486,2023-01-26,2023-01-30,First Class,CUST-241,Stephen Warner,Home Office,United States,Pagehaven,West Virginia,East,Electronics,Smartphones,Smartphones - Model Under,448.31,3,0.1,143.01
+CA-2025-10487,2024-08-06,2024-08-11,First Class,CUST-292,James Patel,Consumer,United States,Phillipsview,Massachusetts,East,Electronics,Smartphones,Smartphones - Model Happen,711.1,7,0.0,344.03
+CA-2025-10488,2024-05-18,2024-05-19,Second Class,CUST-230,Anne Zimmerman,Consumer,United States,North Coreychester,West Virginia,Central,Office Supplies,Art,Art - Model Common,121.22,3,0.5,13.18
+CA-2025-10489,2025-11-18,2025-11-19,Standard Class,CUST-101,Marilyn Porter,Corporate,United States,South Nicole,Alabama,Central,Office Supplies,Paper,Paper - Model Strong,316.23,6,0.5,37.86
+CA-2025-10490,2023-10-13,2023-10-16,First Class,CUST-218,Daniel Taylor,Corporate,United States,South Desiree,Pennsylvania,South,Office Supplies,Art,Art - Model Action,466.91,4,0.3,124.57
+CA-2025-10491,2023-07-18,2023-07-23,Second Class,CUST-202,Angela Wood,Consumer,United States,Lake Shannon,Alaska,Central,Office Supplies,Art,Art - Model As,996.59,10,0.5,240.25
+CA-2025-10492,2024-12-20,2024-12-25,Standard Class,CUST-131,David Nguyen,Home Office,United States,Jomouth,Nevada,West,Electronics,Audio,Audio - Model Support,1444.62,8,0.5,283.13
+CA-2025-10493,2023-04-24,2023-04-25,Second Class,CUST-278,Elizabeth Gutierrez,Consumer,United States,Lake Traci,Maryland,East,Office Supplies,Paper,Paper - Model Reveal,1067.27,4,0.5,174.47
+CA-2025-10494,2023-02-20,2023-02-23,Same Day,CUST-292,Laura Mckay,Home Office,United States,North Zachary,New Hampshire,Central,Office Supplies,Storage,Storage - Model First,165.19,7,0.1,46.96
+CA-2025-10495,2024-04-26,2024-04-30,Same Day,CUST-180,Elizabeth May,Home Office,United States,South Robertfort,New York,East,Office Supplies,Storage,Storage - Model Message,428.57,4,0.0,120.78
+CA-2025-10496,2024-05-01,2024-05-03,Second Class,CUST-218,Jennifer King,Home Office,United States,Austinchester,Rhode Island,South,Electronics,Laptops,Laptops - Model Writer,992.67,6,0.0,376.3
+CA-2025-10497,2023-02-14,2023-02-19,Standard Class,CUST-242,Dominique Ortiz,Home Office,United States,Campbellshire,Michigan,East,Office Supplies,Paper,Paper - Model Movie,240.03,10,0.1,94.33
+CA-2025-10498,2023-01-17,2023-01-20,Same Day,CUST-287,Jeffrey Munoz,Consumer,United States,Lake Jenniferfurt,Massachusetts,West,Furniture,Tables,Tables - Model Sing,455.78,8,0.5,82.22
+CA-2025-10499,2023-08-22,2023-08-25,Same Day,CUST-108,Dr. Dawn Brown DDS,Corporate,United States,East Dennis,New Jersey,West,Office Supplies,Binders,Binders - Model Worker,1298.55,1,0.2,305.67
+CA-2025-10500,2023-09-27,2023-09-29,Second Class,CUST-277,Lisa Mack,Corporate,United States,South Carolinefurt,Illinois,Central,Furniture,Tables,Tables - Model Think,865.89,5,0.5,197.57
+CA-2025-10501,2025-02-03,2025-02-08,Same Day,CUST-233,Judith Brooks,Consumer,United States,Gutierrezfort,Connecticut,East,Electronics,Laptops,Laptops - Model Note,1021.73,4,0.5,240.77
+CA-2025-10502,2025-11-17,2025-11-21,First Class,CUST-273,Joan Kelly,Corporate,United States,Rodriguezmouth,Mississippi,East,Furniture,Bookcases,Bookcases - Model Matter,1428.8,8,0.0,489.88
+CA-2025-10503,2025-09-08,2025-09-11,Same Day,CUST-193,Meghan Andrews,Home Office,United States,Fitzpatricktown,Florida,West,Office Supplies,Paper,Paper - Model Person,900.45,7,0.5,182.13
+CA-2025-10504,2025-11-19,2025-11-23,Same Day,CUST-118,Dr. Alec Deleon,Home Office,United States,Garyville,North Carolina,West,Furniture,Chairs,Chairs - Model Charge,725.5,1,0.1,151.79
+CA-2025-10505,2023-07-09,2023-07-11,Same Day,CUST-161,Tanya Hall,Consumer,United States,Lake Justinside,Virginia,South,Furniture,Bookcases,Bookcases - Model Economy,167.55,5,0.1,68.43
+CA-2025-10506,2025-09-24,2025-09-25,First Class,CUST-142,Rachel Tate,Corporate,United States,North Christopherport,Maryland,West,Office Supplies,Paper,Paper - Model Attack,352.01,9,0.1,76.63
+CA-2025-10507,2023-03-27,2023-03-28,Second Class,CUST-125,Megan Allison,Consumer,United States,West Joanmouth,Texas,West,Electronics,Smartphones,Smartphones - Model Feeling,1238.5,4,0.0,257.27
+CA-2025-10508,2024-11-20,2024-11-25,Same Day,CUST-267,Richard Bailey,Consumer,United States,Joelville,Wyoming,Central,Electronics,Audio,Audio - Model Story,194.0,5,0.5,22.84
+CA-2025-10509,2024-10-18,2024-10-22,First Class,CUST-194,Joshua Wolfe,Corporate,United States,South David,Idaho,East,Furniture,Bookcases,Bookcases - Model Top,430.78,7,0.2,57.77
+CA-2025-10510,2024-12-16,2024-12-21,Second Class,CUST-287,Brandi Solis,Consumer,United States,Bowenview,New York,Central,Furniture,Furnishings,Furnishings - Model Government,442.8,1,0.2,122.73
+CA-2025-10511,2025-09-25,2025-09-27,Standard Class,CUST-203,Aaron Whitaker,Home Office,United States,Port Alishaburgh,Wyoming,Central,Office Supplies,Paper,Paper - Model Grow,872.34,3,0.1,208.14
+CA-2025-10512,2024-12-18,2024-12-20,First Class,CUST-168,Christina Thomas,Corporate,United States,East Thomasview,Washington,East,Electronics,Laptops,Laptops - Model Onto,591.9,3,0.2,89.39
+CA-2025-10513,2023-01-07,2023-01-11,Standard Class,CUST-212,Jennifer Scott,Corporate,United States,Port Nathaniel,Kentucky,South,Office Supplies,Paper,Paper - Model Information,1421.59,6,0.0,473.77
+CA-2025-10514,2024-11-12,2024-11-17,First Class,CUST-226,Jason Barrett,Home Office,United States,East Heatherfurt,North Carolina,East,Office Supplies,Art,Art - Model Subject,1094.7,2,0.5,244.16
+CA-2025-10515,2025-09-12,2025-09-17,Standard Class,CUST-289,Andre Soto,Corporate,United States,North Timothy,Indiana,South,Electronics,Accessories,Accessories - Model Success,1075.9,8,0.5,158.75
+CA-2025-10516,2023-07-30,2023-08-03,Same Day,CUST-228,Crystal Blackwell,Corporate,United States,Shawmouth,Missouri,South,Furniture,Chairs,Chairs - Model Next,591.67,9,0.2,82.55
+CA-2025-10517,2023-10-28,2023-10-29,Same Day,CUST-274,Kayla Montes,Home Office,United States,Port John,Florida,East,Electronics,Audio,Audio - Model Increase,1247.26,9,0.0,503.32
+CA-2025-10518,2023-09-03,2023-09-04,Standard Class,CUST-117,Brittany Davidson,Corporate,United States,New Rachel,Rhode Island,West,Furniture,Bookcases,Bookcases - Model Fill,982.09,5,0.5,235.75
+CA-2025-10519,2023-03-22,2023-03-24,Same Day,CUST-135,Tina Smith,Home Office,United States,Michellechester,Oregon,Central,Electronics,Smartphones,Smartphones - Model Leader,558.23,3,0.0,210.3
+CA-2025-10520,2023-10-24,2023-10-29,Same Day,CUST-145,James Long,Consumer,United States,Jonesville,Kentucky,East,Office Supplies,Paper,Paper - Model American,1244.99,5,0.3,216.65
+CA-2025-10521,2023-06-09,2023-06-10,Standard Class,CUST-247,Mrs. Sonya Harper,Consumer,United States,Deanchester,Minnesota,Central,Furniture,Tables,Tables - Model Commercial,809.92,7,0.3,187.25
+CA-2025-10522,2025-06-05,2025-06-07,Second Class,CUST-163,Eric Moore,Consumer,United States,Port Ronald,North Carolina,Central,Furniture,Tables,Tables - Model Whatever,1146.4,4,0.2,292.53
+CA-2025-10523,2025-04-10,2025-04-11,Standard Class,CUST-248,Adam Griffith,Consumer,United States,South Karina,Wisconsin,West,Furniture,Tables,Tables - Model Great,485.2,8,0.0,141.89
+CA-2025-10524,2024-11-13,2024-11-17,Same Day,CUST-211,Malik King,Corporate,United States,Taylorshire,Florida,South,Electronics,Audio,Audio - Model True,37.31,10,0.3,12.89
+CA-2025-10525,2023-02-11,2023-02-12,Same Day,CUST-253,Marcia Williams,Home Office,United States,West Danielport,North Dakota,West,Office Supplies,Paper,Paper - Model Movie,1356.92,6,0.0,661.32
+CA-2025-10526,2025-07-02,2025-07-07,Standard Class,CUST-292,Susan Murphy,Corporate,United States,West Brenda,Illinois,East,Office Supplies,Art,Art - Model Season,837.28,9,0.2,258.11
+CA-2025-10527,2024-02-11,2024-02-13,Second Class,CUST-267,Sean Matthews,Home Office,United States,Ryanchester,New Mexico,East,Furniture,Bookcases,Bookcases - Model Prevent,1392.84,9,0.5,239.33
+CA-2025-10528,2024-05-12,2024-05-15,Second Class,CUST-140,Sheila Joyce,Consumer,United States,Jameshaven,Maine,West,Electronics,Accessories,Accessories - Model Cold,1347.15,4,0.0,571.89
+CA-2025-10529,2023-03-03,2023-03-07,First Class,CUST-114,John Gutierrez,Home Office,United States,Lake Peter,Alabama,Central,Office Supplies,Storage,Storage - Model Discussion,646.46,3,0.0,119.99
+CA-2025-10530,2023-07-06,2023-07-07,Standard Class,CUST-271,Lauren Rios,Corporate,United States,South Carlos,Colorado,Central,Electronics,Audio,Audio - Model Term,1239.64,10,0.3,206.71
+CA-2025-10531,2025-05-26,2025-05-30,Second Class,CUST-239,William Franklin,Consumer,United States,South Anna,Kentucky,South,Electronics,Audio,Audio - Model Reduce,727.87,8,0.2,216.18
+CA-2025-10532,2025-03-09,2025-03-12,Same Day,CUST-258,Christina Green,Home Office,United States,Joycefurt,Vermont,South,Furniture,Chairs,Chairs - Model Prevent,506.01,5,0.1,213.65
+CA-2025-10533,2023-10-15,2023-10-16,Second Class,CUST-284,Danny Davis,Corporate,United States,Hallville,Minnesota,South,Furniture,Bookcases,Bookcases - Model Understand,791.7,6,0.2,308.44
+CA-2025-10534,2023-11-27,2023-11-29,Standard Class,CUST-300,Jacob Brady,Consumer,United States,New Gabriel,Kentucky,West,Electronics,Smartphones,Smartphones - Model Type,104.84,10,0.1,15.2
+CA-2025-10535,2023-04-15,2023-04-16,Second Class,CUST-245,James Oneill,Corporate,United States,Port Timothyfort,Oregon,East,Furniture,Chairs,Chairs - Model Offer,564.56,10,0.1,80.31
+CA-2025-10536,2023-08-04,2023-08-05,Same Day,CUST-281,Angel Grant,Home Office,United States,Port Brittany,New Hampshire,South,Office Supplies,Paper,Paper - Model Assume,747.03,8,0.1,237.55
+CA-2025-10537,2025-08-13,2025-08-17,Standard Class,CUST-289,James Pacheco,Corporate,United States,Kaitlynport,Iowa,East,Furniture,Bookcases,Bookcases - Model Expert,31.33,9,0.1,11.88
+CA-2025-10538,2024-08-08,2024-08-10,Second Class,CUST-270,Anthony Hardy,Home Office,United States,Martinezland,New Jersey,East,Office Supplies,Storage,Storage - Model Paper,907.18,5,0.3,101.03
+CA-2025-10539,2023-11-07,2023-11-12,Same Day,CUST-153,Chelsea Kelly,Home Office,United States,North Nicole,Delaware,South,Furniture,Furnishings,Furnishings - Model Make,1271.65,6,0.3,430.86
+CA-2025-10540,2024-09-08,2024-09-10,Same Day,CUST-293,Andrew Little,Consumer,United States,Gonzalezville,Hawaii,South,Office Supplies,Binders,Binders - Model Government,80.89,5,0.1,32.47
+CA-2025-10541,2023-02-24,2023-02-25,First Class,CUST-265,Jacob Henson,Corporate,United States,Woodston,Georgia,South,Office Supplies,Paper,Paper - Model Beyond,1115.06,6,0.1,460.9
+CA-2025-10542,2024-04-24,2024-04-27,First Class,CUST-174,Lori Cowan,Corporate,United States,Galvanfurt,Florida,Central,Office Supplies,Paper,Paper - Model Break,1298.78,10,0.1,225.08
+CA-2025-10543,2024-01-26,2024-01-27,Standard Class,CUST-234,Scott Monroe DVM,Consumer,United States,Port Ericburgh,Michigan,Central,Office Supplies,Storage,Storage - Model Message,423.05,6,0.2,137.22
+CA-2025-10544,2025-02-01,2025-02-02,Same Day,CUST-270,Michael Curtis,Home Office,United States,North Denise,Iowa,East,Electronics,Laptops,Laptops - Model Fire,257.87,5,0.2,35.4
+CA-2025-10545,2023-04-12,2023-04-16,First Class,CUST-129,Tracy Harris,Consumer,United States,Paulborough,New Jersey,Central,Electronics,Accessories,Accessories - Model Gas,613.4,8,0.5,119.24
+CA-2025-10546,2023-04-28,2023-04-29,Standard Class,CUST-206,Duane Davenport,Home Office,United States,Donnafort,Indiana,Central,Furniture,Furnishings,Furnishings - Model Be,857.08,9,0.5,135.68
+CA-2025-10547,2024-10-25,2024-10-29,Standard Class,CUST-133,Andrew Herman,Consumer,United States,North Jennifer,Virginia,South,Electronics,Smartphones,Smartphones - Model Floor,1397.72,4,0.1,610.51
+CA-2025-10548,2025-04-08,2025-04-13,Same Day,CUST-138,Stacy Thompson,Corporate,United States,Josephtown,Idaho,South,Furniture,Chairs,Chairs - Model Soon,1219.29,7,0.5,158.26
+CA-2025-10549,2024-11-03,2024-11-06,Second Class,CUST-267,Catherine Gutierrez,Consumer,United States,South Christinaborough,Kansas,Central,Office Supplies,Art,Art - Model Account,1405.69,5,0.1,528.75
+CA-2025-10550,2025-03-07,2025-03-08,First Class,CUST-113,Jonathan Cox,Corporate,United States,Lake Kathleen,Tennessee,East,Office Supplies,Binders,Binders - Model Others,985.22,5,0.1,388.69
+CA-2025-10551,2023-03-14,2023-03-19,First Class,CUST-133,Alexander Brown,Home Office,United States,West Jimmyborough,Wyoming,West,Furniture,Chairs,Chairs - Model Interesting,693.04,5,0.5,96.8
+CA-2025-10552,2023-09-10,2023-09-11,Standard Class,CUST-168,Sheila Baker,Consumer,United States,East Josephstad,Iowa,Central,Office Supplies,Paper,Paper - Model Western,1260.5,7,0.0,574.0
+CA-2025-10553,2023-11-22,2023-11-23,Second Class,CUST-108,Stephanie Jacobs,Corporate,United States,Smithtown,North Carolina,East,Office Supplies,Storage,Storage - Model Contain,1463.96,3,0.2,357.81
+CA-2025-10554,2023-08-07,2023-08-08,Standard Class,CUST-157,Carol Sullivan,Corporate,United States,Jamieport,Idaho,South,Electronics,Laptops,Laptops - Model Would,146.63,1,0.2,17.71
+CA-2025-10555,2023-10-29,2023-11-03,Same Day,CUST-240,Teresa Fernandez,Corporate,United States,West Kendramouth,South Carolina,West,Office Supplies,Storage,Storage - Model Explain,392.84,1,0.0,106.01
+CA-2025-10556,2025-06-02,2025-06-03,First Class,CUST-100,Jason Saunders,Home Office,United States,New Tamaratown,Louisiana,South,Office Supplies,Binders,Binders - Model Trade,1173.92,3,0.2,388.08
+CA-2025-10557,2023-05-15,2023-05-16,Same Day,CUST-279,Denise West,Home Office,United States,Wattsmouth,South Dakota,West,Office Supplies,Paper,Paper - Model After,749.09,2,0.0,116.15
+CA-2025-10558,2024-03-31,2024-04-02,First Class,CUST-123,Paul Parker,Consumer,United States,East Andrewville,Utah,Central,Office Supplies,Art,Art - Model High,706.77,3,0.0,292.5
+CA-2025-10559,2024-06-15,2024-06-16,Same Day,CUST-240,Christine Fitzpatrick,Consumer,United States,Mariaview,Maryland,South,Furniture,Tables,Tables - Model Half,1061.38,10,0.1,230.77
+CA-2025-10560,2024-02-26,2024-02-27,First Class,CUST-225,Matthew Fletcher,Corporate,United States,Theresaland,Alabama,Central,Electronics,Smartphones,Smartphones - Model Democratic,1389.01,10,0.5,347.01
+CA-2025-10561,2024-08-12,2024-08-13,First Class,CUST-119,Ronald Nguyen,Consumer,United States,Port Alexisberg,Arizona,Central,Furniture,Tables,Tables - Model Southern,339.13,7,0.0,131.42
+CA-2025-10562,2024-10-20,2024-10-25,Same Day,CUST-290,Diana Lawson,Home Office,United States,Jonesberg,Minnesota,West,Electronics,Audio,Audio - Model Entire,1158.72,9,0.3,273.05
+CA-2025-10563,2024-06-29,2024-06-30,First Class,CUST-190,Miranda Bernard,Corporate,United States,Clarkside,Massachusetts,South,Office Supplies,Binders,Binders - Model Ten,1206.41,2,0.1,315.45
+CA-2025-10564,2025-03-27,2025-03-31,Second Class,CUST-147,Brandi Melton,Home Office,United States,South Tonybury,Alabama,Central,Furniture,Furnishings,Furnishings - Model Act,139.61,9,0.1,32.56
+CA-2025-10565,2023-05-10,2023-05-14,Second Class,CUST-207,Jeffrey Mitchell,Home Office,United States,Denisemouth,South Carolina,East,Electronics,Smartphones,Smartphones - Model Why,861.4,3,0.3,180.53
+CA-2025-10566,2023-11-23,2023-11-28,Second Class,CUST-146,Ashley Lynch,Corporate,United States,Robertoborough,Nevada,Central,Electronics,Laptops,Laptops - Model Scientist,880.27,1,0.5,164.72
+CA-2025-10567,2024-07-12,2024-07-13,Second Class,CUST-193,Danny Griffin,Consumer,United States,Smithton,Tennessee,Central,Office Supplies,Art,Art - Model Season,1454.33,9,0.5,285.56
+CA-2025-10568,2025-04-25,2025-04-26,First Class,CUST-261,Scott Briggs,Consumer,United States,Lake Mary,Arizona,West,Electronics,Smartphones,Smartphones - Model Really,1442.96,5,0.1,647.23
+CA-2025-10569,2023-11-12,2023-11-17,First Class,CUST-172,Linda Griffith,Corporate,United States,New Alexandria,Nevada,South,Office Supplies,Storage,Storage - Model Old,46.87,9,0.0,9.48
+CA-2025-10570,2025-01-03,2025-01-06,Second Class,CUST-187,Marissa Oliver,Home Office,United States,Lake Codyhaven,Alabama,South,Electronics,Accessories,Accessories - Model Stop,1229.24,8,0.5,220.02
+CA-2025-10571,2025-08-13,2025-08-16,Second Class,CUST-211,Tina Hoffman,Consumer,United States,Weaverland,Maryland,Central,Electronics,Audio,Audio - Model Hair,292.71,4,0.2,76.42
+CA-2025-10572,2024-05-19,2024-05-21,Standard Class,CUST-263,Brittany Padilla,Consumer,United States,Greenestad,Florida,Central,Electronics,Accessories,Accessories - Model Seem,810.79,5,0.0,322.23
+CA-2025-10573,2025-02-06,2025-02-09,Standard Class,CUST-197,Megan Garza,Consumer,United States,Colleenhaven,Louisiana,East,Furniture,Furnishings,Furnishings - Model Attack,899.05,3,0.3,303.64
+CA-2025-10574,2025-08-24,2025-08-28,Same Day,CUST-299,Paul Delgado,Home Office,United States,North Charlesmouth,Missouri,South,Office Supplies,Art,Art - Model Remain,142.13,4,0.3,27.29
+CA-2025-10575,2025-04-01,2025-04-03,First Class,CUST-265,Andrew Gray,Home Office,United States,New Williammouth,Arizona,Central,Office Supplies,Binders,Binders - Model Develop,283.76,4,0.0,56.86
+CA-2025-10576,2023-04-01,2023-04-05,Standard Class,CUST-202,Michael Whitney,Consumer,United States,Lake William,Texas,West,Furniture,Furnishings,Furnishings - Model Role,1230.88,10,0.0,324.57
+CA-2025-10577,2025-04-10,2025-04-13,Second Class,CUST-190,Katrina Everett,Corporate,United States,Sarahton,Michigan,Central,Furniture,Tables,Tables - Model Former,197.26,6,0.0,89.83
+CA-2025-10578,2024-10-03,2024-10-05,Second Class,CUST-184,David Sherman,Consumer,United States,Port Michael,Oklahoma,Central,Electronics,Laptops,Laptops - Model Rule,633.37,5,0.0,191.5
+CA-2025-10579,2023-03-20,2023-03-23,Same Day,CUST-258,Charles Clark,Home Office,United States,North Juan,Michigan,East,Office Supplies,Binders,Binders - Model Season,319.79,7,0.0,137.04
+CA-2025-10580,2024-07-21,2024-07-24,Same Day,CUST-235,Jennifer Reed,Consumer,United States,Deanbury,Tennessee,Central,Electronics,Laptops,Laptops - Model Opportunity,761.8,9,0.5,173.9
+CA-2025-10581,2023-12-06,2023-12-08,Same Day,CUST-214,Samantha Blair,Corporate,United States,East Danielfurt,North Dakota,Central,Electronics,Smartphones,Smartphones - Model Officer,581.84,4,0.2,176.57
+CA-2025-10582,2024-02-19,2024-02-22,First Class,CUST-106,Stephanie White,Home Office,United States,North Kirkhaven,Kentucky,West,Electronics,Laptops,Laptops - Model Place,970.37,10,0.5,108.58
+CA-2025-10583,2025-06-01,2025-06-06,Same Day,CUST-265,Richard Brown,Corporate,United States,South Janetburgh,Texas,South,Furniture,Furnishings,Furnishings - Model One,1285.88,5,0.0,466.6
+CA-2025-10584,2024-05-22,2024-05-27,Same Day,CUST-174,Anna Gates,Consumer,United States,Port Amberport,Kansas,East,Office Supplies,Paper,Paper - Model Decision,1356.03,1,0.1,530.2
+CA-2025-10585,2025-03-25,2025-03-27,Same Day,CUST-183,Dawn Rivera,Corporate,United States,Jamesmouth,Indiana,East,Electronics,Accessories,Accessories - Model Husband,1221.1,1,0.0,233.58
+CA-2025-10586,2023-12-17,2023-12-19,Standard Class,CUST-274,Linda Figueroa,Consumer,United States,South Leonard,Missouri,East,Electronics,Audio,Audio - Model Price,810.94,1,0.5,88.27
+CA-2025-10587,2024-01-29,2024-01-30,Standard Class,CUST-204,Dr. Dustin Garcia,Home Office,United States,Ryanfurt,New Mexico,West,Furniture,Tables,Tables - Model Country,723.75,4,0.0,280.06
+CA-2025-10588,2023-07-09,2023-07-10,Same Day,CUST-254,Paul Buck,Consumer,United States,South Marystad,Arizona,Central,Furniture,Bookcases,Bookcases - Model Executive,435.35,1,0.1,133.45
+CA-2025-10589,2024-04-15,2024-04-20,Second Class,CUST-179,Dennis Jarvis,Corporate,United States,Coffeymouth,Louisiana,West,Electronics,Smartphones,Smartphones - Model Herself,216.14,3,0.1,95.17
+CA-2025-10590,2024-07-04,2024-07-09,Standard Class,CUST-275,Jerry Reyes,Corporate,United States,Port Michelle,Idaho,South,Electronics,Accessories,Accessories - Model Board,1471.03,3,0.2,470.13
+CA-2025-10591,2023-11-19,2023-11-21,Standard Class,CUST-196,Jeremy Rivera,Consumer,United States,Brittneyside,Oregon,South,Electronics,Accessories,Accessories - Model Past,960.85,4,0.2,174.97
+CA-2025-10592,2024-07-21,2024-07-24,Second Class,CUST-236,Bonnie Crawford,Home Office,United States,Lake Sandraside,Iowa,Central,Furniture,Furnishings,Furnishings - Model These,1285.06,4,0.3,374.31
+CA-2025-10593,2025-09-14,2025-09-18,Standard Class,CUST-199,Richard Rogers,Home Office,United States,Thorntonside,Alabama,Central,Furniture,Chairs,Chairs - Model Might,143.26,6,0.0,62.02
+CA-2025-10594,2023-06-20,2023-06-23,First Class,CUST-255,Erika Williams,Corporate,United States,Duncanside,Florida,West,Electronics,Laptops,Laptops - Model Mrs,990.03,9,0.2,271.72
+CA-2025-10595,2023-07-19,2023-07-21,Same Day,CUST-292,Vanessa Summers,Corporate,United States,South Taylor,Virginia,South,Office Supplies,Art,Art - Model Own,1132.23,8,0.3,159.56
+CA-2025-10596,2025-07-28,2025-07-29,First Class,CUST-120,Ashley Hamilton,Corporate,United States,Ortegabury,Ohio,Central,Electronics,Accessories,Accessories - Model Citizen,666.91,3,0.3,190.16
+CA-2025-10597,2025-03-07,2025-03-09,First Class,CUST-109,Scott Parker,Home Office,United States,Lake Brianshire,Oklahoma,Central,Office Supplies,Storage,Storage - Model Take,1426.33,9,0.1,496.59
+CA-2025-10598,2024-05-15,2024-05-18,Same Day,CUST-249,Jared Thompson,Home Office,United States,South Kelly,Louisiana,East,Office Supplies,Art,Art - Model Until,86.09,4,0.3,15.9
+CA-2025-10599,2024-03-12,2024-03-15,Second Class,CUST-180,Tracy Erickson,Consumer,United States,Leemouth,Maryland,Central,Electronics,Audio,Audio - Model Worry,471.81,7,0.2,91.16
+CA-2025-10600,2023-05-18,2023-05-20,Same Day,CUST-124,Vickie Wheeler,Corporate,United States,Joseland,Maine,Central,Electronics,Laptops,Laptops - Model Relate,192.77,8,0.5,45.38
+CA-2025-10601,2025-08-17,2025-08-19,Same Day,CUST-250,Tony Ochoa,Home Office,United States,New Bryce,New Hampshire,East,Office Supplies,Art,Art - Model Back,390.19,8,0.2,79.39
+CA-2025-10602,2023-01-11,2023-01-16,First Class,CUST-191,Austin Miles,Consumer,United States,East Jenniferview,Wisconsin,East,Furniture,Furnishings,Furnishings - Model Pull,778.43,10,0.2,310.29
+CA-2025-10603,2023-10-21,2023-10-24,Standard Class,CUST-114,Michael George,Consumer,United States,Edwardsbury,Georgia,East,Electronics,Audio,Audio - Model College,988.21,2,0.5,129.79
+CA-2025-10604,2024-11-05,2024-11-10,First Class,CUST-160,Julie West,Corporate,United States,New Danielborough,New York,Central,Office Supplies,Binders,Binders - Model Them,572.29,4,0.0,237.58
+CA-2025-10605,2023-03-06,2023-03-11,First Class,CUST-287,Alexandra Pratt,Corporate,United States,Sylviafort,Texas,Central,Furniture,Bookcases,Bookcases - Model Challenge,964.84,10,0.1,405.75
+CA-2025-10606,2024-10-21,2024-10-22,Same Day,CUST-267,Thomas Moses,Consumer,United States,Darleneburgh,New Hampshire,West,Furniture,Bookcases,Bookcases - Model Instead,1118.88,5,0.1,357.19
+CA-2025-10607,2025-01-18,2025-01-20,Second Class,CUST-171,Timothy Contreras,Home Office,United States,Carlsonborough,New Mexico,Central,Office Supplies,Storage,Storage - Model Paper,1411.05,8,0.1,486.66
+CA-2025-10608,2025-05-21,2025-05-22,Same Day,CUST-169,Michele Espinoza,Corporate,United States,Lake Lanceville,South Dakota,South,Office Supplies,Storage,Storage - Model Check,1147.73,6,0.1,255.8
+CA-2025-10609,2024-04-22,2024-04-25,Standard Class,CUST-237,Thomas Wood,Home Office,United States,West Toddstad,New York,Central,Office Supplies,Storage,Storage - Model Wife,558.64,9,0.2,211.6
+CA-2025-10610,2023-06-13,2023-06-18,First Class,CUST-156,Mrs. Janet Garcia,Corporate,United States,Port Yvonne,Texas,East,Electronics,Laptops,Laptops - Model Ten,46.0,9,0.3,7.28
+CA-2025-10611,2025-08-27,2025-08-30,Standard Class,CUST-146,Lawrence Watson,Consumer,United States,Deannaland,North Dakota,Central,Electronics,Smartphones,Smartphones - Model Executive,1436.26,3,0.3,229.17
+CA-2025-10612,2024-02-08,2024-02-13,Same Day,CUST-265,Cindy Romero,Corporate,United States,Cookview,Missouri,West,Electronics,Smartphones,Smartphones - Model Nearly,896.65,1,0.5,128.74
+CA-2025-10613,2024-05-10,2024-05-15,Second Class,CUST-128,Linda Campbell,Corporate,United States,Meghanton,New York,South,Office Supplies,Paper,Paper - Model Kid,1071.06,2,0.2,195.19
+CA-2025-10614,2023-03-17,2023-03-19,Same Day,CUST-139,Carrie Farrell,Home Office,United States,Perezmouth,Louisiana,Central,Office Supplies,Binders,Binders - Model System,76.78,2,0.5,14.89
+CA-2025-10615,2025-09-25,2025-09-29,First Class,CUST-214,Lisa Martin,Corporate,United States,South Douglas,Texas,East,Electronics,Accessories,Accessories - Model Professor,996.0,8,0.0,264.26
+CA-2025-10616,2023-08-30,2023-09-04,Standard Class,CUST-209,Sarah Vance,Consumer,United States,New Kristenmouth,West Virginia,East,Electronics,Accessories,Accessories - Model Stock,997.9,10,0.0,384.15
+CA-2025-10617,2025-12-18,2025-12-23,Same Day,CUST-280,Amy Armstrong,Consumer,United States,Silvaside,Georgia,West,Furniture,Furnishings,Furnishings - Model Evidence,41.19,5,0.0,20.45
+CA-2025-10618,2025-07-18,2025-07-23,Standard Class,CUST-120,Kristina Cook,Home Office,United States,New Kristy,New Hampshire,West,Office Supplies,Storage,Storage - Model Out,1144.23,5,0.0,368.05
+CA-2025-10619,2024-03-07,2024-03-09,First Class,CUST-112,Henry Frye,Corporate,United States,Willischester,Oklahoma,East,Electronics,Accessories,Accessories - Model Cell,1370.46,9,0.0,210.09
+CA-2025-10620,2024-08-01,2024-08-04,Same Day,CUST-153,Jamie Castro,Corporate,United States,Lake Andrea,Connecticut,South,Electronics,Smartphones,Smartphones - Model Art,439.71,10,0.3,79.98
+CA-2025-10621,2024-01-10,2024-01-13,First Class,CUST-147,Nicole Stevenson,Home Office,United States,Nicholasview,Minnesota,South,Electronics,Accessories,Accessories - Model Need,679.47,7,0.5,58.76
+CA-2025-10622,2023-03-29,2023-04-01,Standard Class,CUST-215,Rodney Wilson,Consumer,United States,South Thomas,Missouri,South,Electronics,Accessories,Accessories - Model Physical,311.39,9,0.5,73.28
+CA-2025-10623,2023-04-10,2023-04-12,First Class,CUST-252,Sarah Cox,Consumer,United States,West Steven,Arkansas,East,Office Supplies,Art,Art - Model Right,390.93,8,0.1,163.51
+CA-2025-10624,2025-06-27,2025-06-30,Same Day,CUST-142,Christopher Campbell,Home Office,United States,Whiteville,Wisconsin,Central,Furniture,Chairs,Chairs - Model Within,560.2,8,0.5,43.36
+CA-2025-10625,2023-05-19,2023-05-22,Same Day,CUST-139,Dawn Spencer,Corporate,United States,Payneton,West Virginia,East,Office Supplies,Paper,Paper - Model Open,650.08,10,0.5,111.51
+CA-2025-10626,2025-09-02,2025-09-05,First Class,CUST-206,Joshua Anderson,Corporate,United States,West Shellyside,Utah,West,Office Supplies,Art,Art - Model Society,1283.17,10,0.5,194.56
+CA-2025-10627,2023-11-16,2023-11-21,First Class,CUST-274,Scott Nelson,Corporate,United States,Humphreyfurt,Indiana,South,Office Supplies,Storage,Storage - Model Develop,330.62,7,0.3,89.99
+CA-2025-10628,2024-08-14,2024-08-17,Same Day,CUST-223,Linda Wright,Home Office,United States,Oconnorview,Maine,East,Office Supplies,Art,Art - Model Not,1170.96,9,0.2,148.54
+CA-2025-10629,2025-04-23,2025-04-24,First Class,CUST-183,Rebecca Allen,Home Office,United States,Leonardhaven,Ohio,West,Furniture,Bookcases,Bookcases - Model Office,1257.3,2,0.0,625.95
+CA-2025-10630,2025-06-20,2025-06-23,Standard Class,CUST-177,Lucas Robertson,Corporate,United States,North William,Massachusetts,Central,Electronics,Laptops,Laptops - Model Stage,818.52,8,0.0,349.67
+CA-2025-10631,2023-10-28,2023-11-02,First Class,CUST-288,Amanda Morgan,Consumer,United States,Whitechester,North Carolina,West,Office Supplies,Binders,Binders - Model Same,427.69,4,0.3,117.76
+CA-2025-10632,2025-10-29,2025-11-03,First Class,CUST-211,Drew Clayton,Home Office,United States,Johnshire,Ohio,South,Office Supplies,Binders,Binders - Model World,302.25,4,0.0,150.13
+CA-2025-10633,2025-05-06,2025-05-10,Second Class,CUST-256,Carolyn Perez,Corporate,United States,North Christopherbury,North Carolina,East,Office Supplies,Binders,Binders - Model Among,23.56,9,0.2,8.38
+CA-2025-10634,2025-10-17,2025-10-20,Standard Class,CUST-194,Gregory Parker,Corporate,United States,New Dawnview,Michigan,South,Furniture,Tables,Tables - Model Also,617.64,8,0.2,171.23
+CA-2025-10635,2023-04-14,2023-04-15,First Class,CUST-262,Ryan Brooks,Home Office,United States,Lake Jessica,Massachusetts,East,Furniture,Furnishings,Furnishings - Model Hundred,1317.73,9,0.0,607.14
+CA-2025-10636,2023-06-26,2023-07-01,Standard Class,CUST-148,William Gonzalez,Home Office,United States,Port Billview,Illinois,East,Furniture,Furnishings,Furnishings - Model Talk,224.89,6,0.5,17.66
+CA-2025-10637,2024-11-16,2024-11-21,First Class,CUST-191,Jordan Fleming,Home Office,United States,Daniellemouth,Louisiana,East,Furniture,Furnishings,Furnishings - Model Security,751.61,5,0.1,104.53
+CA-2025-10638,2025-03-12,2025-03-16,Standard Class,CUST-136,Kayla Ibarra,Consumer,United States,Dwayneville,Massachusetts,West,Furniture,Tables,Tables - Model Wear,551.06,3,0.3,131.7
+CA-2025-10639,2025-10-13,2025-10-16,Same Day,CUST-234,Kevin Owens,Home Office,United States,South Jennifer,Maine,South,Electronics,Accessories,Accessories - Model State,925.43,10,0.0,284.66
+CA-2025-10640,2024-08-06,2024-08-10,Same Day,CUST-208,Paul Kennedy,Corporate,United States,Bradleyport,Wisconsin,South,Office Supplies,Binders,Binders - Model Blood,1354.81,9,0.3,320.59
+CA-2025-10641,2024-12-13,2024-12-18,Same Day,CUST-292,Jesse Hanson,Home Office,United States,Lake Karen,Illinois,South,Furniture,Bookcases,Bookcases - Model Leg,471.58,5,0.2,105.05
+CA-2025-10642,2023-08-13,2023-08-16,Standard Class,CUST-123,Elizabeth Cardenas DDS,Corporate,United States,North Jessica,Missouri,Central,Electronics,Smartphones,Smartphones - Model Become,1246.84,3,0.5,286.75
+CA-2025-10643,2025-03-25,2025-03-29,First Class,CUST-213,Vincent Pittman,Consumer,United States,Elizabethton,South Dakota,West,Office Supplies,Binders,Binders - Model Attention,130.88,6,0.1,19.04
+CA-2025-10644,2023-07-12,2023-07-17,First Class,CUST-114,Elijah Adams,Corporate,United States,Lake Donald,Rhode Island,East,Electronics,Laptops,Laptops - Model Want,1242.03,8,0.2,260.23
+CA-2025-10645,2023-07-17,2023-07-19,Standard Class,CUST-185,Thomas Ramos,Home Office,United States,New Richard,Connecticut,East,Furniture,Tables,Tables - Model Difference,1357.84,3,0.1,276.24
+CA-2025-10646,2023-11-27,2023-11-30,Second Class,CUST-178,Brooke Nelson,Home Office,United States,Olsonmouth,Maine,East,Furniture,Bookcases,Bookcases - Model Morning,1064.99,3,0.3,210.3
+CA-2025-10647,2025-08-26,2025-08-30,Standard Class,CUST-281,Brianna Peterson,Home Office,United States,Port Brianna,Texas,Central,Furniture,Furnishings,Furnishings - Model Letter,974.32,5,0.0,466.07
+CA-2025-10648,2024-11-07,2024-11-12,Standard Class,CUST-227,Daniel Valenzuela,Corporate,United States,Nathanfort,Tennessee,South,Electronics,Accessories,Accessories - Model Little,986.58,8,0.1,176.84
+CA-2025-10649,2024-01-30,2024-02-03,Standard Class,CUST-203,William Ruiz,Consumer,United States,Port Sean,California,Central,Electronics,Accessories,Accessories - Model Fly,342.48,9,0.2,45.22
+CA-2025-10650,2025-06-19,2025-06-20,First Class,CUST-285,Jeffrey Williams,Home Office,United States,North Brianfort,Nebraska,West,Furniture,Tables,Tables - Model Financial,626.92,9,0.0,118.18
+CA-2025-10651,2023-09-11,2023-09-16,Second Class,CUST-139,Kathy Stokes,Home Office,United States,Evelynborough,Nevada,Central,Electronics,Audio,Audio - Model Wait,896.98,2,0.2,328.7
+CA-2025-10652,2025-01-17,2025-01-21,Same Day,CUST-187,Christopher Reid,Corporate,United States,Williamburgh,Nebraska,West,Office Supplies,Paper,Paper - Model Risk,730.53,9,0.2,238.43
+CA-2025-10653,2024-03-24,2024-03-29,Standard Class,CUST-293,Michael Martin,Home Office,United States,Briggsville,Virginia,South,Office Supplies,Paper,Paper - Model Decide,201.41,10,0.5,39.55
+CA-2025-10654,2023-09-15,2023-09-19,First Class,CUST-249,Evan Alvarez,Home Office,United States,Joyceville,Alabama,South,Furniture,Bookcases,Bookcases - Model Top,1481.84,5,0.5,237.03
+CA-2025-10655,2024-04-15,2024-04-17,First Class,CUST-257,Melissa Brown,Consumer,United States,Port Janet,Arizona,West,Furniture,Furnishings,Furnishings - Model Safe,818.11,1,0.5,191.54
+CA-2025-10656,2024-04-07,2024-04-12,Standard Class,CUST-270,Michelle Jones,Home Office,United States,New Michaelchester,Michigan,West,Electronics,Laptops,Laptops - Model By,142.72,9,0.3,37.48
+CA-2025-10657,2024-03-28,2024-03-29,Same Day,CUST-256,Caitlin Davis,Home Office,United States,East Lydia,Florida,Central,Furniture,Bookcases,Bookcases - Model Result,1282.87,7,0.2,280.21
+CA-2025-10658,2023-06-03,2023-06-07,Standard Class,CUST-134,Jennifer Lee,Home Office,United States,North Michaelport,Virginia,East,Electronics,Audio,Audio - Model Team,543.69,5,0.3,89.84
+CA-2025-10659,2025-04-18,2025-04-22,First Class,CUST-246,Michael Bradford,Consumer,United States,Hernandezchester,New Jersey,Central,Electronics,Audio,Audio - Model Base,514.47,2,0.5,122.35
+CA-2025-10660,2025-08-27,2025-09-01,Second Class,CUST-108,Sarah Williams MD,Consumer,United States,South Emilyberg,Michigan,Central,Electronics,Audio,Audio - Model Main,670.3,10,0.1,175.07
+CA-2025-10661,2024-02-16,2024-02-18,Same Day,CUST-272,Jerry White,Corporate,United States,New Donaldton,New Hampshire,East,Furniture,Tables,Tables - Model Radio,354.11,2,0.3,73.65
+CA-2025-10662,2024-01-31,2024-02-02,Standard Class,CUST-297,Sarah Stewart,Corporate,United States,West Robin,Illinois,West,Furniture,Chairs,Chairs - Model Apply,156.85,7,0.3,48.48
+CA-2025-10663,2025-03-15,2025-03-16,First Class,CUST-269,Thomas Chambers,Corporate,United States,Kimberlyburgh,Maryland,West,Office Supplies,Art,Art - Model Rather,639.52,9,0.0,296.94
+CA-2025-10664,2025-09-26,2025-09-28,Standard Class,CUST-238,Timothy Baker,Consumer,United States,Armstrongland,Alabama,Central,Furniture,Furnishings,Furnishings - Model Statement,831.27,3,0.5,168.41
+CA-2025-10665,2025-02-05,2025-02-07,First Class,CUST-188,Laura Atkins,Corporate,United States,Ashleeton,Arizona,Central,Furniture,Chairs,Chairs - Model Price,450.27,8,0.3,100.75
+CA-2025-10666,2023-07-10,2023-07-13,First Class,CUST-260,Ronald Garcia,Home Office,United States,West Gary,Pennsylvania,West,Office Supplies,Binders,Binders - Model Assume,1061.86,3,0.5,154.24
+CA-2025-10667,2023-09-16,2023-09-21,Standard Class,CUST-172,Sally Richardson,Corporate,United States,West Vanessa,Arizona,East,Furniture,Chairs,Chairs - Model As,1462.48,4,0.3,452.89
+CA-2025-10668,2023-10-05,2023-10-07,Second Class,CUST-261,Caroline Green,Corporate,United States,West Rachel,Virginia,South,Furniture,Bookcases,Bookcases - Model Something,298.84,7,0.5,29.51
+CA-2025-10669,2025-03-25,2025-03-29,Same Day,CUST-225,Ms. Shannon Cooper,Consumer,United States,New Tonyaville,Georgia,Central,Electronics,Accessories,Accessories - Model Realize,345.74,5,0.0,60.49
+CA-2025-10670,2025-08-10,2025-08-12,Standard Class,CUST-118,Mr. Daniel Brown,Corporate,United States,Haileyshire,Delaware,East,Furniture,Furnishings,Furnishings - Model Black,542.11,10,0.2,187.33
+CA-2025-10671,2024-05-30,2024-06-03,First Class,CUST-225,Hunter Mendoza,Consumer,United States,East Dustin,North Dakota,South,Furniture,Bookcases,Bookcases - Model Leg,1269.64,9,0.0,252.68
+CA-2025-10672,2024-04-11,2024-04-15,First Class,CUST-115,George Cordova,Consumer,United States,Port Kennethberg,Nebraska,West,Office Supplies,Paper,Paper - Model Throw,442.5,6,0.5,91.24
+CA-2025-10673,2025-01-04,2025-01-06,Same Day,CUST-131,Joseph Hoffman MD,Corporate,United States,North Michellestad,South Dakota,South,Furniture,Furnishings,Furnishings - Model Want,1482.04,7,0.3,306.8
+CA-2025-10674,2023-08-20,2023-08-23,Same Day,CUST-160,Elizabeth Miller,Corporate,United States,Jacobsborough,New Mexico,West,Electronics,Audio,Audio - Model At,67.63,9,0.5,14.87
+CA-2025-10675,2025-06-30,2025-07-05,Same Day,CUST-252,Brian Mccoy,Home Office,United States,West Anthony,Arizona,Central,Office Supplies,Paper,Paper - Model Conference,463.49,9,0.2,73.05
+CA-2025-10676,2024-07-28,2024-07-29,Same Day,CUST-160,Joseph Ferguson,Corporate,United States,Port Nancystad,Louisiana,South,Electronics,Smartphones,Smartphones - Model Marriage,686.88,1,0.1,197.28
+CA-2025-10677,2024-02-08,2024-02-12,Standard Class,CUST-235,Elizabeth Mendez,Consumer,United States,New Steventown,Colorado,South,Electronics,Audio,Audio - Model Religious,1054.02,1,0.1,328.42
+CA-2025-10678,2023-09-01,2023-09-03,Second Class,CUST-178,Margaret Rodriguez,Consumer,United States,Ramirezfort,Virginia,South,Office Supplies,Binders,Binders - Model Attention,1109.93,2,0.2,202.99
+CA-2025-10679,2023-12-05,2023-12-07,First Class,CUST-150,Jorge Navarro,Corporate,United States,North Patrickview,Delaware,West,Furniture,Chairs,Chairs - Model The,794.85,1,0.1,174.2
+CA-2025-10680,2024-07-07,2024-07-12,Standard Class,CUST-255,Tiffany Cross,Corporate,United States,North Christopher,Minnesota,Central,Electronics,Smartphones,Smartphones - Model Attack,299.36,2,0.5,30.79
+CA-2025-10681,2024-02-25,2024-02-27,Second Class,CUST-300,Eric Carrillo PhD,Home Office,United States,Campbellport,Vermont,South,Furniture,Tables,Tables - Model Few,1396.28,9,0.0,326.78
+CA-2025-10682,2023-08-14,2023-08-18,Standard Class,CUST-230,Thomas Byrd,Home Office,United States,Garciaborough,Vermont,South,Furniture,Tables,Tables - Model Already,485.51,2,0.2,115.68
+CA-2025-10683,2025-09-05,2025-09-06,Same Day,CUST-206,Dorothy Miles,Home Office,United States,Port Derekshire,Hawaii,West,Electronics,Laptops,Laptops - Model Pm,980.73,4,0.5,198.67
+CA-2025-10684,2024-01-30,2024-01-31,Same Day,CUST-155,Sarah Riddle,Consumer,United States,Troytown,Delaware,South,Electronics,Accessories,Accessories - Model Condition,882.82,9,0.2,289.71
+CA-2025-10685,2023-03-30,2023-04-04,Same Day,CUST-156,Jason Hall,Consumer,United States,Susanport,Alaska,East,Electronics,Audio,Audio - Model Shake,987.65,2,0.0,189.16
+CA-2025-10686,2023-07-31,2023-08-01,Second Class,CUST-201,Jeffrey Walker,Home Office,United States,Charlesstad,Wyoming,East,Furniture,Tables,Tables - Model Generation,1448.8,10,0.3,430.91
+CA-2025-10687,2024-05-04,2024-05-08,Standard Class,CUST-291,David Gray,Consumer,United States,Karenshire,South Carolina,Central,Electronics,Audio,Audio - Model Positive,928.95,1,0.3,299.69
+CA-2025-10688,2025-08-30,2025-09-04,First Class,CUST-141,Shannon Warner,Consumer,United States,South Lisa,Texas,West,Electronics,Smartphones,Smartphones - Model Meeting,1458.08,8,0.5,315.26
+CA-2025-10689,2023-12-31,2024-01-03,First Class,CUST-232,Amanda Kane,Corporate,United States,Yubury,Texas,West,Office Supplies,Binders,Binders - Model They,1394.91,6,0.3,298.23
+CA-2025-10690,2023-10-30,2023-11-01,Second Class,CUST-102,Chad Dixon,Home Office,United States,Johnsonborough,Michigan,South,Furniture,Bookcases,Bookcases - Model Interesting,870.57,10,0.2,313.03
+CA-2025-10691,2024-01-11,2024-01-12,First Class,CUST-276,Michelle Mcbride,Home Office,United States,Lake Robertland,Arizona,West,Furniture,Bookcases,Bookcases - Model Third,284.43,9,0.2,56.49
+CA-2025-10692,2023-06-11,2023-06-16,Standard Class,CUST-244,Michael Gordon,Consumer,United States,Port Leon,Alaska,Central,Office Supplies,Storage,Storage - Model Better,1335.37,1,0.3,331.03
+CA-2025-10693,2025-01-01,2025-01-03,Standard Class,CUST-291,Tyler Murphy,Consumer,United States,Bakerton,Georgia,West,Furniture,Furnishings,Furnishings - Model Foot,145.25,1,0.2,18.44
+CA-2025-10694,2025-03-01,2025-03-05,Standard Class,CUST-122,Joseph Hoffman,Consumer,United States,Stoneborough,Nevada,South,Office Supplies,Paper,Paper - Model Thus,716.72,2,0.2,170.53
+CA-2025-10695,2025-10-25,2025-10-29,Same Day,CUST-156,Shannon Butler,Consumer,United States,South Jesus,Wyoming,Central,Office Supplies,Art,Art - Model Sure,1076.97,4,0.0,263.84
+CA-2025-10696,2023-09-13,2023-09-15,Standard Class,CUST-182,Keith Thomas,Corporate,United States,Davishaven,Vermont,East,Furniture,Bookcases,Bookcases - Model Process,853.5,3,0.3,241.36
+CA-2025-10697,2025-02-14,2025-02-16,Standard Class,CUST-226,Jason Clark,Home Office,United States,Washingtonborough,Nevada,East,Office Supplies,Storage,Storage - Model Cut,917.0,2,0.2,221.04
+CA-2025-10698,2023-11-01,2023-11-06,First Class,CUST-206,Steven Shaffer,Corporate,United States,Longhaven,Connecticut,Central,Electronics,Audio,Audio - Model Responsibility,1008.22,9,0.2,350.85
+CA-2025-10699,2023-05-17,2023-05-21,Same Day,CUST-178,David Parks,Home Office,United States,North Joshuastad,Arkansas,West,Electronics,Audio,Audio - Model Shoulder,334.65,10,0.1,73.4
+CA-2025-10700,2025-01-28,2025-02-02,Same Day,CUST-291,Timothy Cooper,Consumer,United States,Lake James,Wisconsin,Central,Furniture,Tables,Tables - Model Mind,508.78,9,0.5,64.11
+CA-2025-10701,2023-06-07,2023-06-12,Second Class,CUST-244,Mr. Jeremy Diaz,Corporate,United States,West Joannemouth,Michigan,West,Furniture,Chairs,Chairs - Model Watch,1482.91,1,0.1,382.86
+CA-2025-10702,2024-06-04,2024-06-08,First Class,CUST-196,Mary Wilcox,Corporate,United States,New Caseyland,Wyoming,West,Office Supplies,Binders,Binders - Model Finally,1118.47,10,0.2,337.52
+CA-2025-10703,2023-02-06,2023-02-08,Second Class,CUST-113,Kathryn Curry,Consumer,United States,Saraside,Virginia,South,Furniture,Bookcases,Bookcases - Model Guess,317.26,1,0.0,79.88
+CA-2025-10704,2025-08-06,2025-08-10,Standard Class,CUST-202,Jennifer Schultz,Home Office,United States,Port Thomas,Idaho,West,Electronics,Smartphones,Smartphones - Model Operation,1494.1,7,0.0,340.73
+CA-2025-10705,2024-05-26,2024-05-30,Second Class,CUST-148,Miguel Green,Consumer,United States,Dianeberg,Louisiana,East,Office Supplies,Paper,Paper - Model Citizen,1058.39,5,0.5,257.1
+CA-2025-10706,2025-10-15,2025-10-18,Standard Class,CUST-266,Lindsay Morgan,Home Office,United States,West Mark,Montana,East,Office Supplies,Binders,Binders - Model Sport,487.62,8,0.2,96.96
+CA-2025-10707,2025-09-28,2025-10-02,Same Day,CUST-217,Jonathan Ford,Corporate,United States,Johnsonmouth,South Dakota,West,Office Supplies,Paper,Paper - Model Mission,736.42,10,0.0,169.66
+CA-2025-10708,2024-03-12,2024-03-13,Same Day,CUST-164,Kevin Mcdaniel,Corporate,United States,Knightton,Virginia,South,Electronics,Accessories,Accessories - Model Moment,182.15,1,0.5,14.94
+CA-2025-10709,2025-01-24,2025-01-29,First Class,CUST-164,Joshua Harper,Home Office,United States,Lisaville,Minnesota,Central,Electronics,Accessories,Accessories - Model First,714.39,8,0.2,89.6
+CA-2025-10710,2025-07-31,2025-08-01,Same Day,CUST-100,Barbara Marsh,Consumer,United States,Elijahshire,Colorado,West,Furniture,Furnishings,Furnishings - Model We,928.41,7,0.2,228.58
+CA-2025-10711,2025-10-04,2025-10-07,Standard Class,CUST-244,Stephanie White,Corporate,United States,New Sean,Georgia,West,Furniture,Bookcases,Bookcases - Model Able,1388.11,1,0.3,238.48
+CA-2025-10712,2023-09-15,2023-09-18,Standard Class,CUST-168,Ann Jackson,Consumer,United States,South Stanleyfurt,Alaska,Central,Electronics,Accessories,Accessories - Model Picture,82.59,5,0.1,23.22
+CA-2025-10713,2025-04-08,2025-04-09,First Class,CUST-161,Samuel Dodson,Home Office,United States,Jeffreystad,Wyoming,East,Furniture,Tables,Tables - Model Law,202.28,5,0.2,37.49
+CA-2025-10714,2024-11-20,2024-11-24,Standard Class,CUST-154,Christina Miller,Corporate,United States,South Bryantown,Illinois,Central,Electronics,Accessories,Accessories - Model Decide,916.35,7,0.5,206.98
+CA-2025-10715,2024-01-27,2024-01-29,First Class,CUST-168,Lori Peterson,Consumer,United States,Lake Tracy,South Dakota,East,Electronics,Accessories,Accessories - Model City,607.74,9,0.0,233.11
+CA-2025-10716,2025-10-05,2025-10-06,First Class,CUST-161,Veronica Mcintosh,Consumer,United States,Hughestown,Georgia,West,Electronics,Laptops,Laptops - Model Require,893.73,5,0.1,347.26
+CA-2025-10717,2025-07-04,2025-07-05,First Class,CUST-237,Charles Crawford,Corporate,United States,Craigton,Idaho,South,Office Supplies,Binders,Binders - Model Organization,522.41,8,0.3,178.43
+CA-2025-10718,2024-01-07,2024-01-10,Standard Class,CUST-119,Jennifer Cruz,Home Office,United States,Lake Michaelmouth,Alabama,East,Office Supplies,Storage,Storage - Model Mother,232.73,8,0.1,45.41
+CA-2025-10719,2025-02-22,2025-02-24,Standard Class,CUST-177,Paul Jackson,Home Office,United States,New Angelamouth,Wisconsin,South,Furniture,Bookcases,Bookcases - Model Defense,1384.49,10,0.0,397.86
+CA-2025-10720,2023-01-23,2023-01-25,Same Day,CUST-256,Zachary Odom,Consumer,United States,East Jasmine,South Dakota,East,Furniture,Bookcases,Bookcases - Model According,891.6,5,0.0,192.45
+CA-2025-10721,2023-11-24,2023-11-26,Standard Class,CUST-183,Melinda Spencer,Consumer,United States,Andersonchester,Maryland,West,Office Supplies,Art,Art - Model Answer,1052.24,3,0.2,383.31
+CA-2025-10722,2023-04-25,2023-04-29,Second Class,CUST-209,Denise Myers,Home Office,United States,Jacksonstad,Arizona,South,Electronics,Smartphones,Smartphones - Model Above,200.62,4,0.5,25.75
+CA-2025-10723,2025-10-16,2025-10-19,Second Class,CUST-103,Alejandro Henson,Corporate,United States,Port Angela,Illinois,West,Office Supplies,Storage,Storage - Model Defense,286.21,7,0.1,118.25
+CA-2025-10724,2025-12-21,2025-12-23,Second Class,CUST-124,Brandi Cruz,Corporate,United States,Jessicashire,New Hampshire,Central,Electronics,Accessories,Accessories - Model More,852.13,4,0.3,94.22
+CA-2025-10725,2023-04-13,2023-04-17,Second Class,CUST-286,Pamela White,Home Office,United States,South Melvinshire,South Carolina,Central,Office Supplies,Paper,Paper - Model Get,793.82,1,0.3,103.19
+CA-2025-10726,2024-01-05,2024-01-08,Second Class,CUST-222,Cody Mcdonald,Corporate,United States,Thomasview,Louisiana,South,Electronics,Accessories,Accessories - Model Senior,369.6,5,0.3,47.11
+CA-2025-10727,2024-04-27,2024-05-02,Same Day,CUST-256,Brian Bonilla,Corporate,United States,Schmidtstad,West Virginia,East,Electronics,Audio,Audio - Model To,646.35,2,0.5,125.42
+CA-2025-10728,2025-03-18,2025-03-19,Second Class,CUST-132,Nicole Gates,Home Office,United States,Shawview,Washington,West,Electronics,Accessories,Accessories - Model Media,1188.02,8,0.0,454.12
+CA-2025-10729,2023-03-12,2023-03-14,Second Class,CUST-222,Anthony Burton,Home Office,United States,Colemouth,Ohio,East,Furniture,Tables,Tables - Model Watch,1285.17,9,0.5,306.45
+CA-2025-10730,2024-04-06,2024-04-11,Second Class,CUST-282,Darren Jimenez,Corporate,United States,West Michelleshire,Mississippi,South,Electronics,Audio,Audio - Model Important,1357.61,8,0.5,330.58
+CA-2025-10731,2025-05-07,2025-05-10,Second Class,CUST-244,Stephanie Clark,Corporate,United States,Christyborough,Louisiana,Central,Office Supplies,Binders,Binders - Model Nor,977.67,8,0.2,377.76
+CA-2025-10732,2024-10-09,2024-10-12,Same Day,CUST-299,Ariel Moody,Home Office,United States,West Saraborough,Virginia,South,Furniture,Furnishings,Furnishings - Model Pressure,621.07,9,0.1,103.49
+CA-2025-10733,2023-09-01,2023-09-04,Second Class,CUST-237,Melissa Potts,Home Office,United States,Hannahview,North Dakota,East,Furniture,Tables,Tables - Model Laugh,196.49,3,0.2,64.16
+CA-2025-10734,2025-04-09,2025-04-12,First Class,CUST-292,Jessica Harris,Corporate,United States,Richardsmouth,Rhode Island,Central,Furniture,Tables,Tables - Model Open,1344.73,10,0.1,477.88
+CA-2025-10735,2024-05-20,2024-05-24,First Class,CUST-162,Edwin Johnson,Corporate,United States,Petersfurt,Washington,West,Furniture,Bookcases,Bookcases - Model Over,1422.63,2,0.2,297.97
+CA-2025-10736,2023-01-23,2023-01-26,Same Day,CUST-221,Sabrina Smith,Corporate,United States,Stephenberg,Georgia,South,Electronics,Accessories,Accessories - Model Analysis,398.79,7,0.1,154.08
+CA-2025-10737,2024-01-03,2024-01-06,Standard Class,CUST-187,Steven Cox,Corporate,United States,West Karenton,North Carolina,Central,Furniture,Tables,Tables - Model Section,123.94,7,0.3,37.36
+CA-2025-10738,2025-11-11,2025-11-15,Same Day,CUST-146,Beth Nash,Consumer,United States,North Kevin,Louisiana,South,Furniture,Chairs,Chairs - Model Appear,1047.8,8,0.0,324.29
+CA-2025-10739,2024-02-22,2024-02-24,Second Class,CUST-236,Melinda Sullivan,Corporate,United States,West Lauren,Idaho,East,Office Supplies,Storage,Storage - Model Gas,910.16,9,0.0,244.42
+CA-2025-10740,2023-06-19,2023-06-21,Second Class,CUST-240,Amber Stark,Corporate,United States,Stephensontown,Hawaii,West,Office Supplies,Art,Art - Model Discussion,101.52,5,0.1,30.85
+CA-2025-10741,2025-06-04,2025-06-09,Same Day,CUST-153,Natasha Benson,Consumer,United States,Aliciaside,Georgia,South,Electronics,Audio,Audio - Model Seek,528.71,4,0.5,97.86
+CA-2025-10742,2023-11-08,2023-11-10,Standard Class,CUST-210,Isaac Dominguez,Home Office,United States,East Robert,Missouri,Central,Furniture,Furnishings,Furnishings - Model Many,365.15,8,0.5,33.15
+CA-2025-10743,2024-12-11,2024-12-14,First Class,CUST-212,Rebecca Alvarez,Consumer,United States,Gilmoreland,West Virginia,West,Furniture,Furnishings,Furnishings - Model Interest,772.79,10,0.3,171.14
+CA-2025-10744,2023-10-04,2023-10-09,Second Class,CUST-165,Melissa Wallace,Consumer,United States,West Eric,Idaho,Central,Electronics,Audio,Audio - Model Day,245.79,9,0.2,73.03
+CA-2025-10745,2025-06-01,2025-06-05,Second Class,CUST-246,Kristina Simpson,Home Office,United States,Elizabethport,Florida,South,Office Supplies,Binders,Binders - Model Drop,1277.38,3,0.2,474.69
+CA-2025-10746,2023-06-28,2023-06-30,First Class,CUST-108,Robert Garrett,Corporate,United States,Harpermouth,California,Central,Electronics,Accessories,Accessories - Model Day,526.61,10,0.1,84.1
+CA-2025-10747,2024-12-22,2024-12-26,Second Class,CUST-167,Leslie Lee DVM,Consumer,United States,Lake Janet,Missouri,Central,Electronics,Laptops,Laptops - Model Network,246.38,3,0.2,91.16
+CA-2025-10748,2024-03-24,2024-03-28,First Class,CUST-184,Breanna Dominguez,Home Office,United States,Grahammouth,Arkansas,South,Furniture,Furnishings,Furnishings - Model Nation,353.15,3,0.2,106.19
+CA-2025-10749,2025-05-01,2025-05-05,Standard Class,CUST-259,Timothy Gibson,Consumer,United States,Lake Alanbury,North Carolina,South,Furniture,Furnishings,Furnishings - Model Man,179.06,3,0.0,45.23
+CA-2025-10750,2023-03-29,2023-04-03,Second Class,CUST-289,Roger Knight,Home Office,United States,Sarahfort,Hawaii,West,Office Supplies,Paper,Paper - Model Piece,700.6,6,0.2,232.01
+CA-2025-10751,2024-08-24,2024-08-28,First Class,CUST-253,Taylor Schneider,Consumer,United States,South Jennifer,Florida,South,Furniture,Bookcases,Bookcases - Model Sort,1378.85,6,0.5,228.94
+CA-2025-10752,2024-03-03,2024-03-06,First Class,CUST-117,Bonnie Webb,Consumer,United States,East Donaldberg,Illinois,South,Furniture,Chairs,Chairs - Model Bill,459.26,8,0.1,191.86
+CA-2025-10753,2024-06-12,2024-06-16,First Class,CUST-164,Joseph Cisneros,Corporate,United States,New Sharon,Pennsylvania,East,Furniture,Chairs,Chairs - Model Particular,113.38,5,0.0,18.83
+CA-2025-10754,2023-04-14,2023-04-16,Same Day,CUST-202,Michael Martin,Home Office,United States,West Jenniferton,Texas,South,Electronics,Accessories,Accessories - Model Small,83.09,5,0.5,16.84
+CA-2025-10755,2023-04-11,2023-04-15,First Class,CUST-221,Stacie Riggs,Consumer,United States,Lake Robert,North Dakota,East,Electronics,Laptops,Laptops - Model Ask,170.34,1,0.5,25.27
+CA-2025-10756,2023-12-20,2023-12-21,Same Day,CUST-185,Sharon Hernandez,Consumer,United States,Lake Melodyland,New Hampshire,Central,Furniture,Chairs,Chairs - Model Black,686.94,5,0.3,235.36
+CA-2025-10757,2025-02-19,2025-02-21,Second Class,CUST-141,Jillian Davis,Consumer,United States,Tonybury,Illinois,East,Furniture,Chairs,Chairs - Model Feel,867.2,4,0.0,234.77
+CA-2025-10758,2025-12-15,2025-12-17,First Class,CUST-280,Jennifer Gibson,Home Office,United States,New Shelby,New Mexico,East,Office Supplies,Binders,Binders - Model Member,975.96,6,0.2,201.43
+CA-2025-10759,2024-08-20,2024-08-24,Standard Class,CUST-169,Daniel Alvarez,Home Office,United States,South Sara,Arizona,South,Office Supplies,Binders,Binders - Model Huge,372.22,9,0.3,66.09
+CA-2025-10760,2025-12-16,2025-12-21,Standard Class,CUST-235,Ashley Lambert,Consumer,United States,East Joshua,South Carolina,West,Furniture,Furnishings,Furnishings - Model Spend,1402.48,4,0.1,297.91
+CA-2025-10761,2023-03-28,2023-03-30,Same Day,CUST-119,Steven Johnson,Corporate,United States,Donaldmouth,Maine,West,Electronics,Smartphones,Smartphones - Model Herself,360.04,2,0.5,51.7
+CA-2025-10762,2023-04-10,2023-04-15,Standard Class,CUST-235,Michelle Dougherty,Consumer,United States,West Nicolehaven,Alaska,South,Furniture,Bookcases,Bookcases - Model Throw,1198.51,6,0.0,249.85
+CA-2025-10763,2025-12-08,2025-12-09,Standard Class,CUST-186,Henry Morgan DDS,Consumer,United States,North Arthur,North Carolina,West,Furniture,Chairs,Chairs - Model Week,1371.07,2,0.2,517.68
+CA-2025-10764,2024-10-21,2024-10-23,Same Day,CUST-102,Crystal Pace,Corporate,United States,Pierceton,New Jersey,East,Electronics,Laptops,Laptops - Model Throughout,1186.91,1,0.1,272.95
+CA-2025-10765,2023-08-12,2023-08-17,Standard Class,CUST-160,Jessica Compton,Home Office,United States,Lake Ashley,New Mexico,Central,Electronics,Audio,Audio - Model Factor,1206.01,7,0.3,332.91
+CA-2025-10766,2023-12-30,2024-01-04,Second Class,CUST-102,William Roach,Corporate,United States,West Juan,Hawaii,Central,Office Supplies,Storage,Storage - Model Particularly,180.36,7,0.0,87.0
+CA-2025-10767,2024-11-30,2024-12-05,Second Class,CUST-201,Jonathan Stephens,Home Office,United States,Martinezport,Kansas,Central,Office Supplies,Storage,Storage - Model Later,1121.13,9,0.2,274.06
+CA-2025-10768,2023-04-16,2023-04-19,Standard Class,CUST-249,Stephanie Robles,Corporate,United States,Katieshire,Connecticut,Central,Office Supplies,Paper,Paper - Model Leg,214.14,4,0.5,19.98
+CA-2025-10769,2025-08-04,2025-08-05,Second Class,CUST-123,Sabrina Smith,Consumer,United States,Lake Katherine,Colorado,South,Electronics,Laptops,Laptops - Model Really,1349.42,4,0.3,401.0
+CA-2025-10770,2023-05-28,2023-06-02,First Class,CUST-121,Erica Caldwell,Home Office,United States,Leefort,Pennsylvania,West,Furniture,Chairs,Chairs - Model Set,1015.17,10,0.3,284.58
+CA-2025-10771,2023-12-19,2023-12-23,Standard Class,CUST-189,Jessica Cunningham,Consumer,United States,Kevinview,Idaho,Central,Electronics,Accessories,Accessories - Model Benefit,88.87,10,0.3,18.04
+CA-2025-10772,2023-11-16,2023-11-19,First Class,CUST-123,Christopher Schneider,Home Office,United States,Port Scottton,Iowa,West,Furniture,Bookcases,Bookcases - Model Paper,1200.44,1,0.0,269.49
+CA-2025-10773,2023-12-16,2023-12-18,First Class,CUST-263,Andrew Palmer,Home Office,United States,South Maria,Vermont,Central,Electronics,Accessories,Accessories - Model Region,251.74,6,0.2,82.6
+CA-2025-10774,2025-04-13,2025-04-14,Second Class,CUST-222,Kathy Higgins,Corporate,United States,Lake Garyfurt,Maine,Central,Electronics,Accessories,Accessories - Model Early,264.68,5,0.5,54.76
+CA-2025-10775,2025-08-12,2025-08-13,Second Class,CUST-212,Ms. Nicole Moore,Corporate,United States,East Sheilaborough,Kentucky,East,Office Supplies,Storage,Storage - Model Before,453.3,8,0.2,79.57
+CA-2025-10776,2023-11-28,2023-12-03,Second Class,CUST-235,Julia Branch,Home Office,United States,Angelaville,Tennessee,East,Furniture,Tables,Tables - Model Box,1233.94,10,0.5,220.62
+CA-2025-10777,2025-11-10,2025-11-15,Standard Class,CUST-120,Hannah Boyle,Consumer,United States,New Ambershire,Georgia,Central,Office Supplies,Binders,Binders - Model Address,130.24,8,0.2,35.07
+CA-2025-10778,2023-04-14,2023-04-15,Standard Class,CUST-219,Jimmy Ramirez,Home Office,United States,Jamestown,South Carolina,South,Furniture,Tables,Tables - Model Whole,665.03,10,0.2,151.65
+CA-2025-10779,2023-10-26,2023-10-30,Second Class,CUST-122,Jesse Shaw,Corporate,United States,West Jasonview,Wisconsin,Central,Office Supplies,Paper,Paper - Model Look,1035.81,5,0.3,141.67
+CA-2025-10780,2024-06-05,2024-06-06,First Class,CUST-212,Cody Ingram,Corporate,United States,East Keithberg,Colorado,South,Electronics,Accessories,Accessories - Model Themselves,971.36,4,0.3,302.47
+CA-2025-10781,2023-11-12,2023-11-13,Same Day,CUST-101,Cynthia James,Consumer,United States,Dannymouth,Florida,South,Electronics,Laptops,Laptops - Model Still,416.18,6,0.1,140.13
+CA-2025-10782,2023-02-19,2023-02-23,Standard Class,CUST-280,Carrie Sanchez,Corporate,United States,New Jennifer,Alaska,Central,Office Supplies,Paper,Paper - Model Career,129.33,6,0.0,32.68
+CA-2025-10783,2023-02-15,2023-02-20,Standard Class,CUST-144,Kyle Payne,Corporate,United States,North Matthew,Idaho,South,Electronics,Smartphones,Smartphones - Model Them,1026.58,2,0.5,187.0
+CA-2025-10784,2025-08-17,2025-08-21,Same Day,CUST-291,Adam Benson,Home Office,United States,New Josephshire,New Hampshire,Central,Office Supplies,Paper,Paper - Model Cultural,565.69,2,0.3,169.21
+CA-2025-10785,2023-02-21,2023-02-22,First Class,CUST-118,John Smith,Corporate,United States,Jimenezshire,Kansas,West,Furniture,Tables,Tables - Model Couple,335.55,1,0.0,104.72
+CA-2025-10786,2023-12-07,2023-12-10,Same Day,CUST-242,Holly Davis,Consumer,United States,Lake Evan,Arizona,East,Furniture,Bookcases,Bookcases - Model Evening,573.82,5,0.2,86.59
+CA-2025-10787,2024-09-16,2024-09-17,Second Class,CUST-124,Connor Brown,Consumer,United States,Sethchester,Mississippi,Central,Electronics,Audio,Audio - Model Address,279.48,6,0.1,118.7
+CA-2025-10788,2023-04-17,2023-04-22,Standard Class,CUST-241,Timothy Ramsey,Consumer,United States,Robertville,Maryland,South,Office Supplies,Binders,Binders - Model Citizen,1344.6,8,0.2,301.6
+CA-2025-10789,2024-10-15,2024-10-20,Same Day,CUST-156,Laura Lewis,Home Office,United States,Port Richardfort,Oregon,Central,Furniture,Furnishings,Furnishings - Model Debate,1188.44,7,0.2,444.58
+CA-2025-10790,2025-10-29,2025-11-03,First Class,CUST-295,Carol Odonnell,Corporate,United States,Mirandamouth,Mississippi,East,Electronics,Laptops,Laptops - Model Huge,435.71,7,0.0,109.03
+CA-2025-10791,2023-03-11,2023-03-14,First Class,CUST-164,Spencer Simmons,Home Office,United States,Andersonview,Illinois,South,Electronics,Audio,Audio - Model Himself,394.21,9,0.1,124.31
+CA-2025-10792,2025-01-06,2025-01-11,Second Class,CUST-289,James Tate,Corporate,United States,East Melissachester,Washington,East,Office Supplies,Paper,Paper - Model Last,191.63,10,0.3,51.78
+CA-2025-10793,2023-04-14,2023-04-19,Standard Class,CUST-177,Michelle Jacobs,Consumer,United States,Port Samuelton,Alaska,South,Electronics,Smartphones,Smartphones - Model What,1413.29,4,0.0,662.73
+CA-2025-10794,2025-05-25,2025-05-26,Same Day,CUST-110,Kevin Wells,Home Office,United States,North Taylor,Rhode Island,Central,Office Supplies,Storage,Storage - Model Capital,1106.33,6,0.2,155.17
+CA-2025-10795,2023-09-12,2023-09-15,Standard Class,CUST-182,Mallory Ho,Consumer,United States,Howeberg,Massachusetts,West,Furniture,Bookcases,Bookcases - Model Your,769.05,7,0.2,149.31
+CA-2025-10796,2024-11-19,2024-11-23,First Class,CUST-217,Brianna Willis,Home Office,United States,Johnshire,South Dakota,West,Furniture,Bookcases,Bookcases - Model Foot,599.08,1,0.0,276.5
+CA-2025-10797,2025-07-27,2025-07-31,Same Day,CUST-154,Jennifer Sparks,Corporate,United States,Howardville,Illinois,East,Furniture,Bookcases,Bookcases - Model Art,1015.93,9,0.0,396.6
+CA-2025-10798,2025-09-29,2025-10-04,First Class,CUST-237,James Aguirre,Home Office,United States,West Karenfort,Connecticut,South,Office Supplies,Paper,Paper - Model Final,383.98,9,0.3,112.99
+CA-2025-10799,2025-08-14,2025-08-16,First Class,CUST-240,Rodney Crane,Corporate,United States,Hessfurt,Idaho,Central,Furniture,Tables,Tables - Model Industry,832.95,8,0.3,281.58
+CA-2025-10800,2023-08-11,2023-08-12,First Class,CUST-158,Samantha Bird,Corporate,United States,East Christopher,Alabama,West,Office Supplies,Art,Art - Model Five,783.76,2,0.2,206.24
+CA-2025-10801,2023-12-20,2023-12-22,Second Class,CUST-227,Samantha Gillespie,Corporate,United States,Lake Gregory,Florida,East,Furniture,Furnishings,Furnishings - Model Idea,281.28,10,0.2,108.3
+CA-2025-10802,2024-12-09,2024-12-13,Same Day,CUST-259,Walter Jones DDS,Home Office,United States,East Rhonda,Arizona,Central,Office Supplies,Paper,Paper - Model Coach,100.76,6,0.3,25.95
+CA-2025-10803,2024-04-23,2024-04-24,Same Day,CUST-221,Rachel Burton,Corporate,United States,Port Mariah,New Jersey,East,Electronics,Smartphones,Smartphones - Model Hear,897.81,10,0.5,81.86
+CA-2025-10804,2023-03-01,2023-03-05,Second Class,CUST-300,Tracey Hogan,Corporate,United States,East Jesuston,Louisiana,South,Electronics,Smartphones,Smartphones - Model Property,516.4,3,0.0,140.64
+CA-2025-10805,2023-07-29,2023-07-31,First Class,CUST-266,Craig Duran,Consumer,United States,Kaitlynville,Nebraska,South,Furniture,Tables,Tables - Model Read,253.63,10,0.1,50.54
+CA-2025-10806,2023-10-31,2023-11-04,Standard Class,CUST-300,Susan Lucas,Corporate,United States,North Michael,Connecticut,South,Electronics,Smartphones,Smartphones - Model Develop,750.4,8,0.1,126.51
+CA-2025-10807,2024-03-09,2024-03-14,Same Day,CUST-113,Paul Anderson,Home Office,United States,Port Debra,Florida,East,Office Supplies,Art,Art - Model Control,1425.5,6,0.0,326.56
+CA-2025-10808,2024-03-21,2024-03-24,Second Class,CUST-145,Joseph Garcia PhD,Consumer,United States,Port Don,Colorado,East,Furniture,Tables,Tables - Model Live,1385.59,8,0.1,245.32
+CA-2025-10809,2024-06-26,2024-06-28,Second Class,CUST-295,Mitchell Russell,Consumer,United States,North Aaronview,North Dakota,Central,Electronics,Audio,Audio - Model Before,706.27,3,0.3,225.3
+CA-2025-10810,2025-04-09,2025-04-11,First Class,CUST-152,Henry Osborne,Corporate,United States,Alejandraborough,Washington,Central,Office Supplies,Storage,Storage - Model Others,412.62,1,0.2,164.23
+CA-2025-10811,2023-01-08,2023-01-09,Standard Class,CUST-116,Deborah Robinson,Home Office,United States,New Sarahchester,Missouri,West,Furniture,Tables,Tables - Model Soldier,1213.36,1,0.3,144.88
+CA-2025-10812,2025-04-28,2025-05-02,Same Day,CUST-239,Paul Reyes,Home Office,United States,South Haroldmouth,Oregon,West,Electronics,Smartphones,Smartphones - Model Require,954.04,10,0.1,260.8
+CA-2025-10813,2025-08-11,2025-08-13,First Class,CUST-208,Austin Gomez,Corporate,United States,North Briannahaven,Vermont,Central,Electronics,Audio,Audio - Model Parent,827.63,2,0.3,240.83
+CA-2025-10814,2024-03-25,2024-03-30,First Class,CUST-220,Veronica Franklin,Home Office,United States,Gonzalezmouth,West Virginia,East,Office Supplies,Paper,Paper - Model Environmental,1423.31,5,0.1,584.19
+CA-2025-10815,2024-11-06,2024-11-07,Second Class,CUST-144,Debra Weaver,Corporate,United States,New Teresa,Louisiana,West,Furniture,Chairs,Chairs - Model Painting,396.25,3,0.0,123.6
+CA-2025-10816,2025-11-19,2025-11-20,Same Day,CUST-163,Nicole Mitchell,Corporate,United States,East Clairehaven,New Hampshire,West,Electronics,Laptops,Laptops - Model Follow,549.55,8,0.1,214.72
+CA-2025-10817,2024-01-17,2024-01-21,First Class,CUST-136,Judy Walsh,Corporate,United States,Lake Maryland,Rhode Island,East,Office Supplies,Binders,Binders - Model Assume,336.12,1,0.3,88.13
+CA-2025-10818,2023-08-19,2023-08-21,First Class,CUST-246,Matthew Campbell,Home Office,United States,Millerfort,Kentucky,Central,Furniture,Furnishings,Furnishings - Model Mission,24.56,8,0.0,10.23
+CA-2025-10819,2023-03-12,2023-03-14,Same Day,CUST-187,Rebecca Velez,Consumer,United States,Walterside,West Virginia,Central,Office Supplies,Art,Art - Model Fill,114.06,9,0.2,22.28
+CA-2025-10820,2023-10-16,2023-10-20,Second Class,CUST-261,Angela Chavez,Consumer,United States,Tylertown,Washington,West,Office Supplies,Art,Art - Model Direction,1172.51,5,0.3,166.56
+CA-2025-10821,2025-12-29,2026-01-02,Same Day,CUST-151,Sheri Conrad,Home Office,United States,Jenniferland,Georgia,South,Furniture,Chairs,Chairs - Model How,320.19,9,0.0,122.47
+CA-2025-10822,2025-04-23,2025-04-25,Second Class,CUST-270,Anthony Coleman,Home Office,United States,Lake Madison,Kansas,West,Electronics,Smartphones,Smartphones - Model Right,764.12,2,0.0,345.26
+CA-2025-10823,2023-04-16,2023-04-21,Second Class,CUST-273,Erin Wilson,Corporate,United States,Cynthiashire,New Hampshire,West,Office Supplies,Storage,Storage - Model Should,355.47,8,0.2,73.95
+CA-2025-10824,2024-09-10,2024-09-12,First Class,CUST-256,Jennifer Best,Corporate,United States,Randyshire,West Virginia,East,Furniture,Tables,Tables - Model If,661.07,8,0.1,259.09
+CA-2025-10825,2025-04-22,2025-04-24,Second Class,CUST-245,Brandon Cook,Corporate,United States,West Sarashire,Idaho,Central,Office Supplies,Paper,Paper - Model Room,803.08,7,0.5,167.5
+CA-2025-10826,2024-12-14,2024-12-17,Standard Class,CUST-204,Richard Ryan Jr.,Home Office,United States,Jesusstad,Ohio,South,Office Supplies,Paper,Paper - Model Standard,1488.31,6,0.0,614.03
+CA-2025-10827,2023-10-19,2023-10-22,First Class,CUST-149,Robert Garcia,Home Office,United States,Chadmouth,South Carolina,Central,Electronics,Smartphones,Smartphones - Model Race,373.33,2,0.2,137.81
+CA-2025-10828,2025-11-17,2025-11-20,First Class,CUST-117,Richard Davidson,Home Office,United States,Chadhaven,Georgia,South,Electronics,Accessories,Accessories - Model Term,368.47,10,0.2,141.59
+CA-2025-10829,2023-12-11,2023-12-13,Second Class,CUST-263,Rebecca Rowe,Corporate,United States,North David,Oregon,East,Office Supplies,Art,Art - Model A,743.58,4,0.0,282.37
+CA-2025-10830,2025-12-09,2025-12-12,Standard Class,CUST-170,Cindy Robles,Consumer,United States,Martinview,Wisconsin,West,Office Supplies,Art,Art - Model Act,63.13,4,0.0,22.3
+CA-2025-10831,2025-09-25,2025-09-26,Standard Class,CUST-207,Craig Mclean,Home Office,United States,Hoffmanberg,Utah,East,Office Supplies,Art,Art - Model Staff,662.74,3,0.5,132.84
+CA-2025-10832,2025-11-16,2025-11-18,Same Day,CUST-199,Jillian Stein,Consumer,United States,New Timothyhaven,North Carolina,East,Office Supplies,Binders,Binders - Model Us,704.59,6,0.2,200.88
+CA-2025-10833,2024-08-30,2024-08-31,Standard Class,CUST-122,Emily Adams,Home Office,United States,Rodneyside,Mississippi,West,Electronics,Accessories,Accessories - Model Several,394.28,6,0.2,145.07
+CA-2025-10834,2025-06-08,2025-06-10,First Class,CUST-122,James Lucas,Home Office,United States,Lake Matthew,Oklahoma,South,Electronics,Audio,Audio - Model Chance,1111.76,5,0.2,279.88
+CA-2025-10835,2025-03-14,2025-03-18,Second Class,CUST-265,Kevin Singleton,Corporate,United States,Lake Latoyabury,New Hampshire,West,Furniture,Bookcases,Bookcases - Model Attention,1051.79,7,0.2,208.3
+CA-2025-10836,2023-06-05,2023-06-09,Second Class,CUST-204,Amy Smith,Corporate,United States,Sarashire,Indiana,East,Furniture,Furnishings,Furnishings - Model Fact,618.35,1,0.5,116.25
+CA-2025-10837,2023-07-30,2023-08-03,First Class,CUST-209,John Reyes,Corporate,United States,Victoriamouth,West Virginia,South,Furniture,Furnishings,Furnishings - Model Keep,1424.87,10,0.5,117.34
+CA-2025-10838,2023-02-17,2023-02-18,First Class,CUST-149,Carla Harrison,Home Office,United States,Suzanneview,New Mexico,Central,Furniture,Chairs,Chairs - Model Chance,852.03,1,0.0,167.81
+CA-2025-10839,2025-09-30,2025-10-05,First Class,CUST-253,Susan Flores,Consumer,United States,Dominguezmouth,Virginia,West,Electronics,Audio,Audio - Model It,966.38,7,0.2,116.77
+CA-2025-10840,2023-01-21,2023-01-26,First Class,CUST-101,Michael Griffin,Corporate,United States,New Benjamin,Maine,Central,Electronics,Laptops,Laptops - Model Perform,1062.79,9,0.1,280.56
+CA-2025-10841,2024-04-17,2024-04-22,Standard Class,CUST-288,Holly Shea,Corporate,United States,Phillipsview,Louisiana,Central,Office Supplies,Paper,Paper - Model Find,880.59,1,0.3,97.53
+CA-2025-10842,2023-05-12,2023-05-17,Second Class,CUST-291,Marissa Vargas,Consumer,United States,East Teresaton,Louisiana,West,Electronics,Smartphones,Smartphones - Model Article,1350.88,3,0.1,194.1
+CA-2025-10843,2025-03-12,2025-03-17,Same Day,CUST-193,Brian Jones,Consumer,United States,Carlosmouth,Colorado,West,Furniture,Furnishings,Furnishings - Model Among,1483.83,7,0.1,639.73
+CA-2025-10844,2025-11-28,2025-12-01,Second Class,CUST-176,Hannah Allison,Consumer,United States,East Emily,South Carolina,East,Furniture,Furnishings,Furnishings - Model Chance,28.12,8,0.5,2.71
+CA-2025-10845,2023-10-23,2023-10-26,Same Day,CUST-227,Jack Higgins,Corporate,United States,Lake Tomport,California,East,Electronics,Smartphones,Smartphones - Model Tree,211.76,5,0.1,33.88
+CA-2025-10846,2023-11-24,2023-11-25,Same Day,CUST-238,Pamela Gonzalez,Corporate,United States,North Stephanietown,Maine,West,Electronics,Audio,Audio - Model Without,1154.72,10,0.1,466.0
+CA-2025-10847,2023-01-31,2023-02-04,Standard Class,CUST-152,Gina Smith,Consumer,United States,East Jenniferton,Delaware,East,Office Supplies,Paper,Paper - Model Teacher,1198.72,3,0.3,237.35
+CA-2025-10848,2023-07-08,2023-07-13,Same Day,CUST-190,Timothy Castro,Corporate,United States,Wallaceberg,Oregon,East,Office Supplies,Binders,Binders - Model Allow,712.51,2,0.2,164.02
+CA-2025-10849,2024-05-28,2024-06-01,Second Class,CUST-220,David Stokes,Corporate,United States,Robertfort,Indiana,East,Electronics,Audio,Audio - Model Force,1058.13,2,0.5,142.61
+CA-2025-10850,2023-05-19,2023-05-24,Second Class,CUST-226,Shannon Elliott,Consumer,United States,Heathermouth,Minnesota,West,Electronics,Laptops,Laptops - Model Opportunity,242.44,5,0.0,99.43
+CA-2025-10851,2024-12-30,2024-12-31,First Class,CUST-176,Daniel Sherman,Corporate,United States,New Norman,Arizona,East,Office Supplies,Paper,Paper - Model While,1301.41,10,0.0,239.77
+CA-2025-10852,2024-08-24,2024-08-28,Standard Class,CUST-172,Vanessa Duarte,Consumer,United States,North Danielle,Kentucky,Central,Electronics,Accessories,Accessories - Model Talk,1491.88,4,0.1,371.41
+CA-2025-10853,2024-04-22,2024-04-26,Standard Class,CUST-211,Amber Harrell,Consumer,United States,North Saraland,Alabama,West,Furniture,Chairs,Chairs - Model Three,1227.96,6,0.2,397.22
+CA-2025-10854,2025-07-16,2025-07-21,Standard Class,CUST-112,Laura Cowan,Home Office,United States,Port Stevenmouth,Virginia,Central,Electronics,Laptops,Laptops - Model War,109.66,5,0.0,49.52
+CA-2025-10855,2025-02-24,2025-02-27,Same Day,CUST-200,Stephanie Campbell,Consumer,United States,Elizabethborough,Oklahoma,Central,Electronics,Laptops,Laptops - Model Eat,856.58,4,0.3,235.0
+CA-2025-10856,2024-02-23,2024-02-26,Second Class,CUST-289,Ethan Peterson,Home Office,United States,Lake Justinmouth,New Mexico,West,Electronics,Accessories,Accessories - Model Yes,1218.01,5,0.0,277.89
+CA-2025-10857,2025-08-18,2025-08-19,First Class,CUST-168,Linda Olsen,Corporate,United States,Brianmouth,Alabama,West,Electronics,Audio,Audio - Model Measure,366.02,1,0.0,119.73
+CA-2025-10858,2025-09-30,2025-10-03,First Class,CUST-103,Jason Rubio,Home Office,United States,East Erin,New Jersey,Central,Electronics,Audio,Audio - Model Far,202.52,8,0.5,17.53
+CA-2025-10859,2024-05-22,2024-05-23,Standard Class,CUST-292,Jean Martinez,Corporate,United States,Port Antonio,Vermont,East,Office Supplies,Binders,Binders - Model Provide,662.45,7,0.5,109.22
+CA-2025-10860,2023-09-25,2023-09-30,Same Day,CUST-140,Richard Watts,Home Office,United States,Lake Rebecca,Nevada,East,Electronics,Accessories,Accessories - Model Who,558.84,9,0.5,126.38
+CA-2025-10861,2024-03-22,2024-03-23,Second Class,CUST-290,Michael Berry,Corporate,United States,New Michelebury,Delaware,East,Electronics,Laptops,Laptops - Model By,454.25,4,0.0,187.67
+CA-2025-10862,2023-06-08,2023-06-09,Standard Class,CUST-142,Kimberly Davis,Home Office,United States,South Derekbury,Wyoming,West,Electronics,Accessories,Accessories - Model Around,660.58,10,0.5,102.0
+CA-2025-10863,2025-06-28,2025-07-02,Standard Class,CUST-236,Thomas Murphy,Consumer,United States,Gambleshire,Arizona,West,Electronics,Audio,Audio - Model Push,260.37,5,0.3,80.88
+CA-2025-10864,2025-11-28,2025-12-03,Standard Class,CUST-144,Sheila White,Consumer,United States,East Christophermouth,Maryland,Central,Office Supplies,Storage,Storage - Model Four,1248.3,3,0.2,220.49
+CA-2025-10865,2024-07-31,2024-08-04,Standard Class,CUST-195,Kimberly Shields,Consumer,United States,North Jesseland,Connecticut,South,Electronics,Laptops,Laptops - Model Smile,587.16,5,0.3,124.73
+CA-2025-10866,2023-04-01,2023-04-06,First Class,CUST-102,Michelle Ballard,Home Office,United States,South Christine,Kentucky,West,Furniture,Chairs,Chairs - Model Skill,566.28,8,0.3,92.85
+CA-2025-10867,2025-01-01,2025-01-02,Same Day,CUST-260,Linda Alexander,Consumer,United States,Jonesfurt,Mississippi,South,Furniture,Tables,Tables - Model Central,1368.7,3,0.5,158.16
+CA-2025-10868,2023-03-22,2023-03-27,Standard Class,CUST-150,Tiffany Young,Home Office,United States,Shawntown,California,East,Office Supplies,Paper,Paper - Model Owner,259.1,10,0.1,39.06
+CA-2025-10869,2023-10-08,2023-10-13,Same Day,CUST-241,Tracy Lopez,Corporate,United States,East Dana,Ohio,Central,Office Supplies,Storage,Storage - Model Economy,1119.43,7,0.1,324.14
+CA-2025-10870,2024-06-04,2024-06-05,Standard Class,CUST-168,Robert Gay,Corporate,United States,Taylorberg,Tennessee,South,Furniture,Furnishings,Furnishings - Model Community,955.2,6,0.1,429.55
+CA-2025-10871,2025-05-26,2025-05-27,First Class,CUST-194,Paul Ferguson,Corporate,United States,Jasonmouth,New Hampshire,West,Electronics,Accessories,Accessories - Model About,472.12,6,0.3,162.46
+CA-2025-10872,2025-09-30,2025-10-02,Second Class,CUST-124,Danielle Smith,Corporate,United States,Hooperfurt,South Dakota,South,Office Supplies,Paper,Paper - Model International,458.33,8,0.3,127.04
+CA-2025-10873,2025-05-23,2025-05-25,Same Day,CUST-175,Marc King,Home Office,United States,Kennethview,Wisconsin,South,Furniture,Tables,Tables - Model Tell,945.61,8,0.0,214.78
+CA-2025-10874,2025-12-11,2025-12-12,First Class,CUST-220,Rebecca Brown,Consumer,United States,Port Joshua,Ohio,West,Electronics,Laptops,Laptops - Model Three,269.21,7,0.1,77.77
+CA-2025-10875,2024-10-22,2024-10-24,Second Class,CUST-104,Antonio Mathews,Consumer,United States,West Christine,North Dakota,South,Office Supplies,Paper,Paper - Model Lawyer,94.87,1,0.3,15.92
+CA-2025-10876,2025-02-24,2025-02-27,Standard Class,CUST-111,Daniel Mcmahon,Consumer,United States,Youngland,Virginia,East,Electronics,Smartphones,Smartphones - Model Hope,509.86,2,0.2,90.77
+CA-2025-10877,2025-11-27,2025-12-01,First Class,CUST-296,Kelly Allen,Home Office,United States,Shannonhaven,Nevada,South,Office Supplies,Paper,Paper - Model Style,281.24,7,0.3,74.58
+CA-2025-10878,2024-11-04,2024-11-05,Second Class,CUST-209,Richard Hudson,Corporate,United States,Amandachester,New Hampshire,Central,Electronics,Audio,Audio - Model Effect,731.39,5,0.2,280.7
+CA-2025-10879,2024-04-06,2024-04-11,First Class,CUST-116,Melissa Keller,Corporate,United States,South Erintown,South Carolina,West,Furniture,Bookcases,Bookcases - Model Moment,983.28,10,0.1,204.93
+CA-2025-10880,2025-05-06,2025-05-07,Same Day,CUST-110,Andrew Mcfarland,Corporate,United States,Port Tammy,Michigan,East,Furniture,Tables,Tables - Model Least,1326.46,10,0.1,585.38
+CA-2025-10881,2025-07-30,2025-08-04,Standard Class,CUST-181,Ashley Garcia,Consumer,United States,West Derrickmouth,New Mexico,Central,Furniture,Chairs,Chairs - Model Not,911.04,3,0.2,245.2
+CA-2025-10882,2025-01-05,2025-01-08,Same Day,CUST-240,Gerald Lamb,Consumer,United States,Markview,West Virginia,Central,Electronics,Accessories,Accessories - Model Right,1330.86,7,0.1,217.15
+CA-2025-10883,2025-10-20,2025-10-22,First Class,CUST-121,Chelsea Hansen,Consumer,United States,Davidchester,Ohio,West,Furniture,Furnishings,Furnishings - Model Take,1279.08,10,0.0,390.15
+CA-2025-10884,2025-01-22,2025-01-27,Same Day,CUST-130,Gary Smith,Corporate,United States,New Robert,South Dakota,West,Furniture,Bookcases,Bookcases - Model President,585.77,10,0.1,171.33
+CA-2025-10885,2023-08-25,2023-08-30,First Class,CUST-129,Antonio Snyder,Home Office,United States,Lake James,West Virginia,West,Office Supplies,Binders,Binders - Model Seven,1017.02,3,0.2,290.61
+CA-2025-10886,2024-11-25,2024-11-30,Standard Class,CUST-223,Angela Foster,Corporate,United States,Camposport,Ohio,South,Furniture,Tables,Tables - Model Country,1219.79,6,0.5,303.25
+CA-2025-10887,2025-06-13,2025-06-17,Same Day,CUST-269,Laura Esparza,Home Office,United States,North Kimberlyland,Wisconsin,South,Office Supplies,Paper,Paper - Model Marriage,695.37,3,0.5,84.75
+CA-2025-10888,2024-06-08,2024-06-10,Standard Class,CUST-176,Mary Burke,Corporate,United States,Christopherville,Arizona,Central,Electronics,Laptops,Laptops - Model Street,402.86,9,0.1,146.36
+CA-2025-10889,2025-09-26,2025-09-28,Standard Class,CUST-111,Ralph Smith II,Corporate,United States,Yatesstad,Massachusetts,West,Electronics,Smartphones,Smartphones - Model Improve,1353.72,1,0.5,182.94
+CA-2025-10890,2024-12-21,2024-12-22,First Class,CUST-142,Marc Gomez,Corporate,United States,Heathmouth,Minnesota,East,Office Supplies,Art,Art - Model About,694.25,10,0.1,244.72
+CA-2025-10891,2025-05-02,2025-05-05,Same Day,CUST-187,Christopher Adkins,Consumer,United States,Lake Anneshire,Virginia,Central,Electronics,Audio,Audio - Model Interview,1440.55,2,0.2,202.96
+CA-2025-10892,2023-05-02,2023-05-05,Second Class,CUST-188,Lisa Gonzalez,Consumer,United States,Lake Karenshire,Georgia,West,Office Supplies,Storage,Storage - Model Fact,1186.91,3,0.5,222.55
+CA-2025-10893,2025-04-25,2025-04-28,First Class,CUST-249,Thomas Vasquez,Home Office,United States,Williamshire,New Jersey,East,Electronics,Accessories,Accessories - Model Hand,788.55,9,0.0,298.61
+CA-2025-10894,2025-10-27,2025-10-28,Same Day,CUST-280,John Smith,Consumer,United States,Robertberg,Arkansas,West,Furniture,Tables,Tables - Model Word,898.06,4,0.5,197.92
+CA-2025-10895,2025-06-10,2025-06-15,Second Class,CUST-288,Bethany Palmer,Consumer,United States,Foxhaven,Connecticut,South,Electronics,Smartphones,Smartphones - Model Provide,1063.59,5,0.0,441.67
+CA-2025-10896,2025-04-05,2025-04-07,Standard Class,CUST-132,Misty Carr,Home Office,United States,Singhmouth,Virginia,Central,Office Supplies,Paper,Paper - Model Radio,1486.71,8,0.3,456.21
+CA-2025-10897,2023-09-03,2023-09-08,First Class,CUST-154,Nancy Cox,Consumer,United States,New Joshuaburgh,Indiana,West,Office Supplies,Paper,Paper - Model Soldier,567.75,9,0.3,147.47
+CA-2025-10898,2023-12-20,2023-12-21,Same Day,CUST-236,Joseph Baker,Home Office,United States,East Barbara,Oregon,West,Office Supplies,Art,Art - Model Physical,1287.21,10,0.3,319.42
+CA-2025-10899,2023-11-20,2023-11-25,Same Day,CUST-229,Teresa Graham,Home Office,United States,Pattersonshire,California,East,Electronics,Accessories,Accessories - Model Sense,1472.84,6,0.3,276.84
+CA-2025-10900,2025-12-18,2025-12-22,Second Class,CUST-282,Jordan Clark,Consumer,United States,Lake Justinmouth,Wisconsin,West,Office Supplies,Art,Art - Model Daughter,417.05,8,0.3,120.13
+CA-2025-10901,2025-06-02,2025-06-05,First Class,CUST-250,Katie Franco,Consumer,United States,Cynthiahaven,Oregon,South,Electronics,Laptops,Laptops - Model For,732.99,4,0.1,137.22
+CA-2025-10902,2023-02-08,2023-02-11,Standard Class,CUST-232,Danny Howell,Corporate,United States,Cookland,Connecticut,East,Office Supplies,Storage,Storage - Model Follow,274.43,10,0.5,26.56
+CA-2025-10903,2023-03-10,2023-03-14,Second Class,CUST-208,Bryan Randall,Home Office,United States,Millerview,New Mexico,West,Electronics,Laptops,Laptops - Model Power,1151.43,10,0.1,307.38
+CA-2025-10904,2024-07-08,2024-07-09,Standard Class,CUST-275,Ronald Gonzalez,Corporate,United States,Gatesfurt,Oregon,South,Electronics,Laptops,Laptops - Model This,140.03,5,0.5,18.61
+CA-2025-10905,2024-07-30,2024-08-01,First Class,CUST-295,John Cook,Home Office,United States,South Brandiport,Arizona,Central,Electronics,Accessories,Accessories - Model Performance,1360.89,10,0.0,480.64
+CA-2025-10906,2023-12-10,2023-12-14,Same Day,CUST-222,Kenneth Morgan,Consumer,United States,Krystalton,Virginia,West,Furniture,Bookcases,Bookcases - Model Win,898.62,6,0.1,131.12
+CA-2025-10907,2024-11-19,2024-11-20,Second Class,CUST-222,Erik Davis,Consumer,United States,East Davidside,Alaska,West,Furniture,Bookcases,Bookcases - Model Air,1134.77,1,0.1,429.1
+CA-2025-10908,2023-04-24,2023-04-28,Second Class,CUST-247,Joseph Simpson,Corporate,United States,New Colinville,Michigan,South,Electronics,Audio,Audio - Model Agent,677.63,8,0.3,187.78
+CA-2025-10909,2024-02-11,2024-02-15,Standard Class,CUST-270,Tiffany Hill,Consumer,United States,Jordanmouth,Mississippi,West,Office Supplies,Paper,Paper - Model Remain,88.62,4,0.3,30.33
+CA-2025-10910,2025-05-05,2025-05-07,Second Class,CUST-255,Kristin Smith,Corporate,United States,West Jamesport,North Carolina,West,Electronics,Accessories,Accessories - Model Color,350.28,5,0.3,58.63
+CA-2025-10911,2025-08-16,2025-08-19,Standard Class,CUST-108,Bobby Stewart,Corporate,United States,South Andrea,Maine,Central,Electronics,Audio,Audio - Model Its,771.76,10,0.5,94.41
+CA-2025-10912,2025-11-26,2025-11-28,Second Class,CUST-137,Maria Freeman,Consumer,United States,East Courtney,Oregon,West,Electronics,Smartphones,Smartphones - Model Method,1327.63,8,0.0,427.64
+CA-2025-10913,2023-12-01,2023-12-03,Standard Class,CUST-147,Ricky Robinson,Corporate,United States,South Kevinmouth,Oregon,West,Furniture,Bookcases,Bookcases - Model Late,1072.12,1,0.1,206.69
+CA-2025-10914,2025-03-04,2025-03-09,Standard Class,CUST-151,Noah Elliott,Corporate,United States,Lake David,Arkansas,South,Office Supplies,Binders,Binders - Model Artist,857.72,6,0.1,255.39
+CA-2025-10915,2025-07-26,2025-07-30,Same Day,CUST-118,Belinda Flores,Home Office,United States,New Christinaside,Montana,South,Office Supplies,Binders,Binders - Model Reveal,460.79,9,0.5,37.18
+CA-2025-10916,2023-01-29,2023-02-02,Same Day,CUST-173,Taylor Leblanc,Consumer,United States,Lake Scottfort,Georgia,East,Furniture,Chairs,Chairs - Model Affect,326.66,9,0.3,74.99
+CA-2025-10917,2025-05-22,2025-05-23,Standard Class,CUST-197,Patrick Bryant,Corporate,United States,Marialand,Vermont,West,Furniture,Furnishings,Furnishings - Model Wish,1330.4,4,0.3,278.75
+CA-2025-10918,2024-05-15,2024-05-16,Second Class,CUST-250,Linda Thornton,Home Office,United States,Wilsonport,Indiana,East,Office Supplies,Paper,Paper - Model Skill,974.67,7,0.1,213.09
+CA-2025-10919,2023-04-30,2023-05-05,First Class,CUST-120,Susan Brown DVM,Corporate,United States,Adriantown,North Dakota,Central,Office Supplies,Paper,Paper - Model Outside,117.26,6,0.1,40.81
+CA-2025-10920,2024-01-21,2024-01-26,Second Class,CUST-246,Christine Roberts,Corporate,United States,North Alexanderside,Wisconsin,Central,Office Supplies,Binders,Binders - Model Physical,288.2,1,0.2,73.33
+CA-2025-10921,2024-04-28,2024-05-03,Same Day,CUST-239,Megan Harrison,Consumer,United States,Ruthshire,Alabama,East,Office Supplies,Paper,Paper - Model Current,924.27,1,0.3,170.99
+CA-2025-10922,2025-10-27,2025-11-01,First Class,CUST-171,Jeffrey Taylor,Consumer,United States,Hoffmanport,Nevada,West,Furniture,Chairs,Chairs - Model Support,1375.43,2,0.1,596.36
+CA-2025-10923,2024-06-06,2024-06-09,Second Class,CUST-251,Robert Delgado,Consumer,United States,New Steveberg,Arkansas,South,Furniture,Tables,Tables - Model Vote,912.48,8,0.3,148.76
+CA-2025-10924,2023-07-30,2023-08-02,Same Day,CUST-243,Carolyn Henderson,Corporate,United States,Herreratown,New Jersey,East,Electronics,Audio,Audio - Model Throughout,241.82,8,0.0,108.0
+CA-2025-10925,2024-09-22,2024-09-27,Standard Class,CUST-153,Blake Mcbride,Home Office,United States,Wilcoxfurt,Oregon,East,Furniture,Furnishings,Furnishings - Model Tend,1222.31,6,0.5,200.12
+CA-2025-10926,2025-12-03,2025-12-05,Second Class,CUST-219,Debra Bailey,Consumer,United States,Kimberlyview,South Carolina,South,Furniture,Tables,Tables - Model Not,1140.88,9,0.3,355.02
+CA-2025-10927,2025-11-13,2025-11-16,First Class,CUST-261,David Rivera,Corporate,United States,Reyesport,Oregon,East,Office Supplies,Binders,Binders - Model Director,484.14,6,0.0,175.97
+CA-2025-10928,2023-01-09,2023-01-14,Second Class,CUST-116,Richard Williams,Home Office,United States,New Carloston,Missouri,South,Electronics,Audio,Audio - Model Practice,291.13,4,0.5,24.25
+CA-2025-10929,2024-04-24,2024-04-28,Same Day,CUST-288,Jasmine Taylor,Consumer,United States,Walkertown,New Hampshire,South,Electronics,Laptops,Laptops - Model Method,341.91,6,0.5,75.12
+CA-2025-10930,2024-12-28,2024-12-29,First Class,CUST-183,Matthew Bailey,Home Office,United States,Longfurt,California,West,Electronics,Laptops,Laptops - Model Beyond,172.54,8,0.0,66.22
+CA-2025-10931,2023-09-11,2023-09-16,First Class,CUST-147,Ricky Davis,Corporate,United States,North Raymondtown,North Carolina,South,Furniture,Bookcases,Bookcases - Model Work,226.67,3,0.3,27.24
+CA-2025-10932,2025-06-11,2025-06-13,Same Day,CUST-260,Mrs. Rachael Ibarra,Corporate,United States,Fisherborough,Ohio,South,Furniture,Bookcases,Bookcases - Model Western,1132.64,3,0.1,206.89
+CA-2025-10933,2024-02-02,2024-02-04,Same Day,CUST-160,Lauren Clarke,Home Office,United States,West Robertborough,Arkansas,East,Office Supplies,Binders,Binders - Model Claim,147.15,10,0.2,48.84
+CA-2025-10934,2024-02-07,2024-02-10,Same Day,CUST-299,Theresa Wong,Consumer,United States,Adkinston,Florida,Central,Office Supplies,Storage,Storage - Model Else,224.78,10,0.5,55.27
+CA-2025-10935,2025-05-05,2025-05-07,Same Day,CUST-103,David Pierce,Consumer,United States,West Patrick,Minnesota,Central,Office Supplies,Binders,Binders - Model Pay,555.17,6,0.5,92.18
+CA-2025-10936,2024-08-31,2024-09-01,Standard Class,CUST-123,Michelle Rogers,Consumer,United States,Justinfurt,New Mexico,East,Electronics,Smartphones,Smartphones - Model Fund,1321.16,10,0.1,242.01
+CA-2025-10937,2024-08-01,2024-08-02,Second Class,CUST-234,Ian Olson,Consumer,United States,Travisside,Wyoming,East,Furniture,Bookcases,Bookcases - Model Simple,337.09,4,0.3,103.28
+CA-2025-10938,2024-06-11,2024-06-16,Standard Class,CUST-278,Brooke Pittman,Consumer,United States,East John,Montana,East,Electronics,Audio,Audio - Model Quickly,1496.88,4,0.3,346.04
+CA-2025-10939,2025-04-10,2025-04-14,Same Day,CUST-133,Jennifer Ruiz,Home Office,United States,East Natalie,Maine,Central,Electronics,Smartphones,Smartphones - Model Yet,880.86,1,0.2,349.8
+CA-2025-10940,2023-02-12,2023-02-13,First Class,CUST-231,Lori Valentine,Consumer,United States,Conniefort,California,Central,Office Supplies,Paper,Paper - Model Glass,1172.43,7,0.5,143.01
+CA-2025-10941,2025-09-01,2025-09-02,First Class,CUST-160,John Reynolds,Corporate,United States,North Daniel,Utah,West,Office Supplies,Storage,Storage - Model Never,1237.2,9,0.0,367.71
+CA-2025-10942,2024-11-26,2024-11-27,First Class,CUST-185,Brenda Taylor,Consumer,United States,Douglasside,Florida,South,Furniture,Tables,Tables - Model Generation,157.57,2,0.3,45.22
+CA-2025-10943,2025-06-12,2025-06-17,Same Day,CUST-277,Julie Stone,Home Office,United States,South Brianberg,Oregon,South,Furniture,Furnishings,Furnishings - Model Record,244.74,7,0.1,67.65
+CA-2025-10944,2025-06-29,2025-07-01,First Class,CUST-251,Eric Parker,Corporate,United States,Melissaborough,Hawaii,East,Office Supplies,Storage,Storage - Model Inside,231.17,1,0.3,49.13
+CA-2025-10945,2025-12-16,2025-12-17,First Class,CUST-103,Amber Johnson,Consumer,United States,Banksview,Minnesota,South,Electronics,Laptops,Laptops - Model Probably,302.17,7,0.3,75.87
+CA-2025-10946,2023-09-24,2023-09-28,Same Day,CUST-121,Mario Davis,Home Office,United States,North Stacyhaven,New Hampshire,East,Office Supplies,Binders,Binders - Model Experience,1055.71,3,0.5,257.15
+CA-2025-10947,2023-06-05,2023-06-10,First Class,CUST-240,Mark Kelly,Consumer,United States,Sanchezbury,Rhode Island,West,Furniture,Tables,Tables - Model Forward,1068.47,5,0.1,192.42
+CA-2025-10948,2023-02-09,2023-02-11,Same Day,CUST-170,Gary Gill,Home Office,United States,Meganton,Wyoming,East,Office Supplies,Paper,Paper - Model Those,205.75,9,0.3,22.71
+CA-2025-10949,2024-10-05,2024-10-09,Same Day,CUST-249,Belinda Lynch,Home Office,United States,Jasonshire,Delaware,East,Electronics,Smartphones,Smartphones - Model Now,48.73,3,0.3,11.12
+CA-2025-10950,2023-02-13,2023-02-15,Second Class,CUST-163,Anthony Norman,Corporate,United States,Matthewbury,Hawaii,South,Office Supplies,Storage,Storage - Model Great,99.74,1,0.2,34.23
+CA-2025-10951,2023-12-29,2023-12-31,First Class,CUST-227,Dustin Barrett,Home Office,United States,Martinside,Nevada,East,Furniture,Furnishings,Furnishings - Model Mr,537.59,7,0.3,173.08
+CA-2025-10952,2023-03-11,2023-03-14,Standard Class,CUST-209,Rebecca Lopez,Home Office,United States,Owensbury,Ohio,Central,Furniture,Furnishings,Furnishings - Model Such,94.7,1,0.5,14.98
+CA-2025-10953,2023-04-01,2023-04-02,Same Day,CUST-241,Bethany Anthony,Consumer,United States,Livingstonshire,Tennessee,West,Furniture,Bookcases,Bookcases - Model Final,1211.65,3,0.5,245.33
+CA-2025-10954,2023-03-02,2023-03-03,Second Class,CUST-238,Jonathan Carter,Corporate,United States,Jameschester,Louisiana,East,Electronics,Audio,Audio - Model Idea,898.02,1,0.5,214.41
+CA-2025-10955,2024-05-09,2024-05-12,Standard Class,CUST-254,Joseph Acevedo,Corporate,United States,South Shannon,Texas,South,Office Supplies,Paper,Paper - Model Bag,1220.27,7,0.2,230.38
+CA-2025-10956,2024-05-23,2024-05-24,Same Day,CUST-100,Christopher Norton,Home Office,United States,Virginiamouth,New York,West,Furniture,Furnishings,Furnishings - Model Entire,698.5,3,0.1,244.16
+CA-2025-10957,2025-09-12,2025-09-14,Standard Class,CUST-165,Michael Yates,Consumer,United States,Lake Sarah,Ohio,Central,Furniture,Bookcases,Bookcases - Model She,132.16,4,0.3,31.85
+CA-2025-10958,2024-09-21,2024-09-26,Same Day,CUST-126,Cynthia Alexander,Corporate,United States,New Diane,Mississippi,East,Furniture,Tables,Tables - Model Discover,765.39,8,0.0,170.96
+CA-2025-10959,2025-05-15,2025-05-20,First Class,CUST-194,Cole Lee,Home Office,United States,South Debraburgh,Wyoming,West,Office Supplies,Paper,Paper - Model Role,242.43,5,0.3,47.95
+CA-2025-10960,2024-05-12,2024-05-16,Second Class,CUST-133,Mario Taylor,Home Office,United States,Christopherfort,Rhode Island,West,Furniture,Tables,Tables - Model Capital,761.0,7,0.5,113.68
+CA-2025-10961,2024-08-02,2024-08-05,Second Class,CUST-166,Christopher Robinson,Consumer,United States,Benjaminhaven,Minnesota,Central,Office Supplies,Art,Art - Model Thank,1014.1,7,0.0,285.67
+CA-2025-10962,2025-04-29,2025-05-03,Same Day,CUST-122,Deborah Jones,Home Office,United States,Donaldtown,Tennessee,South,Office Supplies,Paper,Paper - Model Success,383.76,4,0.3,62.32
+CA-2025-10963,2023-09-21,2023-09-26,Same Day,CUST-143,Jodi Ibarra,Consumer,United States,Christopherland,Arizona,East,Furniture,Chairs,Chairs - Model Truth,810.93,2,0.0,277.96
+CA-2025-10964,2025-01-26,2025-01-28,Second Class,CUST-155,Andres Smith,Home Office,United States,Barbershire,New Jersey,East,Office Supplies,Art,Art - Model Summer,271.78,6,0.3,29.07
+CA-2025-10965,2023-11-14,2023-11-15,Second Class,CUST-103,Paul Hodges,Home Office,United States,North Amanda,Georgia,Central,Office Supplies,Storage,Storage - Model Brother,36.59,9,0.3,5.45
+CA-2025-10966,2025-02-22,2025-02-26,Second Class,CUST-253,Cynthia Porter,Consumer,United States,Heathermouth,Illinois,Central,Furniture,Tables,Tables - Model Record,1096.94,7,0.2,153.63
+CA-2025-10967,2023-02-03,2023-02-07,Standard Class,CUST-101,Sandra Bradley,Consumer,United States,North Ashleetown,Ohio,East,Electronics,Smartphones,Smartphones - Model Expert,162.89,7,0.2,29.99
+CA-2025-10968,2023-07-25,2023-07-28,Second Class,CUST-135,Brian Holloway,Home Office,United States,Brookehaven,Missouri,West,Electronics,Audio,Audio - Model Guy,601.21,5,0.0,165.32
+CA-2025-10969,2025-10-03,2025-10-08,Same Day,CUST-106,Vincent Bishop,Consumer,United States,Andersonshire,Nevada,Central,Office Supplies,Binders,Binders - Model Treat,187.29,5,0.2,70.18
+CA-2025-10970,2024-06-17,2024-06-18,First Class,CUST-176,Donald Conway,Corporate,United States,Sarahmouth,Pennsylvania,Central,Electronics,Laptops,Laptops - Model Reality,208.02,8,0.5,42.02
+CA-2025-10971,2024-05-18,2024-05-23,First Class,CUST-237,Dr. Jason Dickerson MD,Home Office,United States,Lake Jodichester,Louisiana,East,Electronics,Laptops,Laptops - Model Carry,1390.5,6,0.5,153.3
+CA-2025-10972,2023-02-21,2023-02-23,Standard Class,CUST-170,Kristine Wright,Home Office,United States,Louismouth,Kansas,South,Office Supplies,Paper,Paper - Model Building,310.1,9,0.3,62.67
+CA-2025-10973,2025-02-03,2025-02-05,Second Class,CUST-213,Terry Ellis,Corporate,United States,Gallowaytown,Idaho,Central,Electronics,Smartphones,Smartphones - Model Physical,1150.28,2,0.5,232.85
+CA-2025-10974,2025-09-20,2025-09-21,First Class,CUST-273,Alexandria Mcmahon,Home Office,United States,New Gregoryshire,South Dakota,South,Furniture,Tables,Tables - Model Determine,1328.88,6,0.3,407.28
+CA-2025-10975,2025-05-21,2025-05-22,Second Class,CUST-153,Eric James,Consumer,United States,Orrshire,Kentucky,East,Electronics,Accessories,Accessories - Model Successful,421.64,2,0.0,191.92
+CA-2025-10976,2024-12-08,2024-12-09,First Class,CUST-114,Sabrina King,Consumer,United States,Hernandezberg,California,East,Electronics,Accessories,Accessories - Model Material,899.56,3,0.0,227.93
+CA-2025-10977,2023-10-26,2023-10-31,Standard Class,CUST-137,Rebecca Barton,Consumer,United States,Hahnton,Iowa,West,Furniture,Tables,Tables - Model Including,260.43,1,0.1,78.96
+CA-2025-10978,2025-04-27,2025-04-30,First Class,CUST-274,Joshua Smith,Home Office,United States,Jonathanshire,Texas,South,Furniture,Chairs,Chairs - Model Spend,295.9,10,0.2,80.93
+CA-2025-10979,2023-07-14,2023-07-16,Standard Class,CUST-262,Christopher Delgado,Home Office,United States,Port Danielmouth,Hawaii,South,Furniture,Tables,Tables - Model Would,21.69,3,0.2,5.54
+CA-2025-10980,2024-06-09,2024-06-12,Standard Class,CUST-112,Lauren Hoffman,Home Office,United States,Johnsonhaven,Indiana,East,Office Supplies,Art,Art - Model Recent,1336.3,5,0.3,323.61
+CA-2025-10981,2025-08-01,2025-08-05,First Class,CUST-295,Paul Davis,Consumer,United States,Weissmouth,North Carolina,East,Furniture,Furnishings,Furnishings - Model Indeed,1143.05,5,0.3,195.32
+CA-2025-10982,2024-06-12,2024-06-17,Same Day,CUST-171,Patrick Howard,Consumer,United States,Staceyborough,Massachusetts,Central,Office Supplies,Art,Art - Model Own,1076.82,3,0.0,284.02
+CA-2025-10983,2025-08-08,2025-08-11,Standard Class,CUST-119,Amy Lopez,Home Office,United States,Nashburgh,Washington,Central,Electronics,Smartphones,Smartphones - Model Language,1394.81,9,0.0,452.14
+CA-2025-10984,2024-07-22,2024-07-24,Standard Class,CUST-210,Jeffery Grant,Corporate,United States,East Rebecca,North Dakota,West,Office Supplies,Paper,Paper - Model Reveal,1072.37,6,0.2,366.37
+CA-2025-10985,2024-02-03,2024-02-06,First Class,CUST-287,Tracy Reynolds,Home Office,United States,Tylerville,New Hampshire,Central,Office Supplies,Art,Art - Model We,251.49,7,0.3,77.83
+CA-2025-10986,2024-06-21,2024-06-24,First Class,CUST-200,Melissa Reid DVM,Corporate,United States,East Samanthaton,Arizona,South,Furniture,Tables,Tables - Model Official,829.32,10,0.2,111.99
+CA-2025-10987,2024-06-25,2024-06-30,Second Class,CUST-196,Tyler Simmons,Home Office,United States,New Jeromefurt,Nevada,West,Office Supplies,Binders,Binders - Model Customer,511.42,5,0.1,135.27
+CA-2025-10988,2023-11-05,2023-11-10,Same Day,CUST-198,Christopher Zhang,Home Office,United States,Toddview,Hawaii,Central,Electronics,Audio,Audio - Model Store,95.45,2,0.1,28.97
+CA-2025-10989,2024-10-22,2024-10-27,Standard Class,CUST-150,Helen Hendrix,Home Office,United States,Mcdanielbury,Wyoming,East,Furniture,Tables,Tables - Model Card,212.85,6,0.2,71.19
+CA-2025-10990,2023-06-10,2023-06-13,Standard Class,CUST-250,Robin Atkins,Home Office,United States,West Nicoleburgh,South Carolina,West,Furniture,Chairs,Chairs - Model Meeting,661.11,10,0.5,107.64
+CA-2025-10991,2025-03-01,2025-03-04,Standard Class,CUST-113,Elizabeth Stephens,Home Office,United States,New Annton,Nevada,East,Electronics,Smartphones,Smartphones - Model Song,1389.73,9,0.2,495.14
+CA-2025-10992,2023-12-11,2023-12-12,Second Class,CUST-228,Catherine Gonzalez,Corporate,United States,Wilsonstad,Oregon,Central,Office Supplies,Art,Art - Model Approach,785.97,3,0.1,121.41
+CA-2025-10993,2024-02-24,2024-02-27,First Class,CUST-174,Laura Ward PhD,Corporate,United States,New Ashleyborough,Minnesota,East,Electronics,Laptops,Laptops - Model Bring,911.08,7,0.5,161.25
+CA-2025-10994,2023-04-12,2023-04-14,First Class,CUST-288,Jason Calderon,Corporate,United States,Patriciaberg,South Dakota,Central,Office Supplies,Storage,Storage - Model Exist,413.9,8,0.0,198.62
+CA-2025-10995,2025-06-10,2025-06-11,First Class,CUST-163,Dennis Estrada,Consumer,United States,Jeremymouth,Kansas,South,Electronics,Audio,Audio - Model Business,1065.24,7,0.0,224.08
+CA-2025-10996,2025-04-06,2025-04-10,Same Day,CUST-128,Michael Buckley,Home Office,United States,Alexandratown,Nebraska,South,Furniture,Bookcases,Bookcases - Model School,585.08,5,0.2,151.24
+CA-2025-10997,2023-09-25,2023-09-30,Second Class,CUST-299,Jennifer Peterson,Consumer,United States,East Janicemouth,Kentucky,West,Office Supplies,Paper,Paper - Model Project,742.47,7,0.1,143.8
+CA-2025-10998,2025-06-28,2025-06-29,First Class,CUST-208,Jamie Moon,Consumer,United States,Lindaside,Rhode Island,West,Office Supplies,Art,Art - Model Data,893.28,3,0.0,350.34
+CA-2025-10999,2025-09-10,2025-09-11,Same Day,CUST-282,Brett Cruz,Consumer,United States,Zavalafort,Louisiana,West,Electronics,Audio,Audio - Model Blood,1045.4,3,0.3,168.55
+CA-2025-11000,2024-04-15,2024-04-17,Second Class,CUST-296,Donald Armstrong,Corporate,United States,Lake Chelsea,Nevada,West,Electronics,Audio,Audio - Model Evidence,389.07,4,0.1,172.86
